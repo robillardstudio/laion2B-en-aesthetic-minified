@@ -1,0 +1,1 @@
+details at https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md
