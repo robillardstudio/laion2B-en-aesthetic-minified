@@ -1,0 +1,206 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lebanon in a Picture</title>
+    <meta name="description" content="Let&#x27;s create together the ultimate Lebanese gallery. Share ur work on our website so we can show the world about our Lebanon! #lebanoninapicture" />
+    <link rel="stylesheet" href="/css/site.css?v=vncnaKveT4JPvt0p5kY0KvNzhaXvnRxRZE8A9ETzEKg" />
+    <meta name="author" content="Lebanon in a Picture">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/icons/favicon-96x96.png">
+    <link rel="manifest" href="/images/icons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/images/icons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RD02MDMCY2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-RD02MDMCY2');
+    </script>
+</head>
+<body>
+    <main>
+        <header>
+    <a href="/"><img src="/images/logo.png" alt="Lebanon in a Picture" /></a>
+    <nav>
+        <button><span>Toggle Menu</span></button>
+        <menu>
+            <div>
+                    <ul>
+            <li ><a href="//">Home</a>
+                
+            </li>
+            <li ><a href="/pictures">Pictures</a>
+                
+            </li>
+            <li ><a href="/blog">Blog</a>
+                
+            </li>
+            <li ><a href="/panoramic-360">Panoramic &amp; 360</a>
+                
+            </li>
+            <li ><a href="/videos">Videos</a>
+                
+            </li>
+            <li ><a href="/#">Browse</a>
+                    <ul>
+            <li ><a href="/today-in-history">Today in History</a>
+                
+            </li>
+            <li ><a href="/popular-today">Popular Today</a>
+                
+            </li>
+            <li ><a href="/popular-this-week">Popular This Week</a>
+                
+            </li>
+            <li ><a href="/popular-this-month">Popular This Month</a>
+                
+            </li>
+            <li ><a href="/popular-this-year">Popular This Year</a>
+                
+            </li>
+            <li ><a href="/popular-all-time">Popular All Time</a>
+                
+            </li>
+            <li ><a href="/surprise-me">Surprise Me</a>
+                
+            </li>
+            <li ><a href="/undiscovered">Undiscovered</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li ><a href="/tags">Tags</a>
+                    <ul>
+            <li ><a href="/tags/Zahle">Zahle</a>
+                
+            </li>
+            <li ><a href="/tags/Religious">Religious</a>
+                
+            </li>
+            <li ><a href="/tags/Architecture">Architecture</a>
+                
+            </li>
+            <li ><a href="/tags/animals">Animals</a>
+                
+            </li>
+            <li ><a href="/tags/Sunrise">Sunrise</a>
+                
+            </li>
+            <li ><a href="/tags/Mountains">Mountains</a>
+                
+            </li>
+            <li ><a href="/tags/Sunset">Sunset</a>
+                
+            </li>
+            <li ><a href="/tags/summer">Summer</a>
+                
+            </li>
+            <li ><a href="/tags/fall">fall</a>
+                
+            </li>
+            <li ><a href="/tags/Art">Art</a>
+                
+            </li>
+            <li ><a href="/tags/Beach">Beach</a>
+                
+            </li>
+            <li ><a href="/tags/winter">Winter</a>
+                
+            </li>
+            <li ><a href="/tags/Sports">Sports</a>
+                
+            </li>
+            <li ><a href="/tags/Landscape">Landscape</a>
+                
+            </li>
+            <li ><a href="/tags/Food">Food</a>
+                
+            </li>
+            <li ><a href="/tags/Night">Night</a>
+                
+            </li>
+            <li ><a href="/tags/Tripoli">Tripoli</a>
+                
+            </li>
+            <li ><a href="/tags/Sour">Sour</a>
+                
+            </li>
+            <li ><a href="/tags/Retro">Retro</a>
+                
+            </li>
+            <li ><a href="/tags/Batroun">Batroun</a>
+                
+            </li>
+            <li ><a href="/tags/Saida">Saida</a>
+                
+            </li>
+            <li ><a href="/tags/Spring">Spring</a>
+                
+            </li>
+            <li ><a href="/tags/Street">Street</a>
+                
+            </li>
+            <li ><a href="/tags/Hiking">Hiking</a>
+                
+            </li>
+            <li ><a href="/tags/Beirut">Beirut</a>
+                
+            </li>
+            <li ><a href="/tags/Bekaa">Bekaa</a>
+                
+            </li>
+            <li ><a href="/tags/Fashion">Fashion</a>
+                
+            </li>
+            <li ><a href="/tags/Snow">Snow</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li ><a href="/photographers">Photographers</a>
+                
+            </li>
+            <li ><a href="/about-us">About Us</a>
+                
+            </li>
+            <li ><a href="/contact-us">Contact Us</a>
+                
+            </li>
+    </ul>
+
+            </div>
+        </menu>
+    </nav>
+</header>
+        <section class="content">
+            
+        </section>
+        <footer>
+            <p>&copy; 2023 Lebanon in a Picture. All rights reserved.</p>
+        </footer>
+    </main>
+    <script src="/js/site.js" defer></script>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8949461532221312"
+            crossorigin="anonymous"></script>
+</body>
+</html>

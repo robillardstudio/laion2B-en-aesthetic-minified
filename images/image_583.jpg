@@ -1,0 +1,458 @@
+<!DOCTYPE HTML><html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>Page not found | Aquinas College</title>
+      <link rel="canonical" href="https://www.aquinas.edu/404.html">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><script type="text/javascript">
+            var OUC = OUC || {};
+            OUC.globalProps = OUC.globalProps || {};
+            OUC.pageProps = OUC.pageProps || {};
+            OUC.props = OUC.props || {};
+            
+            
+                OUC.globalProps['path'] = "/404.html";
+                OUC.globalProps['domain'] = "https://www.aquinas.edu";
+                OUC.globalProps['index-file'] = "index";
+                OUC.globalProps['extension'] = "html";
+                OUC.pageProps['heading'] = "Page not found";
+                OUC.pageProps['breadcrumb'] = "Page not found";
+                OUC.pageProps['image'] = "/_resources/images/errorpage.png";
+                OUC.pageProps['image-alt'] = "Image";
+            
+            var key;
+            for (key in OUC.globalProps) {
+            OUC.props[key] = OUC.globalProps[key];
+            }
+            for (key in OUC.pageProps) {
+            OUC.props[key] = OUC.pageProps[key];
+            }
+        </script>
+      <!-- OU Search Ignore Start Here --><!-- Bootstrap CSS -->
+<link rel="stylesheet" href="/_resources/css/bootstrap.min.css">
+<link rel="stylesheet" href="/_resources/css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="/_resources/css/bootstrap-reboot.min.css">
+
+<!-- Aquinas College CSS -->
+<link rel="stylesheet" href="/_resources/css/style-icomoon.css">
+<link rel="stylesheet" href="/_resources/css/styles.css">
+<link rel="stylesheet" href="/_resources/css/print.css">
+<link rel="stylesheet" href="/_resources/css/totopstyle.css">
+<link rel="stylesheet" href="/_resources/css/slick.css"/>
+<link rel="stylesheet" href="/_resources/css/slick-theme.css"/>
+<link rel="stylesheet" href="/_resources/css/slick-lightbox.css">
+<link rel="stylesheet" href="/_resources/css/animate.css">
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+<!-- Font Awescome CDN -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+<link rel="stylesheet" href="/_resources/css/oustyles.css">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MT2BT3D');</script>
+<!-- End Google Tag Manager -->
+<!-- OU Search Ignore End Here --><meta property="og:title" content="Page not found">
+      <meta property="og:url" content="https://www.aquinas.edu/404.html">
+      <meta property="og:description" content="">
+      <meta property="og:type" content="">
+      <meta property="og:updated_time" content="2023-06-14T13:34:31.731717-07:00">
+      <meta name="twitter:card" content="">
+      <meta name="twitter:url" content="https://www.aquinas.edu/404.html">
+      <meta name="twitter:title" content="Page not found">
+      <meta name="twitter:description" content=""><script type="text/javascript"> 
+					var COMMENT_PAGE_URL ="https://www.aquinas.edu/404.html";
+					var COMMENT_PAGE_IDENTIFIER ="f38267c4-81df-410d-a536-20992d84e6b1";
+				</script></head>
+   <body><!-- OU Search Ignore Start Here --><header class="siteHeader sticky-wrapper">
+   <div class="container-fluid mobile-header">
+      <div class="row">
+         <div class="col-9">
+            <div class="mobile-logo"><a href="/index.html"><span class="sr-only">AQ</span></a></div>
+         </div>
+         <div class="col-3">
+            <div class="mobile-buttons-wrapper"><button type="button" data-toggle="modal" data-target="#site-navigation" class="menuToggle"><span class="sr-only">Menu</span><span class="fas fa-bars"></span></button></div>
+         </div>
+      </div>
+   </div>
+   <div class="modal fade site-navigation" id="site-navigation" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+         <div class="modal-content">
+            <div class="modal-body"><button type="button" class="btn menuClose" data-dismiss="modal"><span class="far fa-times-circle"></span><span class="sr-only">Close Menu</span></button><nav class="main-navigation" aria-label="Primary navigation">
+                  <div class="top-row">
+                     <div class="container-fluid">
+                        <div class="row">
+                           <div class="col-12">
+                              <nav class="audience">
+                                 <ul class="nav justify-content-end">
+                                    <li class="nav-item"><a class="nav-link" href="/alumni-friends.html">Alumni &amp; Friends</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/current-students.html">Current Students</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/faculty-staff/index.html">Faculty &amp; Staff</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/arts-at-aq/index.html">Arts &amp; Culture</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://aqsaints.com/" target="_blank" rel="noopener">Athletics</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/offices/institutional-advancement/index.html">Give</a></li>
+                                    <li>
+                                       <div class="header-search hidden-xs">
+                                          <form id="searchForm" action="/search/index.html?" method="get" role="search" novalidate>
+                                             <div class="input-group"><label class="search-label sr-only" for="ousearchq">Search the Site</label><input type="text" id="ousearchq" class="form-control" title="ousearchq" name="ousearchq" placeholder="Search..."><span class="input-group-btn"><button class="btn btn-default" type="submit"><span class="fas fa-search"></span><span class="sr-only">Search</span></button></span></div>
+                                          </form>
+                                       </div>
+                                    </li>
+                                 </ul>
+                              </nav>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="bottom-row">
+                     <div class="container-fluid">
+                        <div class="row">
+                           <div class="col-xl-4">
+                              <div class="logo"><a href="/index.html"><span class="sr-only">Aquinas College</span></a></div>
+                           </div>
+                           <div class="col">
+                              <ul class="nav justify-content-end nav-fill">
+                                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="academics" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a><ul class="dropdown-menu" aria-labelledby="academics">
+                                       <li>
+                                          <div class="sub-menu">
+                                             <div class="container">
+                                                <div class="row">
+                                                   <div class="col menu-image"><a href="/academics/index.html"><img class="pt-2 pb-2" src="/_resources/images/Global-Navigatio-Academics-700.jpg" alt="Academics at Aquinas College"></a></div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/academics/index.html">Academics</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/academics/undergraduate.html">Undergraduate Programs</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/academics/graduate.html">Graduate Programs</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/registrar/academic-calendar.html">Academic Calendar</a></li>
+                                                      </ul>
+                                                   </div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/academics/accolades-outcomes.html">Accolades &amp; Outcomes</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/academics/block-scheduling.html">Block Scheduling</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/advantage-center/index.html">Internships, Research, Careers</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/international-programs/index.html">Study Abroad &amp; Away</a></li>
+                                                      </ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </li>
+                                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="admissions" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admissions</a><ul class="dropdown-menu" aria-labelledby="admissions">
+                                       <li>
+                                          <div class="sub-menu">
+                                             <div class="container">
+                                                <div class="row">
+                                                   <div class="col menu-image"><a href="/admissions/index.html"><img class="pt-2 pb-2" src="/_resources/images/Global-Navigation-Admissions-700.jpg" alt="Admissions at Aquinas College"></a></div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/index.html">Admissions Overview</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/apply.html">Apply Now</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/contact-admissions.html">Contact Admissions</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/dates-and-deadlines.html">Dates &amp; Deadlines</a></li>
+                                                      </ul>
+                                                   </div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/undergraduate/index.html">Undergraduate Admissions</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/graduate-admissions.html">Graduate Admissions</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/continuing-education/index.html">Continuing Education</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/undergraduate/accepted-students.html">Accepted Students</a></li>
+                                                      </ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </li>
+                                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="cost&amp;aid" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Cost &amp; Aid</a><ul class="dropdown-menu" aria-labelledby="cost&amp;aid">
+                                       <li>
+                                          <div class="sub-menu">
+                                             <div class="container">
+                                                <div class="row">
+                                                   <div class="col menu-image"><a href="/cost-aid/index.html"><img class="pt-2 pb-2" src="/_resources/images/Global-Navigation-Cost-Aid-700.jpg" alt="Cost &amp; Aid at Aquinas College"></a></div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/cost-aid/index.html">Financial Aid</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/admissions/tuition-and-fees.html">Tuition &amp; Fees</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/cost-aid/types-of-aid.html">Types of Aid</a></li>
+                                                      </ul>
+                                                   </div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/cost-aid/applying-for-aid.html">Applying for Aid</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/cost-aid/forms-and-policies.html">Forms &amp; Policies</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/cost-aid/contact-us.html">Contact Us</a></li>
+                                                      </ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </li>
+                                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="studentlife" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Student Life</a><ul class="dropdown-menu" aria-labelledby="studentlife">
+                                       <li>
+                                          <div class="sub-menu">
+                                             <div class="container">
+                                                <div class="row">
+                                                   <div class="col menu-image"><a href="/student-life/index.html"><img class="pt-2 pb-2" src="/_resources/images/Global-Navigation-Student-Life-700.jpg" alt="Student Life at Aquinas College"></a></div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/campus-dining/index.html">Campus Dining</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/campus-ministry/index.html">Campus Ministry &amp; Chapel</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/counseling-health-wellness/index.html">Counseling, Health &amp; Wellness</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/student-life/residence-life/index.html">Housing &amp; Residence Life</a></li>
+                                                      </ul>
+                                                   </div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="https://www.aquinaslibrary.com/">Library</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/student-life/parents-families/index.html">Parents &amp; Families</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/student-life/student-success/index.html">Student Success</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/student-life/sao-student-activities-orientation/student-organizations/index.html">Organizations &amp; Clubs</a></li>
+                                                      </ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </li>
+                                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="meetaq" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Meet AQ</a><ul class="dropdown-menu" aria-labelledby="meetaq">
+                                       <li>
+                                          <div class="sub-menu">
+                                             <div class="container">
+                                                <div class="row">
+                                                   <div class="col menu-image"><a href="/meet-aq/index.html"><img class="pt-2 pb-2" src="/_resources/images/Global-Navigation-Meet-AQ-700.jpg" alt="Meet Aquinas College"></a></div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/meet-aq/about-grand-rapids.html">About Grand Rapids</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/mission-vision/index.html">Mission &amp; Vision</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/meet-aq/index.html">Dominican Pillars</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/heritage-traditions/index.html">Heritage &amp; Traditions</a></li>
+                                                      </ul>
+                                                   </div>
+                                                   <div class="col-12 col-xl-4">
+                                                      <ul class="list-unstyled">
+                                                         <li class="nav-item"><a class="dropdown-item" href="/calendar/index.html">Event Calendar</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/index.html">Offices</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/offices/presidents-office/index.html">President's Office</a></li>
+                                                         <li class="nav-item"><a class="dropdown-item" href="/board-trustees/index.html">Board of Trustees</a></li>
+                                                      </ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </nav>
+            </div>
+         </div>
+      </div>
+   </div>
+</header><!-- OU Search Ignore End Here -->
+      <div class="content" id="main-content">
+         <div class="container">
+            <div class="row">
+               <div class="col-12">
+                  <nav aria-label="breadcrumb">
+                     <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><span class="fas fa-home"></span><a href="https://www.aquinas.edu/"> Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Page not found</li>
+                     </ol>
+                  </nav>
+               </div>
+            </div>
+         </div>
+         <div class="mt-lg-5 mb-lg-5 text-center"><img src="/_resources/images/errorpage.png" alt="Image" width="600"><br><h2>Sorry, Nelson may have buried that page!</h2>
+            
+            <p>However, it's likely you'll find it in the <a href="/a-to-z.html">A-Z List</a> or Site Search at the top of this page.</p>
+            
+            <p>If that doesn't work, please <a href="mailto:webmaster@aquinas.edu?subject=Page%20not%20found%3F">contact our website administrators</a>.</p>
+         </div>
+      </div>
+      <!-- OU Search Ignore Start Here --><footer id="footer">
+   <div class="container">
+      <div class="row">
+         <div class="col-12">
+            <ul class="footer-social nav justify-content-center">
+               <li class="nav-item"><a href="https://www.facebook.com/aquinascollegegr/" class="facebook"><span class="sr-only">Facebook</span></a></li>
+               <li class="nav-item"><a href="https://twitter.com/aquinascollege" class="twitter"><span class="sr-only">Twitter</span></a></li>
+               <li class="nav-item"><a href="https://www.tiktok.com/@aquinascollege" class="tiktok"><span class="sr-only">TikTok</span></a></li>
+               <li class="nav-item"><a href="https://www.youtube.com/user/AquinasCollegeGR" class="youtube"><span class="sr-only">YouTube</span></a></li>
+               <li class="nav-item"><a href="https://instagram.com/aquinascollegegr" class="instagram"><span class="sr-only">Instagram</span></a></li>
+            </ul>
+         </div>
+         <div class="col-lg-3 col-xl-3"><img src="/_resources/images/aquinas-logo-white.png" alt="AQ"><ul class="footer-address">
+               <li class="location"><a href="">1700 Fulton St E<br>Grand Rapids, MI 49506</a></li>
+               <li><a href="tel:(616)6328900">(616) 632-8900</a></li>
+            </ul>
+         </div>
+         <div class="col-lg-9 col-xl-8 offset-xl-1">
+            <div class="row footer-nav justify-content-center">
+               <div class="col-6 col-md-3">
+                  <ul class="list-unstyled">
+                     <li><a href="/a-to-z.html">A-Z List</a></li>
+                     <li><a href="/calendar/index.html">Event Calendar</a></li>
+                     <li><a href="/news/index.html">News</a></li>
+                  </ul>
+               </div>
+               <div class="col-6 col-md-3">
+                  <ul class="list-unstyled">
+                     <li><a href="/offices/institutional-advancement/give.html">Give</a></li>
+                     <li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0d6a119c-4b29-473d-aa54-b44806014631&amp;ccId=19000101_000001&amp;lang=en_US">Jobs at Aquinas</a></li>
+                     <li><a href="/contact-us/index.html">Contact Us</a></li>
+                  </ul>
+               </div>
+               <div class="col-6 col-md-3">
+                  <ul class="list-unstyled">
+                     <li><a href="https://admissions.aquinas.edu/apply/">Apply</a></li>
+                     <li><a href="https://admissions.aquinas.edu/portal/visit">Visit</a></li>
+                     <li><a href="https://map.aquinas.edu/">Campus Map</a></li>
+                  </ul>
+               </div>
+               <div class="col-6 col-md-3">
+                  <ul class="list-unstyled">
+                     <li><a href="/offices/student-affairs/title-ix/index.html">Title IX</a></li>
+                     <li><a href="/covid-19.html">COVID-19</a></li>
+                     <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="copyright">
+      <div class="container">
+         <div class="row">
+            <div class="col-12">
+               <ul class="list-inline">
+                  <li class="list-inline-item"><span aria-label="direct edit login" id="directedit">©</span> Copyright 2023. All Rights Reserved</li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer><!-- OU Search Ignore End Here --><!-- OU Search Ignore Start Here --><div class="alert cookiealert" role="alert">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-10"><span id="cookieconsent:desc" class="cc-message">By using this site, you agree to our privacy policy.
+               								<a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://www.aquinas.edu/privacy-policy.html" rel="noopener noreferrer nofollow" target="_blank">Read the privacy policy.</a></span></div>
+         <div class="col-lg-2">
+            <div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="btn btn-default btn-light-2 acceptcookies">Accept</a></div>
+         </div>
+      </div>
+   </div>
+</div><!-- OU Search Ignore End Here --><!-- OU Search Ignore Start Here --><script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="/_resources/js/bootstrap.js"></script>
+<script src="/_resources/js/scripts.js"></script>
+<script src="/_resources/js/slick-lightbox.js"></script>
+<script src="/_resources/js/slick.min.js"></script>
+<script src="/_resources/js/lightbox.js"></script>
+<script src="/_resources/js/navigation.js"></script>
+<!--Data Sort Tables JS-->
+<script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap4.min.js"></script>
+<!-- <script>
+	$(document).ready(function() {
+		$('#directory-list').DataTable( {
+			"pageLength": 25,
+			"order": [[ 1, "asc" ]]
+		} );
+	} );
+</script> -->
+
+<script>$('.datatable').DataTable({
+	"fnDrawCallback": function() {
+
+		$table = $(this);
+
+		// only apply this to specific tables
+		if ($table.closest(".datatable-multi-row").length) {
+
+			// for each row in the table body...
+			$table.find("tbody>tr").each(function() {
+				var $tr = $(this);
+
+				// get the "extra row" content from the <script> tag.
+				// note, this could be any DOM object in the row.
+				var extra_row = $tr.find(".extra-row-content").html();
+
+				// in case draw() fires multiple times, 
+				// we only want to add new rows once.
+				if (!$tr.next().hasClass('dt-added')) {
+					$tr.after(extra_row);
+					$tr.find("td").each(function() {
+
+						// for each cell in the top row,
+						// set the "rowspan" according to the data value.
+						var $td = $(this);
+						var rowspan = parseInt($td.data("datatable-multi-row-rowspan"), 10);
+						if (rowspan) {
+							$td.attr('rowspan', rowspan);
+						}
+					});
+				}
+
+			});
+
+		} // end if the table has the proper class
+	} // end fnDrawCallback()
+});</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT2BT3D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- OU Search Ignore End Here --><!-- OU Search Ignore Start Here -->
+<!-- Insert google analytics here -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QY5REH8VZE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QY5REH8VZE');
+</script>
+<!-- Insert Slate analytics here -->
+<script async="async" src="https://admissions.aquinas.edu/ping">/**/</script>
+<!-- Activity name for this tag: GAM_MI_AQUINASCOLLEGE_08112023_Conversion -->
+<script>
+  (function() {
+    var a = String(Math.floor(Math.random() * 10000000000000000));
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=5223539;ord=1;num='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=5223539;ord=1;num=1?' width=1 height=1 border=0>
+</noscript><!-- OU Search Ignore End Here -->
+      <div id="ou-hidden" style="display:none;"><a id="de" rel="nofollow" href="https://a.cms.omniupdate.com/11/?skin=aquinas&amp;account=Aquinas&amp;site=www&amp;action=de&amp;path=/404.pcf">©</a></div><script>
+			if(document.getElementById("de") != null && document.getElementById("directedit")) {
+				var link = document.getElementById("de").parentNode.innerHTML;
+				document.getElementById("de").parentNode.innerHTML = "";
+				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
+			}
+		</script></body>
+</html>

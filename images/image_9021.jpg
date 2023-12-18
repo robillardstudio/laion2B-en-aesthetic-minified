@@ -1,0 +1,2357 @@
+
+
+
+
+
+
+<!DOCTYPE html >
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head  prefix="og: http://ogp.me/ns#">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="msvalidate.01" content="34CDA1A44729BD7C5B00CCA92F6BD07F"/>
+
+    
+    <script>
+      (function(h,o,u,n,d) {
+        h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+        d=o.createElement(u);d.async=1;d.src=n
+        n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+      })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-recorder.js','DD_RUM')
+      DD_RUM.onReady(function() {
+        DD_RUM.init({
+          clientToken: 'pub13a65816a6478cb1e12d5edc845412da',
+          applicationId: 'b5bc68d5-c314-4347-8ce9-38ecad8559f1',
+          site: 'datadoghq.com',
+          service:'public-web',
+          env: 'prod',
+          sampleRate: 10,
+          trackInteractions: false,
+          version: '9034fd9e44ade83882cde0346b7a40d6ab5a25d4',
+          allowedTracingOrigins: ["https://www.vacasa.com", "https://www.vacasa.ca", "http://www.vacasa.com", "http://www.vacasa.ca"]
+        });
+        DD_RUM.setRumGlobalContext({ featureFlags: Vacasa.FeatureFlag, features: Vacasa.Features });
+      })
+    </script>
+
+
+    
+        <link rel="alternate" hreflang="en" href="https://www.vacasa.com/usa/Lake-Winnipesaukee/" />
+    
+    
+        
+            <link rel="alternate" hreflang="en-ca" href="https://www.vacasa.ca/usa/Lake-Winnipesaukee/" />
+        
+    
+
+    
+
+    <script defer src="https://cms-assets.boise.vacasa.com/js/gen/polyfills.77ecb647f9bb.js"></script>
+    <script defer src="https://cms-assets.boise.vacasa.com/js/gen/commonstuff.daeb81efa238.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        
+        window.Vacasa = window.Vacasa || {};
+        $.extend(true, Vacasa, {
+            Language: {
+                code: 'en',
+                display: 'English'
+            },
+            
+            Currency: 'USD',
+            VisitorID: null,
+            UserID: null,
+            IdpUserID: null,
+            IdpUserEmail: null,
+            iosMobile: !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform),
+            ie11orEdge: /rv:11.0/i.test(navigator.userAgent) || /edge/i.test(navigator.userAgent),
+            AdminUrl: "https://admin.vacasa.com",
+            MonolithUrl: "https://www.vacasa.com",
+            
+            Unit: {
+                tour_img_url: "https://cms-assets.boise.vacasa.com/img/3D_tour2x.f28dfa1b615d.png"
+            }
+        });
+    </script>
+
+    
+    
+    
+         
+    <title>Lake Winnipesaukee Vacation Rentals, Cabins, Cottages | Vacasa</title>
+    <meta name="description" content="Lake Winnipesaukee remains one of New England’s most popular destinations. Book one of our Lake Winnipesaukee vacation rentals for your next getaway today.">
+    <link rel="canonical" href="https://www.vacasa.com/usa/Lake-Winnipesaukee/"/>
+
+    <script type="application/javascript">
+        $.extend(true, Vacasa, {
+            Place: {
+                PageNum: 1,
+                Slug: '/usa/Lake-Winnipesaukee/',
+                total_units: 92,
+                category: 'destination',
+                id: 1581,
+                name: 'Lake Winnipesaukee',
+            }
+        });
+    </script>
+    
+        
+            <link rel="preload" href="//cdn.optimizely.com/js/17277872316.js" as="script">
+
+<link rel="preconnect" href="//logx.optimizely.com">
+
+<script src="https://cdn.optimizely.com/js/17277872316.js"></script>
+
+<script>var seoSrp = true</script>
+
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  analytics.load("oIKlpnlabBXys5dI0PjmHfQoNZGIQRMu");
+    analytics.page('Search Page Viewed', {
+  seo_srp: true});
+  }}();
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PNK69L');</script>
+<!-- End Google Tag Manager -->
+        
+    
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        
+            
+            
+        
+            
+                {"@type": "ListItem", "position": "1", "item": {"@id": "https://www.vacasa.com/usa/New-Hampshire/", "name": "New Hampshire"}},
+            
+        
+            
+                {"@type": "ListItem", "position": "2", "item": {"@id": "https://www.vacasa.com/usa/Lake-Winnipesaukee/", "name": "Lake Winnipesaukee"}}
+            
+        
+    ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "LodgingBusiness",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "850 NW 13th Ave",
+        "addressLocality": "Portland",
+        "addressRegion": "Oregon",
+        "postalCode": "97209",
+        "addressCountry": "USA"
+    },
+    "telephone": "+1(503)345-9399",
+    "name" : "Vacasa",
+    "image" : "https://d33zkqzv7i9ae0.cloudfront.net/images/locations/small/3973.jpg",
+    "audience" : "Travelers, Families, Friends, Couples",
+    "areaServed": {
+    
+        "@type": "place",
+    
+        "name": "Lake Winnipesaukee"
+    },
+    "priceRange": "49-10380",
+    "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Lake Winnipesaukee Vacation Rentals",
+
+        "itemListElement": [
+    
+        
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Product",
+                    "brand": "Vacasa",
+                    "name": "The Apartment at Camp Hattie Wolfeboro",
+                    "description": "Wolfeboro, NH. 0 Bed | 1 Bath | Sleeps 2",
+                    "image": "https://vacasa-units.imgix.net/4928298.jpg",
+                    "url" : "https://www.vacasa.com/unit/99234",
+                    "offers": {
+                        "@type": "Offer",
+                        "name": "per night",
+                        "price": "131",
+                        "url": "https://www.vacasa.com/unit/99234",
+                        
+                        "availability": "LimitedAvailability",
+                        
+                        "priceCurrency": "USD"
+                    }
+                }
+        },
+    
+        
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Product",
+                    "brand": "Vacasa",
+                    "name": "Misty Harbor Beach Retreat",
+                    "description": "Gilford, NH. 1 Bed | 1 Bath | Sleeps 4",
+                    "image": "https://vacasa-units.imgix.net/5579301.jpg",
+                    "url" : "https://www.vacasa.com/unit/114111",
+                    "offers": {
+                        "@type": "Offer",
+                        "name": "per night",
+                        "price": "130",
+                        "url": "https://www.vacasa.com/unit/114111",
+                        
+                        "availability": "LimitedAvailability",
+                        
+                        "priceCurrency": "USD"
+                    }
+                }
+        },
+    
+        
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Product",
+                    "brand": "Vacasa",
+                    "name": "Cape Me Away",
+                    "description": "Gilford, NH. 3 Bed | 2 Bath | Sleeps 5",
+                    "image": "https://vacasa-units.imgix.net/4587608.jpg",
+                    "url" : "https://www.vacasa.com/unit/88352",
+                    "offers": {
+                        "@type": "Offer",
+                        "name": "per night",
+                        "price": "201",
+                        "url": "https://www.vacasa.com/unit/88352",
+                        
+                        "availability": "LimitedAvailability",
+                        
+                        "priceCurrency": "USD"
+                    }
+                }
+        },
+    
+        
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Product",
+                    "brand": "Vacasa",
+                    "name": "Weirs Boulevard Dreamin&#x27;",
+                    "description": "Laconia, NH. 1 Bed | 1 Bath | Sleeps 3",
+                    "image": "https://vacasa-units.imgix.net/5571599.jpg",
+                    "url" : "https://www.vacasa.com/unit/103431",
+                    "offers": {
+                        "@type": "Offer",
+                        "name": "per night",
+                        "price": "176",
+                        "url": "https://www.vacasa.com/unit/103431",
+                        
+                        "availability": "LimitedAvailability",
+                        
+                        "priceCurrency": "USD"
+                    }
+                }
+        },
+    
+        
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Product",
+                    "brand": "Vacasa",
+                    "name": "Pool Cottage",
+                    "description": "Gilford, NH. 1 Bed | 1 Bath | Sleeps 4",
+                    "image": "https://vacasa-units.imgix.net/4905367.jpg",
+                    "url" : "https://www.vacasa.com/unit/97581",
+                    "offers": {
+                        "@type": "Offer",
+                        "name": "per night",
+                        "price": "133",
+                        "url": "https://www.vacasa.com/unit/97581",
+                        
+                        "availability": "LimitedAvailability",
+                        
+                        "priceCurrency": "USD"
+                    }
+                }
+        }
+    
+        ]
+    }
+}
+
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "SearchResultsPage",
+    "name": "Lake Winnipesaukee Vacation Rentals, Cabins, Cottages | Vacasa",
+    "description": "Lake Winnipesaukee remains one of New England’s most popular destinations. Book one of our Lake Winnipesaukee vacation rentals for your next getaway today.",
+    "specialty":"Lake Winnipesaukee Vacation Rentals",
+    "url" : "https://www.vacasa.com/usa/Lake-Winnipesaukee/",
+    "offers": {
+        "@type": "AggregateOffer",
+        "highPrice": "10380",
+        "lowPrice": "49",
+        "offerCount" : "92",
+        "priceCurrency" : "USD"
+     },
+    "potentialAction" : {
+        "@type": "RentAction",
+        "object": {
+            "@type": "Accommodation",
+            "name": "Lake Winnipesaukee Vacation Rentals"
+        },
+        "location" : {
+            "@type" : "Place",
+            "name" : "Lake Winnipesaukee"
+        },
+        "landlord": {
+            "@type": "LodgingBusiness",
+            "priceRange": "49-10380",
+            "name": "Vacasa",
+            "image" : "https://cms-assets.boise.vacasa.com/img/vacasa_vacation_homes_grid_2022.ab98f45c0ab8.png",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "850 NW 13th Ave",
+                "addressLocality": "Portland",
+                "addressRegion": "Oregon",
+                "postalCode": "97209",
+                "addressCountry": "USA"
+            },
+            "telephone": "+1(503)345-9399"
+        }
+    }
+}
+</script>
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@vacasarentals"/>
+<meta name="twitter:title" content="Lake Winnipesaukee Vacation Rentals, Cabins, Cottages | Vacasa"/>
+<meta name="twitter:description" content="Lake Winnipesaukee remains one of New England’s most popular destinations. Book one of our Lake Winnipesaukee vacation rentals for your next getaway today."/>
+<meta name="twitter:image" content="https://d33zkqzv7i9ae0.cloudfront.net/images/locations/small/3973.jpg"/>
+<meta name="twitter:domain" content="Vacasa.com"/>
+
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Lake Winnipesaukee Vacation Rentals, Cabins, Cottages | Vacasa"/>
+<meta property="og:description" content="Lake Winnipesaukee remains one of New England’s most popular destinations. Book one of our Lake Winnipesaukee vacation rentals for your next getaway today."/>
+<meta property="og:url" content="https://www.vacasa.com/usa/Lake-Winnipesaukee/"/>
+<meta property="og:image" content="https://d33zkqzv7i9ae0.cloudfront.net/images/locations/small/3973.jpg"/>
+<meta property="og:site_name" content="Vacasa"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="en_CA" />
+
+    
+
+
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" crossorigin="anonymous"></script>
+    <script defer src="https://cms-assets.boise.vacasa.com/lib/jquery-ui.min.26fd66829059.js"></script>
+    <script defer src="https://cms-assets.boise.vacasa.com/lib/datepicker.min.1ef3abddeccf.js"></script>
+    <script defer src="https://cms-assets.boise.vacasa.com/lib/datepicker.lang.edb3f71b486c.js"></script>
+
+    <script async src="https://cms-assets.boise.vacasa.com/lib/ls.unveilhooks.min.5ab31e16b8ac.js"></script>
+    <script async src="https://cms-assets.boise.vacasa.com/lib/ls.bgset.min.8a87b83c24b8.js"></script>
+    <script async src="https://cms-assets.boise.vacasa.com/lib/ls.rias.min.6f9025e45d53.js"></script>
+    <script async src="https://cms-assets.boise.vacasa.com/lib/ls.object-fit.min.68dde06f9860.js"></script>
+    <script async src="https://cms-assets.boise.vacasa.com/lib/lazysizes.min.96201abb6228.js"></script>
+
+    
+
+<link rel="icon" type="image/x-icon" href="https://cms-assets.boise.vacasa.com/favicon/favicon.78d855947b21.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="https://cms-assets.boise.vacasa.com/favicon/icon-16x16.e53d150db819.png">
+<link rel="icon" sizes="32x32" type="image/png" href="https://cms-assets.boise.vacasa.com/favicon/icon-32x32.00ebde71030c.png">
+<link rel="icon" sizes="96x96" type="image/png" href="https://cms-assets.boise.vacasa.com/favicon/icon-96x96.90942d89ac91.png">
+
+<link rel="apple-touch-icon-precomposed" href="https://cms-assets.boise.vacasa.com/favicon/icon-precomposed.ba8308ef8840.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://cms-assets.boise.vacasa.com/favicon/icon-57x57.bc770069c1aa.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cms-assets.boise.vacasa.com/favicon/icon-60x60.f2691ea884f3.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cms-assets.boise.vacasa.com/favicon/icon-72x72.af0df641dbea.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cms-assets.boise.vacasa.com/favicon/icon-76x76.3af9ce2b74de.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cms-assets.boise.vacasa.com/favicon/icon-114x114.95c0219d03c7.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cms-assets.boise.vacasa.com/favicon/icon-120x120.34b73aa06373.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cms-assets.boise.vacasa.com/favicon/icon-144x144.4a4028ef46da.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cms-assets.boise.vacasa.com/favicon/icon-152x152.d7523f583023.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cms-assets.boise.vacasa.com/favicon/icon-180x180.627c7b53c1b1.png">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://cms-assets.boise.vacasa.com/favicon/icon-144x144.4a4028ef46da.png">
+
+<meta name="msapplication-config" content="/guest-com-api/favicon/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="/guest-com-api/favicon/manifest.json" crossorigin="use-credentials">
+    
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Public+Sans:400,500,600,700,800&display=swap" rel="stylesheet" as="font">
+
+
+<link href="https://cms-assets.boise.vacasa.com/css/vacasa-wire.1a0e1d908faf.css" type="text/css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet preload preconnect" as="style">
+
+
+<style type="text/css">
+    @font-face {
+        font-family: 'Calluna';
+        src: url('https://cms-assets.boise.vacasa.com/font/Calluna-Regular.c311a16ee279.otf');
+    }
+</style>
+
+    <link href="https://cms-assets.boise.vacasa.com/css/gen/oscar/oscar.bdc650364c35.css" type="text/css" rel="stylesheet">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" type="text/css" rel="stylesheet" charset="UTF-8" >
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" type="text/css" rel="stylesheet">
+    <link href="https://cms-assets.boise.vacasa.com/lib/jquery-ui.min.c8cf7e102f44.css" type="text/css" rel="stylesheet">
+    <link href="https://cms-assets.boise.vacasa.com/lib/datepicker.d55b9105ba5f.css" type="text/css" rel="stylesheet">
+
+    
+    <link rel="stylesheet" type="text/css" href="https://cms-assets.boise.vacasa.com/css/gen/vacasa.17a9538f1852.css">
+
+    
+    <link rel="stylesheet" type="text/css" href="https://cms-assets.boise.vacasa.com/css/gen/place_page_v2.bf0bc4f9753a.css">
+
+
+    
+        <script type="application/javascript">
+            window.dataLayer = window.dataLayer || [];
+            
+        </script>
+        
+    
+</head>
+
+<body class="place_page_v2">
+
+    
+        
+            <script defer>
+    $(function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'place-page-load',
+                seo_srp: true,
+                total_units: Vacasa.Place.total_units,
+                category_id: Vacasa.Place.id,
+                category_name: Vacasa.Place.category
+            });
+
+            $('.place-top-units a').on('click', function (e) {
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    event: 'unit-selected',
+                    unit_id: $(e.currentTarget).data('unitId'),
+                })
+            });
+        }
+    );
+</script>
+        
+    
+
+
+
+
+<input type="hidden" name="csrfmiddlewaretoken" value="qZD4Q3veHQtJPc6BEbR6xC6EzHSkfjCnYZRo5sziUmeBYTzW8vWsjaiispiQq404">
+
+    
+        
+
+
+
+
+
+<script type="text/javascript">
+    window.Vacasa = window.Vacasa || {};
+    $.extend(true, Vacasa, {
+        Text: {
+            IdpAuthDialog: {
+                LinksPanel: {
+                    title: 'Connect to Vacasa',
+                    text: 'Create an account to book, manage, and share your Vacasa reservations.',
+                    or: 'or',
+                    email: 'Continue with Email',
+                    facebook: 'Continue with Facebook',
+                    google: 'Continue with Google',
+                    apple: 'Continue with Apple'
+                },
+                SplashPanel: {
+                    generic: {
+                        title: 'Unlock better vacations',
+                        text: 'Book confidently. Stay comfortably.'
+                    },
+                    my_trips: {
+                        title: 'Access your trips',
+                        text: 'Log in or create an account to view your trips.'
+                    },
+                    discounts: {
+                        title: 'Vacation just got better',
+                        text: 'Log in for an exclusive discount on your next Vacasa trip.'
+                    },
+                    favorites: {
+                        title: 'Found a favorite?',
+                        text: 'Create an account to book, manage, and share your Vacasa reservations.'
+                    },
+                    redirect: {
+                        title: 'Welcome to Vacasa',
+                        text: 'Book confidently. Stay comfortably.'
+                    }
+                },
+                ButtonPanel: {
+                    title: '{{redirect_company}} is now a part of Vacasa',
+                    text: 'Keep an eye out as more homes in your favorite vacation destinations transition to online booking with Vacasa.',
+                    button: 'Continue to Vacasa',
+                    redirectCompany: ''
+                }
+            }
+        },
+        IdpLinks: {"email": "/idp/login/email?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJlbWFpbCJ9", "google": "/idp/login/google?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJnb29nbGUifQ%3D%3D", "facebook": "/idp/login/facebook?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJmYWNlYm9vayJ9", "apple": "/idp/login/apple?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJhcHBsZSJ9"},
+        IdpSvgs: {
+            facebook: 'https://cms-assets.boise.vacasa.com/svg/Facebook.0499de1c0f8b.svg',
+            google: 'https://cms-assets.boise.vacasa.com/svg/Google.7f8a2828bdad.svg',
+            apple: 'https://cms-assets.boise.vacasa.com/svg/Apple.4f86796860ca.svg',
+            email: 'https://cms-assets.boise.vacasa.com/svg/Email.52eb55a1b6de.svg',
+            logo: 'https://cms-assets.boise.vacasa.com/svg/logo.4338ef47dd1c.svg',
+            generic: 'https://cms-assets.boise.vacasa.com/svg/idp_generic.d8c7accd8eaf.svg',
+            redirect: 'https://cms-assets.boise.vacasa.com/svg/idp_generic.d8c7accd8eaf.svg',
+            favorites: 'https://cms-assets.boise.vacasa.com/svg/idp_favorites.4fe830fb1279.svg',
+            my_trips: 'https://cms-assets.boise.vacasa.com/svg/idp_my_trips.60494ef2a4a7.svg',
+            discounts: 'https://cms-assets.boise.vacasa.com/svg/idp_discounts.f881c19d577c.svg',
+            chevron_icon: 'https://cms-assets.boise.vacasa.com/svg/icon-nav-chevron-midnight.70a580c289aa.svg',
+            globe_icon: 'https://cms-assets.boise.vacasa.com/svg/icon-sml-world-midnight.38cde5a6beae.svg',
+            help: 'https://cms-assets.boise.vacasa.com/svg/icon-sml-headset-blue.79e61b5ac314.svg'
+        }
+    });
+</script>
+
+<div id="navbar-user" class="navbar-font"><div id="sidenavbar-left" class="sidenavbar left-inactive fixed-top d-lg-none"><div class="sidenavbar-content flex-column"><div class="mx-2"><a id="navbar-property-management-mobile" href="/property-management" class="sidenavbar-item"><span>Vacation Rental Management</span></a><a id="navbar-real-estate-mobile" href="/real-estate" class="sidenavbar-item"><span>Real Estate</span></a></div><div class="sidenavbar-divider"></div><div class="mx-3">Company</div><div class="mx-32"><a id="navbar-aboutus-mobile" href="/about-us" class="sidenavbar-item"><span>About Us</span></a><a id="navbar-leadership-mobile" class="sidenavbar-item" href="/leadership"><span>Leadership</span></a><a id="navbar-innovation-mobile" href="/innovation" class="sidenavbar-item"><span>Innovation</span></a><a id="navbar-press-mobile" class="sidenavbar-item" href="/press"><span>Newsroom</span></a><a id="navbar-investors-mobile" class="sidenavbar-item" rel="noopener noreferrer" target="_blank" href="https://investors.vacasa.com/"><span>Investors</span></a><a id="navbar-social-responsibility-mobile" class="sidenavbar-item" href="/social-responsibility"><span>Social Responsibility</span></a><a id="navbar-solutions-partnerships-mobile" class="sidenavbar-item" href="/property-management/solutions"><span>Solutions and Partnerships</span></a><a id="navbar-blog-mobile" class="sidenavbar-item" href="/blog"><span>Blog</span></a><a id="navbar-careers-mobile" href="/careers" class="sidenavbar-item"><span>Careers</span></a></div><div class="sidenavbar-divider"></div><div class="mx-3">Help</div><div class="mx-32"><a id="navbar-support-mobile" class="sidenavbar-item" href="/support"><span>Support and Contact</span></a><a id="navbar-tollfree-phone-mobile" class="sidenavbar-item" href="tel:+18005440300"><span>Toll Free: +1 800-544-0300</span></a><a id="navbar-local-phone-mobile" class="sidenavbar-item" href="tel:+15033459399"><span>Local: (503) 345-9399</span></a></div></div></div><div id="sidenavbar-right" class="sidenavbar right-inactive fixed-top d-lg-none"></div><nav id="navbar-main" class="navbar navbar-expand-lg navbar-light bg-white container"><span class="navbar-toggler sidenavbar-left-toggler border-0"><img id="left-icon-menu" src="https://cms-assets.boise.vacasa.com/svg/icon-nav-menu.a92708ad5236.svg"><svg id="left-icon-close" class="feather svg-mobile inactive"><use xlink:href="#v-icon-ui-x"></use></svg></span><a id="navbar-vacasa-logo" class="navbar-brand mr-md-4" href="/"><svg className="d-block brand-logo" width="120px" height="34px"><image href="https://cms-assets.boise.vacasa.com/svg/140x32_Vacasa_Logo_Horizontal_Blue.898f70a0d30e.svg" width="120px" height="34px"/></svg></a><span class="navbar-toggler sidenavbar-right-toggler border-0"><img id="right-icon-user" src="https://cms-assets.boise.vacasa.com/svg/icon-sml-person-midnight.be97bd4331cc.svg"><svg id="right-icon-close" class="feather svg-mobile inactive"><use xlink:href="#v-icon-ui-x"></use></svg></span><div class="collapse navbar-collapse"><div class="navbar-nav"><a id="navbar-property-management" class="nav-link" href="/property-management">
+                    Vacation Rental Management
+                </a><a id="navbar-real-estate" class="nav-link" href="/real-estate">
+                        Real Estate
+                    </a><div class="nav-item dropdown navbar-company"><a id="company-dropdown-link" class="nav-link dropdown-toggle d-flex mr-0" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Company</span><img class="ml-1" src="https://cms-assets.boise.vacasa.com/svg/icon-nav-chevron-midnight.70a580c289aa.svg"></a><div class="dropdown-menu dropdown-menu-left" aria-labelledby="company-dropdown-link"><a id="navbar-aboutus" class="dropdown-item pl-0" href="/about-us"><span>About Us</span></a><a id="navbar-leadership" class="dropdown-item pl-0" href="/leadership"><span>Leadership</span></a><a id="navbar-innovation" class="dropdown-item pl-0" href="/innovation"><span>Innovation</span></a><a id="navbar-press" class="dropdown-item pl-0" href="/press"><span>Newsroom</span></a><a id="navbar-investors" class="dropdown-item pl-0" rel="noopener noreferrer" target="_blank" href="https://investors.vacasa.com/"><span>Investors</span></a><a id="navbar-social-responsibility" class="dropdown-item pl-0" href="/social-responsibility"><span>Social Responsibility</span></a><a id="navbar-solutions-partnerships" class="dropdown-item pl-0" href="/property-management/solutions"><span>Solutions and Partnerships</span></a><a id="navbar-blog" class="dropdown-item pl-0" href="/blog"><span>Blog</span></a><a id="navbar-careers" class="dropdown-item pl-0" href="/careers"><span>Careers</span></a></div></div></div><div id="navbar-idp" class="navbar-nav ml-auto"></div></div></nav></div><script type="application/javascript">
+    window.Vacasa = window.Vacasa || {};
+    $.extend(true, Vacasa, {
+        FeatureFlag: {
+            covidMessaging: false,
+        },
+        Text: {
+            NavBarIdp: {
+                Account: {
+                    hiText: 'Hi,',
+                    myTripsText: 'My Trips',
+                    favoritesText: 'Favorites',
+                    profileText: 'Profile',
+                    logoutText: 'Log Out',
+                    ownerLoginText: 'Owner Login',
+                    homeownerAccountText: 'Homeowner Account',
+                    guestLoginText: 'Guest Login / Signup',
+                    loginText: 'Log In / Sign Up',
+                    myTripText: 'My Trips',
+                    ownerLoginUrl: 'https://owners.vacasa.com/login',
+                    myTripsLink: '/my-trips',
+                    idpLogoutLink: '/idp/logout',
+                    myTripsLinks: {"email": "/idp/login/email?state=eyJkZWVwX2xpbmsiOiAiL215LXRyaXBzLyIsICJsb2dpbl9tZXRob2QiOiAiZW1haWwifQ%3D%3D", "google": "/idp/login/google?state=eyJkZWVwX2xpbmsiOiAiL215LXRyaXBzLyIsICJsb2dpbl9tZXRob2QiOiAiZ29vZ2xlIn0%3D", "facebook": "/idp/login/facebook?state=eyJkZWVwX2xpbmsiOiAiL215LXRyaXBzLyIsICJsb2dpbl9tZXRob2QiOiAiZmFjZWJvb2sifQ%3D%3D", "apple": "/idp/login/apple?state=eyJkZWVwX2xpbmsiOiAiL215LXRyaXBzLyIsICJsb2dpbl9tZXRob2QiOiAiYXBwbGUifQ%3D%3D"},
+                    idpLinks: {"email": "/idp/login/email?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJlbWFpbCJ9", "google": "/idp/login/google?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJnb29nbGUifQ%3D%3D", "facebook": "/idp/login/facebook?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJmYWNlYm9vayJ9", "apple": "/idp/login/apple?state=eyJkZWVwX2xpbmsiOiAiL3VzYS9MYWtlLVdpbm5pcGVzYXVrZWUvIiwgImxvZ2luX21ldGhvZCI6ICJhcHBsZSJ9"},
+                },
+                LanguageCurrency: {
+                    languageAndCurrencyLabel: 'Language',
+                    supportedLanguages: [{"code": "en", "display": "English", "monolith_code": "en", "monolith_id": "40"}, {"code": "es-419", "display": "Espa\u00f1ol", "monolith_code": "es-419", "monolith_id": "173"}, {"code": "fr", "display": "Fran\u00e7ais", "monolith_code": "fr", "monolith_id": "47"}],
+                    supportedCurrencies: ['CAD', 'USD'],
+                },
+                Help: {
+                    helpText: 'Help',
+                    supportEmergencyLink: '/support/coronavirus-covid-19',
+                    supportEmergencyText: 'COVID-19 Updates',
+                    supportText: 'Support and Contact',
+                    phoneTollFreeLabel: 'Toll Free',
+                    tollFreeNumberDisplay: '+1 800-544-0300',
+                    phoneLocalLabel: 'Local',
+                    localNumberDisplay: '(503) 345-9399'
+                },
+                baseUrl: 'https://www.vacasa.com',
+            }
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        $('.sidenavbar-left-toggler').on('click', function () {
+            $('#sidenavbar-left').toggleClass('left-inactive');
+            $('body').toggleClass('no-scroll');
+            $('#left-icon-menu').toggleClass('inactive');
+            $('#left-icon-close').toggleClass('inactive');
+            $('.sidenavbar-right-toggler').toggleClass('hidden');
+            $('#navbar-user').toggleClass('fixed-top');
+        });
+
+        $('.sidenavbar-right-toggler').on('click', function () {
+            $('#sidenavbar-right').toggleClass('right-inactive');
+            $('body').toggleClass('no-scroll');
+            $('#right-icon-user').toggleClass('inactive');
+            $('#right-icon-close').toggleClass('inactive');
+            $('.sidenavbar-left-toggler').toggleClass('hidden');
+            $('#navbar-user').toggleClass('fixed-top');
+        });
+
+        // If one of the navbar items is tapped, remove any tooltips for showing
+        $('.navbar-toggler').on('click', function () {
+            $("[role=tooltip]").removeClass('show');
+        });
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        if (Vacasa.Text.IdpAuthDialog !== undefined && Vacasa.Text.IdpAuthDialog.ButtonPanel.redirectCompany !== "") {
+            window.flux.emit(window.FluxAction.IdpAuth.Open, {
+                mode: window.IDP_DIALOG_MODE.Redirect
+            });
+        }
+        
+        setTimeout(function() { window.flux.emit(window.FluxAction.IdpAuth.Close) }, 10000);
+    });
+</script><link href="https://cms-assets.boise.vacasa.com/css/gen/idp_auth.f6841951a734.css" type="text/css" rel="stylesheet"><div id="idp-auth-app"></div><script defer src="https://cms-assets.boise.vacasa.com/js/gen/idp_auth.5fa5456889ad.js"></script><script defer src="https://cms-assets.boise.vacasa.com/js/gen/navbar_idp.0cd5c0660f67.js"></script>
+
+    
+        
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+<div class="container-fluid px-0 mb-32">
+    <div class="position-relative">
+        <div class="w-100 position-absolute hero-img lazyload"
+             data-bgset="https://vacasa.imgix.net/images/locations/original/3973.jpg?auto=format%2Ccompress&amp;q=45&w={width}"
+             data-sizes="auto"
+             aria-label="Lake Winnipesaukee">
+        </div>
+    </div>
+
+    <div class="container hero-content-container">
+        <div class="row">
+            <div class="hero-content mx-auto py-40 px-16 p-sm-56 w-100">
+                <h1 class="type-display-large break-long">
+                    Lake Winnipesaukee Vacation Rentals
+                </h1>
+
+                <div class="type-heading-medium mt-16">
+                    Compare 92 vacation rentals.
+                </div>
+
+                
+
+
+<div id="Ea1fPEnVv"
+     data-id=""
+     data-amenity=""
+     data-placeholder_search=""
+     data-label_search_text="Where you would like to go search field"
+     data-include_dates = "True"
+     data-dates_checkin_placeholder = "Check in"
+     data-dates_checkout_placeholder = "Check out"
+     data-onsite_url = "/search?place=/usa/Lake-Winnipesaukee/"
+
+     data-search_term = "Lake Winnipesaukee"
+
+     data-show_guest_selector = "test"
+     data-search_text = "Search"
+     data-adults_text = "Adults"
+     data-children_text = "Children"
+     data-dog_text = "Dog"
+     data-dogs_text = "Dogs"
+     data-guest_text = "Guest"
+     data-guests_text = "Guests"
+     data-clear_text = "Clear"
+     data-continue_text = "Continue"
+     data-clear_dates_text = "Clear Dates"
+     data-search_without_dates_text = "Search Without Dates"
+     data-error_no_search_term_text = "Enter a location or home ID number"
+     data-error_checkin_no_checkout_text = "We need to know your check-out date first."
+></div>
+
+<script defer type="text/javascript" src="https://cms-assets.boise.vacasa.com/js/gen/hero_search.337d990751a5.js"></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        RenderHeroSearch(document.getElementById("Ea1fPEnVv"));
+    });
+
+    window.dataLayer.push({
+        event: 'site-feature-test',
+        testName: 'cms-guest-count-hero-search-bar',
+        testVariationName: "cms-guest-count-hero-search-bar-test"
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+        <div class="place-results-summary container type-body px-16 mb-64">
+    <div class="crumbs mb-16">
+        
+            
+                <span>USA</span>
+            
+            
+                <span class="crumb-divider">&gt;</span>
+            
+        
+            
+                <a href="https://www.vacasa.com/search?place=/usa/New-Hampshire/">New Hampshire</a>
+            
+            
+                <span class="crumb-divider">&gt;</span>
+            
+        
+            
+                <a href="https://www.vacasa.com/search?place=/usa/Lake-Winnipesaukee/">Lake Winnipesaukee</a>
+            
+            
+        
+    </div>
+    <h2 class="type-heading-large mb-24">Make Lake Winnipesaukee your next getaway</h2>
+    <div class="format-html">Lake Winnipesaukee remains one of New England’s most popular destinations, with gorgeous panoramic views, the spirit of the mountains, and local claims to fame. Bring family or friends together with a Lake Winnipesaukee vacation rental. Kick back, listen to the waves come and go, and feel your worries slip away.</div>
+</div>
+
+    
+        
+    
+
+    <div class="place-housing-types container px-16 mb-24">
+        <h2 class="type-heading-large mb-32">
+            Explore Lake Winnipesaukee house rentals, cottages, condo rentals, and more
+        </h2>
+        <div class="housing-types row">
+            
+                <a class="housing-type col-4 mb-32" href="/search?place=/usa/Lake-Winnipesaukee/&amp;housing_type[house]=1" target="_blank">
+                    <div class="image mb-8">
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                                <img data-src="https://www-vacasa.imgix.net/Modern_house_K6a3aXS.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}"
+                                     data-sizes="auto"
+                                     alt="housing_type_house.jpg"
+                                     class="d-block lazyload" >
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                    </div>
+                    <h3 class="type-heading-medium fw-400 mb-8 text-center">
+                        House rentals
+                    </h3>
+                    <div class="count mb-8 text-center">
+                        View 42 House rentals
+                    </div>
+                </a>
+            
+                <a class="housing-type col-4 mb-32" href="/search?place=/usa/Lake-Winnipesaukee/&amp;housing_type[cottage]=1" target="_blank">
+                    <div class="image mb-8">
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                                <img data-src="https://www-vacasa.imgix.net/Cottage_Ke0VTZA.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}"
+                                     data-sizes="auto"
+                                     alt="housing_type_cottage.jpg"
+                                     class="d-block lazyload" >
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                    </div>
+                    <h3 class="type-heading-medium fw-400 mb-8 text-center">
+                        Cottages
+                    </h3>
+                    <div class="count mb-8 text-center">
+                        View 20 Cottages
+                    </div>
+                </a>
+            
+                <a class="housing-type col-4 mb-32" href="/search?place=/usa/Lake-Winnipesaukee/&amp;housing_type[condo]=1" target="_blank">
+                    <div class="image mb-8">
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                                <img data-src="https://www-vacasa.imgix.net/Condo_abrVxqP.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}"
+                                     data-sizes="auto"
+                                     alt="housing_type_condo.jpg"
+                                     class="d-block lazyload" >
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                    </div>
+                    <h3 class="type-heading-medium fw-400 mb-8 text-center">
+                        Condo rentals
+                    </h3>
+                    <div class="count mb-8 text-center">
+                        View 16 Condo rentals
+                    </div>
+                </a>
+            
+        </div>
+    </div>
+
+
+    
+        
+<div class="place-top-units container px-16 mb-32">
+    <h2 class="type-heading-large mb-32">Lake Winnipesaukee vacation rentals for every getaway</h2>
+    <div class="filter">
+        <div class="selected">Popular</div>
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amenity[Pets]=1">Dog-friendly</a>
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amenity[HotTub]=1">Hot tub</a>
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amenity[Internet]=1">Internet</a>
+        
+    </div>
+    <div class="units row">
+        
+            
+            <a class="unit mb-32" href="https://www.vacasa.com/unit/99234" target="_blank" data-unit-id="99234">
+                <div class="image mb-8">
+                    <img data-src="//vacasa-units.imgix.net/4928298.jpg?w={width}&fit=crop&q=40&auto=format,compress"
+                         alt="The Apartment at Camp Hattie Wolfeboro"
+                         class="d-block lazyload"
+                         data-sizes="auto">
+                </div>
+                <div class="summary mb-8">
+                    
+                        0 Bedroom | 1 Bath | Sleeps 2
+                    
+                </div>
+                <h3 class="type-heading-medium fw-400 mb-8">The Apartment at Camp Hattie Wolfeboro - Wolfeboro, NH</h3>
+                <div class="stars">
+                    
+                        <span role="img" aria-label="4.5 stars" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x"></i>
+            <i class="fa fa-star-half star-filled fa-stack-1x"></i>
+        </span>
+    
+
+</span>
+
+                    
+                </div>
+                <div class="price">
+                $131 avg / night
+                </div>
+            </a>
+            
+        
+            
+            <a class="unit mb-32" href="https://www.vacasa.com/unit/114111" target="_blank" data-unit-id="114111">
+                <div class="image mb-8">
+                    <img data-src="//vacasa-units.imgix.net/5579301.jpg?w={width}&fit=crop&q=40&auto=format,compress"
+                         alt="Misty Harbor Beach Retreat"
+                         class="d-block lazyload"
+                         data-sizes="auto">
+                </div>
+                <div class="summary mb-8">
+                    
+                        1 Bedroom | 1 Bath | Sleeps 4
+                    
+                </div>
+                <h3 class="type-heading-medium fw-400 mb-8">Misty Harbor Beach Retreat - Gilford, NH</h3>
+                <div class="stars">
+                    
+                </div>
+                <div class="price">
+                $130 avg / night
+                </div>
+            </a>
+            
+        
+            
+            <a class="unit mb-32" href="https://www.vacasa.com/unit/88352" target="_blank" data-unit-id="88352">
+                <div class="image mb-8">
+                    <img data-src="//vacasa-units.imgix.net/4587608.jpg?w={width}&fit=crop&q=40&auto=format,compress"
+                         alt="Cape Me Away"
+                         class="d-block lazyload"
+                         data-sizes="auto">
+                </div>
+                <div class="summary mb-8">
+                    
+                        3 Bedroom | 2 Bath | Sleeps 5
+                    
+                </div>
+                <h3 class="type-heading-medium fw-400 mb-8">Cape Me Away - Gilford, NH</h3>
+                <div class="stars">
+                    
+                        <span role="img" aria-label="4.5 stars" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x"></i>
+            <i class="fa fa-star-half star-filled fa-stack-1x"></i>
+        </span>
+    
+
+</span>
+
+                    
+                </div>
+                <div class="price">
+                $201 avg / night
+                </div>
+            </a>
+            
+        
+            
+            <a class="unit mb-32" href="https://www.vacasa.com/unit/103431" target="_blank" data-unit-id="103431">
+                <div class="image mb-8">
+                    <img data-src="//vacasa-units.imgix.net/5571599.jpg?w={width}&fit=crop&q=40&auto=format,compress"
+                         alt="Weirs Boulevard Dreamin&#x27;"
+                         class="d-block lazyload"
+                         data-sizes="auto">
+                </div>
+                <div class="summary mb-8">
+                    
+                        1 Bedroom | 1 Bath | Sleeps 3
+                    
+                </div>
+                <h3 class="type-heading-medium fw-400 mb-8">Weirs Boulevard Dreamin&#x27; - Laconia, NH</h3>
+                <div class="stars">
+                    
+                        <span role="img" aria-label="5 stars" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+</span>
+
+                    
+                </div>
+                <div class="price">
+                $176 avg / night
+                </div>
+            </a>
+            
+        
+            
+            <a class="unit mb-32" href="https://www.vacasa.com/unit/97581" target="_blank" data-unit-id="97581">
+                <div class="image mb-8">
+                    <img data-src="//vacasa-units.imgix.net/4905367.jpg?w={width}&fit=crop&q=40&auto=format,compress"
+                         alt="Pool Cottage"
+                         class="d-block lazyload"
+                         data-sizes="auto">
+                </div>
+                <div class="summary mb-8">
+                    
+                        1 Bedroom | 1 Bath | Sleeps 4
+                    
+                </div>
+                <h3 class="type-heading-medium fw-400 mb-8">Pool Cottage - Gilford, NH</h3>
+                <div class="stars">
+                    
+                        <span role="img" aria-label="4 stars" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x"></i>
+        </span>
+    
+
+</span>
+
+                    
+                </div>
+                <div class="price">
+                $133 avg / night
+                </div>
+            </a>
+            
+        
+
+        <a class="view-more-units unit mb-32" href="/search?place=/usa/Lake-Winnipesaukee/">
+            <div class="view-more">
+                <p>View 87 more homes</p>
+                <svg class="v-ui-icon"><use xlink:href="#v-icon-ui-plus"/></svg>
+            </div>
+        </a>
+    </div>
+</div>
+
+    
+        
+    <div class="delimited-text-links container px-16 mb-56">
+        <h2 class="type-heading-large mb-24 mx-0">Browse more vacation rental amenities in Lake Winnipesaukee</h2>
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[Pool]=1">Pool</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[LakeView]=1">Lake view</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[LakeFront]=1">Lakefront</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[RiverFront]=1">Riverfront</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[WaterView]=1">Water view</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[WaterFront]=1">Waterfront</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[CentralAC]=1">A/C</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[Elevator]=1">Elevator</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[Fireplace]=1">Fireplace</a>
+            
+                <span class="delimiter">|</span>
+            
+        
+            <a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[WasherDryer]=1">Washer/dryer</a>
+            
+        
+    </div>
+
+
+    
+        
+    <div class="place-recent-reviews container px-16 mb-24">
+        <h2 class="type-heading-large mb-24 mx-0">Recent Lake Winnipesaukee vacation rental reviews</h2>
+        <div class="reviews row">
+            
+                <a href="/unit/88352" class="review col-4 text-decoration-none mb-16" target="_blank" data-unit-id="88352">
+                    <div class="image overflow-hidden mb-2">
+                        <img data-src="//vacasa-units.imgix.net/4587608.jpg?w={width}&auto=format,compress" data-sizes="auto" class="d-block mb-2 lazyload"/>
+                    </div>
+                    <div class="mb-2">
+                        
+                            <span role="img" aria-label=" star" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+</span>
+
+                        
+                    </div>
+                    <div class="type-heading-medium fw-400 description overflow-hidden mb-2">It was so comfortable and nice</div>
+                    <div class="created-by">
+                        <span class="reviewer">John L.</span>
+                        <span class="delimiter"> | </span>
+                        <span class="date">Dec 2023</span>
+                    </div>
+                </a>
+            
+                <a href="/unit/88446" class="review col-4 text-decoration-none mb-16" target="_blank" data-unit-id="88446">
+                    <div class="image overflow-hidden mb-2">
+                        <img data-src="//vacasa-units.imgix.net/4464890.jpg?w={width}&auto=format,compress" data-sizes="auto" class="d-block mb-2 lazyload"/>
+                    </div>
+                    <div class="mb-2">
+                        
+                            <span role="img" aria-label=" star" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+</span>
+
+                        
+                    </div>
+                    <div class="type-heading-medium fw-400 description overflow-hidden mb-2">Perfect place for a weekend getaway.</div>
+                    <div class="created-by">
+                        <span class="reviewer">Mike G.</span>
+                        <span class="delimiter"> | </span>
+                        <span class="date">Dec 2023</span>
+                    </div>
+                </a>
+            
+                <a href="/unit/107120" class="review col-4 text-decoration-none mb-16" target="_blank" data-unit-id="107120">
+                    <div class="image overflow-hidden mb-2">
+                        <img data-src="//vacasa-units.imgix.net/5467083.jpg?w={width}&auto=format,compress" data-sizes="auto" class="d-block mb-2 lazyload"/>
+                    </div>
+                    <div class="mb-2">
+                        
+                            <span role="img" aria-label=" star" class="d-flex">
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+    
+        <span class="fa-stack fa-lg rating-star">
+            <i class="fa fa-star fa-stack-1x star-filled"></i>
+        </span>
+    
+
+</span>
+
+                        
+                    </div>
+                    <div class="type-heading-medium fw-400 description overflow-hidden mb-2">We have great family time the view and the area was amazing I 100% recommended</div>
+                    <div class="created-by">
+                        <span class="reviewer">Mario D.</span>
+                        <span class="delimiter"> | </span>
+                        <span class="date">Nov 2023</span>
+                    </div>
+                </a>
+            
+        </div>
+    </div>
+
+
+    
+        
+
+<script async src="https://cms-assets.boise.vacasa.com/js/gen/accordion.efd953bbae60.js"></script>
+
+<div class="container-fluid accordion-module mt-72 mt-md-112 place-faq px-16 mb-40 mb-md-112">
+    <div class="row mb-40">
+        <div class="container">
+            <div class="col-12 col-md-8 col-xl-7">
+                
+
+  <div class="type-heading-small-caps mb-8">
+    Lake Winnipesaukee vacation rental FAQ
+  </div>
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_IkWI8EUPa"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_IkWI8EUPa"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                Are vacation rentals in Lake Winnipesaukee pet-friendly?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_IkWI8EUPa" class="details collapse"><p>Yes, 28 of our Lake Winnipesaukee homes allow dogs—so feel free to bring Fido along. (Just make sure to check individual home listings for any limits on the number and size of dogs they allow).</p><a href="https://www.vacasa.com/search?pets=1&place=/usa/Lake-Winnipesaukee/&utm_faq=pet-friendly">Browse dog-friendly homes ></a></div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "pet-friendly",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_IkWI8EUPa')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "Are vacation rentals in Lake Winnipesaukee pet-friendly?",
+                details: $("#details_IkWI8EUPa").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_JJwWyVa8p"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_JJwWyVa8p"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                Do vacation rentals in Lake Winnipesaukee have internet access/WiFi?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_JJwWyVa8p" class="details collapse"><p>Yes. 91 of our Lake Winnipesaukee vacation rentals have internet access, so you can stay connected throughout your trip.</p><a href="https://www.vacasa.com/search?amenity[Internet]=1&place=/usa/Lake-Winnipesaukee/&utm_faq=internet">Browse homes with internet access ></a></div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "internet",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_JJwWyVa8p')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "Do vacation rentals in Lake Winnipesaukee have internet access/WiFi?",
+                details: $("#details_JJwWyVa8p").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_B6FbStzun"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_B6FbStzun"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                What amenities do Lake Winnipesaukee vacation rentals have?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_B6FbStzun" class="details collapse"><br>Some of the most popular amenities in our Lake Winnipesaukee vacation rentals include:<br><ul><li><a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[HotTub]=1">Hot tub</a><li><a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[Internet]=1">Internet</a><li><a href="/search?place=/usa/Lake-Winnipesaukee/&amp;amenity[Pool]=1">Pool</a></ul><br></div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "amenity",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_B6FbStzun')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "What amenities do Lake Winnipesaukee vacation rentals have?",
+                details: $("#details_B6FbStzun").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_YzCRVZZgK"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_YzCRVZZgK"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                What time are check-in and check-out in Lake Winnipesaukee vacation rentals?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_YzCRVZZgK" class="details collapse">Our standard check-in time is 4:00 p.m., and the check-out time is 10:00 a.m. Some exceptions apply—after you book, you’ll find check-in and check-out details in the <a href="https://www.vacasa.com/mobile?utm_faq=check-in-out">Vacasa guest app</a> or your <a href="http://guest.vacasa.com?utm_faq=check-in-out">Trip Manager</a>.</div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "check-in-out",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_YzCRVZZgK')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "What time are check-in and check-out in Lake Winnipesaukee vacation rentals?",
+                details: $("#details_YzCRVZZgK").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_8w81PTGGU"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_8w81PTGGU"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                Will my Lake Winnipesaukee vacation rental be clean when I arrive?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_8w81PTGGU" class="details collapse"><p>Absolutely. Our local Lake Winnipesaukee team includes professional housekeepers who care for all our homes here. They’ll clean thoroughly and restock amenities, so everything is ready for your arrival—and all you have to do is settle in and relax. </p><a href="https://www.vacasa.com/support/vacasa-premium-clean?utm_faq=clean">Learn more about Vacasa Premium Clean ></a></div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "clean",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_8w81PTGGU')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "Will my Lake Winnipesaukee vacation rental be clean when I arrive?",
+                details: $("#details_8w81PTGGU").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+                
+
+
+
+
+    
+        
+<div class="description">
+    <h3>
+        <button class="term type-body-large collapsed"
+             data-toggle="collapse"
+             data-target="#details_dO5FNWCFP"
+             aria-expanded="false"
+             tabindex="0"
+             aria-controls="details_dO5FNWCFP"
+             onkeydown="accordion_keynav(event)"
+        >
+            <div class="words break-long">
+                What if I need to change or cancel my trip to Lake Winnipesaukee?
+            </div>
+            <svg class="v-ui-icon icon plus">
+                <use xlink:href="#v-icon-ui-plus"></use>
+            </svg>
+            <svg class="v-ui-icon icon minus">
+                <use xlink:href="#v-icon-ui-minus"></use>
+            </svg>
+        </button>
+    </h3>
+    <div id="details_dO5FNWCFP" class="details collapse">No worries, plans change. Read over our cancellation policy for more information. And if you currently have a Vacasa reservation for Lake Winnipesaukee, log in to <a href="http://guest.vacasa.com?utm_faq=cancel">Trip Manager</a> to see options available for your specific trip.</div>
+</div>
+
+    
+    
+
+
+
+    
+        <script type="text/javascript">
+            /* log dataLayer event on expand and collapse. https://getbootstrap.com/docs/4.3/components/collapse/ */
+            window.dataLayer = window.dataLayer || [];
+            function pushAccordionEventClosure(action) {
+                return function() {
+                    window.dataLayer.push({
+                        event: 'cms-seo-srp-faq',
+                        faq: "cancel",
+                        place: "/usa/Lake-Winnipesaukee/",
+                        action: action
+                    });
+                }
+            };
+            $('#details_dO5FNWCFP')
+                .on('show.bs.collapse', pushAccordionEventClosure('open'))
+                .on('hide.bs.collapse', pushAccordionEventClosure('closed'));
+
+            /* add place row data to metadata JS array, for later including in head after document ready */
+            Vacasa.PlacePageAccordion = Vacasa.PlacePageAccordion || [];
+            Vacasa.PlacePageAccordion.push({
+                term: "What if I need to change or cancel my trip to Lake Winnipesaukee?",
+                details: $("#details_dO5FNWCFP").html()
+            });
+
+            /* record metadata JS into schema data in the head.  This function is added once for each row,
+            * so clear the source data after it is added so that it only writes metadata once. */
+            $(function () {
+                if (!Vacasa.PlacePageAccordion.length) {
+                    /* don't log if no visible rows or if already logged */
+                    return;
+                }
+                const script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                script.textContent = JSON.stringify({
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity":Vacasa.PlacePageAccordion.map(function(row) {
+                        return {
+                            "@type": "Question",
+                            "name": row.term,
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": row.details
+                            }
+                        }
+                    })
+                }, null, 2);
+
+                document.head.appendChild(script);
+                Vacasa.PlacePageAccordion = []; /* clear so we don't log it again */
+            });
+        </script>
+    
+
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+        
+
+
+
+
+<div class="place-long-description container type-body p-16 my-32">
+    <div class="border-y mb-24">
+        <h2 class="type-heading-large my-24">Book confidently. Stay comfortably.</h2>
+        <div class="icons d-flex flex-row mb-24">
+            <div>
+                <div class="icon d-inline-block mr-8">
+                    <img class="icon-img lazyload" data-src="https://www-vacasa.imgix.net/icon__support--2x.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}" data-sizes="auto" alt="Book confidently. Stay comfortably."/>
+                </div>
+                <div class="icon-text d-inline-block mr-8">24/7 support</div>
+            </div>
+            <div>
+                <div class="icon d-inline-block mr-8">
+                    <img class="icon-img lazyload" data-src="https://www-vacasa.imgix.net/icon__check-in--2x.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}" data-sizes="auto" alt="Easy check-in"/>
+                </div>
+                <div class="icon-text d-inline-block mr-8">Easy check-in</div>
+            </div>
+            <div>
+                <div class="icon d-inline-block mr-8">
+                    <img class="icon-img lazyload" data-src="https://www-vacasa.imgix.net/icon-cleaning.png?auto=format%2Ccompress&amp;ixlib=python-3.2.1&amp;q=45&w={width}" data-sizes="auto" alt="Professional cleaning"/>
+                </div>
+                <div class="icon-text d-inline-block">Professional cleaning</div>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex flex-column format-html">
+        <br><br>
+<h2>Explore our Lake Winnipesaukee, NH vacation rentals</h2>
+Lake Winnipesaukee’s charming small town, annual festivities, and opportunities for scenic drives attract guests year-round. With 170 miles of shoreline and 365 islands, the lake is the focal point for fishing, boating, swimming, sightseeing, and island hopping. Plan an idyllic vacation away, stopping for ice cream at stands in town and listening to loon calls on the lake once dusk falls. 
+<br><br>
+In the surrounding area, you’ll find ski resorts, museums, hiking trails, boat rentals, and New Hampshire’s picturesque covered bridges. Browse cabins and family homes by amenities like lakefront, water views, hot tubs, and fireplaces. Spend some time away in the calm and quiet with a Lake Winnipesaukee vacation rental.
+    </div>
+</div>
+
+    
+        
+    <div class="delimited-text-links container-fluid p-16">
+        <h2 class="type-heading-large mb-24 mx-0">People also search for</h2>
+        <div class="related-dest-section">
+            <div class="text-truncate">
+            
+                    <a href="/usa/New-England/">New England</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/King-Birch-Waterfront-Motel/">King Birch Waterfront Motel - Alton, NH</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Laconia/">Laconia</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Wolfeboro/">Wolfeboro</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Tuftonboro/">Tuftonboro</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Moultonborough/">Moultonborough</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Center-Harbor/">Center Harbor</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Alton/">Alton</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Gilford/">Gilford</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/Meredith/">Meredith</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/New-Hampton/">New Hampton</a>
+                    
+                        <span class="delimiter">&nbsp; | &nbsp;</span>
+                    
+            
+                    <a href="/usa/New-Hampshire/">New Hampshire</a>
+                    
+                    
+            
+            </div>
+        </div>
+        <div class="gray-fade-line"></div>
+        <div class="row">
+            <span class="related-dest-show-button ml-8">Show more &nbsp;</span>
+        </div>
+    </div>
+
+
+    
+        
+
+<div class="flex-grow-1"></div>
+<footer id="footer-v2" class="container-fluid pt-24 pb-24 d-print-none">
+    <div class="container">
+        <div class="row type-body-tiny">
+            <div class="col-auto pr-1">
+                <span class="copyright">© 2023 Vacasa LLC</span>
+            </div>
+            <div class="service-links col">
+                <span>
+                     <span class="d-none d-md-inline">|</span>
+                    <a id="footer-sitemap" href="https://www.vacasa.com/sitemap">Sitemap</a> |
+                    <a id="footer-privacy" href="https://www.vacasa.com/policies">Privacy</a> |
+                    <a id="footer-terms" href="https://www.vacasa.com/terms-of-service">Terms of Service</a> |
+                    <a id="footer-accessibility" href="https://www.vacasa.com/accessibility">Accessibility</a>
+                    
+                </span>
+            </div>
+            <div class="w-100 d-md-none"></div>
+            <div class="col-auto social-icons">
+                <span>
+                    <a href="https://www.instagram.com/vacasa/" rel="noopener noreferrer" target="_blank" id="footer-instagram">
+                        <img src="https://cms-assets.boise.vacasa.com/svg/Instagram.69fc3b5c96cc.svg" alt="Instagram" width="20" height="20">
+                    </a>
+                    <a href="https://www.pinterest.com/vacasa/" rel="noopener noreferrer" target="_blank" id="footer-pinterest">
+                        <img src="https://cms-assets.boise.vacasa.com/svg/Pinterest.5d97521d8b3a.svg" alt="Pinterest" width="20" height="20">
+                    </a>
+                    <a href="https://www.linkedin.com/company/vacasa" rel="noopener noreferrer" target="_blank" id="footer-linkedin">
+                        <img src="https://cms-assets.boise.vacasa.com/svg/LinkedIn.faba117dba43.svg" alt="LinkedIn" width="20" height="20">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCgZXkw4UVFCChoAmPzXNZbA" rel="noopener noreferrer" target="_blank" id="footer-youtube">
+                        <img src="https://cms-assets.boise.vacasa.com/svg/Youtube.0ab1501eb613.svg" alt="Youtube" width="20" height="20">
+                    </a>
+                </span>
+            </div>
+        </div>
+        </div>
+</footer>
+
+    
+
+
+
+<script defer src="https://cms-assets.boise.vacasa.com/js/gen/vacasa.a800c1353223.js"></script>
+<script type="text/javascript">
+    
+    $.get({url: "https://cms-assets.boise.vacasa.com/icon/ui-icons.28917c1eb3d9.svg", headers: {
+            "Access-Control-Allow-Origin":"*"
+        }}, function(data) {
+        var div = document.createElement("div");
+        div.innerHTML = new XMLSerializer().serializeToString(data.documentElement);
+        div.classList.add('d-none');
+        document.body.insertBefore(div, document.body.childNodes[0]);
+    });
+</script>
+
+
+    
+
+
+
+<script>
+    window.Vacasa.Features = window.Vacasa.Splits = {"cms-datadog-rum": {"config": {"applicationId": "b5bc68d5-c314-4347-8ce9-38ecad8559f1", "clientToken": "pub13a65816a6478cb1e12d5edc845412da", "sampleRate": 10, "allowedTracingOrigins": ["https://www.vacasa.com", "https://www.vacasa.ca", "http://www.vacasa.com", "http://www.vacasa.ca"]}}, "cms-guest-count-hero-search-bar": {"variant": "test"}};
+</script>
+</body>
+</html>

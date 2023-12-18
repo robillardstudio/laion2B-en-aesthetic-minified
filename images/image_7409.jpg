@@ -1,0 +1,296 @@
+<script>if(window.location.href.includes("#")) window.location.href = window.location.href.replace(/\/\#\//g,'#').replace(/\/\#/g,'#').replace(/\#/g,'/');</script><!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>World News Blog</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+<!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.php">BREAKING NEWS</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="aboutus.php">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="mailto:contact@bookitimages.com">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>WORLD NEWS</h1>
+			 <span class="subheading">Find international breaking news, top stories, latest headlines and features.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="mx-auto" id="listnews">
+
+<div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/live/2023/12/18/world/israel-hamas-war-gaza-news" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18israel-hamas-header-lbwq/18israel-hamas-header-lbwq-mediumSquareAt3X-v2.jpg" />Israel-Hamas War: Pentagon Chief Urges Israel to Make Safety of Gaza’s Civilians a Priority</h2></a><h3 class="post-subtitle">Relatives and friends of Alon Shamriz, one of the hostages mistakenly killed by Israeli soldiers, at his funeral in Shefayim, Israel, on Sunday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/europe/ireland-fire-hotel-asylum-seekers.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/ireland-fire-02-fghz/ireland-fire-02-fghz-mediumSquareAt3X.jpg" />Irish Leader Condemns Fire at Hotel Preparing to Host Asylum Seekers</h2></a><h3 class="post-subtitle">Prime Minister Leo Varadkar of Ireland speaking to the media on Friday as he arrived in Brussels for an E.U. summit.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/europe/pope-gay-lesbian-same-sex-blessing.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18pop-tkhl/18pop-tkhl-mediumSquareAt3X.jpg" />Pope Francis Allows Priests to Bless Same-Sex Couples</h2></a><h3 class="post-subtitle">Pope Francis at the Vatican last year. The decision to allow blessings was based on his “pastoral vision,” officials said. </h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/middleeast/bp-red-sea-oil-shipping.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/19/multimedia/18bp-redsea-print/18israel-hamas-bp-red-sea-1-bjvw-mediumSquareAt3X.jpg" />BP Pauses Oil Shipments Through Red Sea Amid Fears of Attacks</h2></a><h3 class="post-subtitle">Cargo ships waiting in the Red Sea near the opening of the Suez Canal, in 2021.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/asia/jimmy-lai-trial-hong-kong.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/00hongkong-tycoon-01-bzcm/00hongkong-tycoon-01-bzcm-mediumSquareAt3X.jpg" />Hong Kong Democracy Figure Jimmy Lai Stands Trial After Long Delay</h2></a><h3 class="post-subtitle">Jimmy Lai at Stanley Prison in Hong Kong in July.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/europe/russian-speakers-latvia.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/11/multimedia/11latvia-top-jckp/11latvia-top-jckp-mediumSquareAt3X.jpg" />Fear and Suspicion Stalk Russian Speakers in Latvia</h2></a><h3 class="post-subtitle">Daugavpils, Latvia. More than 80 percent of the population in the city speaks Russian and few share Latvia’s enthusiasm for helping Ukraine.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/asia/seoul-palace-graffiti.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18xp-korea-graffiti-mtvw/18xp-korea-graffiti-mtvw-mediumSquareAt3X.jpg" />Police Investigate Graffiti Found on Seoul’s Main Palace</h2></a><h3 class="post-subtitle">The Gyeongbokgung Palace grounds in Seoul in October.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/middleeast/egypt-election-results-el-sisi.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18egypt-sisiHFO-lpkv/18egypt-sisiHFO-lpkv-mediumSquareAt3X-v2.jpg" />Shrugging Off Egypt’s Crises, El-Sisi Gets Set for 6 More Years</h2></a><h3 class="post-subtitle">President Abdel Fattah el-Sisi has survived crises and bouts of international condemnation since taking power in Egypt a decade ago.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/asia/north-korea-missile-launch-icbm.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18nkorea-missile-fthc/18nkorea-missile-fthc-mediumSquareAt3X.jpg" />North Korea Missile Was an ICBM, South Says</h2></a><h3 class="post-subtitle">A news broadcast in Seoul on Monday, with footage from an earlier North Korean missile launch.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/middleeast/gaza-al-astal-loss.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/07/multimedia/07gaza-astal-01-wcjz/07gaza-astal-01-wcjz-mediumSquareAt3X.jpg" />More Than 100 Members of This Gaza Clan Have Been Killed in War</h2></a><h3 class="post-subtitle">Children who were wounded in a strike on an al-Astal family home being treated last month at Nasser Hospital in Khan Younis, in southern Gaza.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/africa/democratic-republic-of-congo-elections.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/14/multimedia/00congo-4-promo/00congo-4-kvmt-mediumSquareAt3X.jpg" />The Overlooked Crisis in Congo: ‘We Live in War’</h2></a><h3 class="post-subtitle"></h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/australia/new-zealand-maori-rights.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/12/multimedia/00NZ-Maori-01-bgft/00NZ-Maori-01-bgft-mediumSquareAt3X.jpg" />In Rightward Shift, New Zealand Reconsiders Pro-Maori Policies</h2></a><h3 class="post-subtitle">The Māori Party organized protests across New Zealand, including in the capital, Wellington, early this month against proposals to roll back policies that benefit the country’s Indigenous people.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/middleeast/cia-director-burns-israel-hostages-hamas-gaza-prisoners.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18israel-hamas-hostage-talks-1-zjhk/18israel-hamas-hostage-talks-1-zjhk-mediumSquareAt3X.jpg" />CIA Director Discusses Resuming Hostage Swaps Between Israel and Hamas</h2></a><h3 class="post-subtitle">The C.I.A. director, William J. Burns, on Capitol Hill in Washington in September.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/technology/x-twitter-european-union-investigation.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18eu-x1-cbmf/18eu-x1-cbmf-mediumSquareAt3X.jpg" />The E.U. Is Investigating Elon Musk’s Platform X</h2></a><h3 class="post-subtitle">The social media platform X has scaled back its content moderation policies since Elon Musk bought the service last year. </h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/world/middleeast/the-us-defense-secretary-arrives-in-israel-with-a-tougher-message.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18israel-hamas-austin-VERSION-2-jlqh/18israel-hamas-austin-VERSION-2-jlqh-mediumSquareAt3X.jpg" />The U.S. defense secretary arrives in Israel with a tougher message.</h2></a><h3 class="post-subtitle">Defense Secretary Lloyd J. Austin III is in Israel for his second visit to the region since Israel launched a war in Gaza in retaliation for the Hamas-led terrorist attack on Oct. 7.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/us/politics/lloyd-austin-israel-gaza.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18dc-austin-zlmp/18dc-austin-zlmp-mediumSquareAt3X.jpg" />Austin Returns to Israel With a Tougher Message and Lessons Learned</h2></a><h3 class="post-subtitle">As the Biden administration navigates a crisis in Gaza, Defense Secretary Lloyd J. Austin III is taking a prominent role and also revealing more of himself.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/18/briefing/israel-gaza-congo-crisis.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/18ambriefing-europe-nl-promo-dec/17israel-hamas-austin1-bqzh-mediumSquareAt3X.jpg" />Monday Briefing</h2></a><h3 class="post-subtitle">Defense Secretary Lloyd J. Austin III will be in Israel, Bahrain and Qatar this week.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/europe/serbia-parliament-election-results.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17SERBIA-ELECTION1-cqzm/17SERBIA-ELECTION1-cqzm-mediumSquareAt3X.jpg" />Serbia’s Leader Tightens Grip on Power in General Election, Early Results Show</h2></a><h3 class="post-subtitle">President Aleksandar Vucic of Serbia celebrating his re-election on Sunday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/middleeast/israel-netanyahu-cease-fire.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17israel-ledeall1-zbfl/17israel-ledeall1-zbfl-mediumSquareAt3X.jpg" />Israel’s Allies Urge Restraint as Netanyahu Vows ‘Fight to the End’</h2></a><h3 class="post-subtitle">Smoke rising over the Gaza Strip on Sunday following Israeli strikes.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/middleeast/hamas-tunnels-gaza-israel-war.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/19/multimedia/17israel-tunnels-01-vcbq/17israel-tunnels-01-vcbq-mediumSquareAt3X.jpg" />In Gaza, Israelis Display Tunnel Wide Enough to Handle Cars</h2></a><h3 class="post-subtitle">The Israeli military escorted international journalists on a tour of what it says is the largest Hamas tunnel it has discovered to date. </h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/americas/chile-election-results-constitution-referendum.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17chile-results-HFO1-gpwv/17chile-results-HFO1-gpwv-mediumSquareAt3X.jpg" />Chile Rejects Conservative Constitution</h2></a><h3 class="post-subtitle">A rally in Santiago, Chile last week against adopting a new constitution.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/europe/germany-election-pirna-city-mayor.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/world/17GERMANY-ELECTION/17GERMANY-ELECTION-mediumSquareAt3X.jpg" />AfD’s Tim Lochner Is Elected City Mayor of Pirna in Germany</h2></a><h3 class="post-subtitle">Tim Lochner, center, an independent backed by the nationalist party Alternative for Germany, was elected mayor of Pirna, in Germany’s east, on Sunday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/briefing/gaza-israel-hamas-china-cold-congo-crisis.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/18/multimedia/18ambriefing-asia-nl-1-lkmz-PROMO/18ambriefing-asia-nl-1-lkmz-mediumSquareAt3X.jpg" />Monday Briefing: U.S. to Push Israel to Scale Back</h2></a><h3 class="post-subtitle"></h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/middleeast/netanyahu-israel-gaza-hostages-politics.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17Israel-Netanyahu-01-qpkc/17Israel-Netanyahu-01-qpkc-mediumSquareAt3X.jpg" />Gaza Hostage Deaths Weaken Netanyahu’s Grip on Power</h2></a><h3 class="post-subtitle">Prime Minister Benjamin Netanyahu arriving for a cabinet meeting in Tel Aviv on Sunday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/europe/guy-stern-dead.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17Israel-Netanyahu-01-qpkc/17Israel-Netanyahu-01-qpkc-mediumSquareAt3X.jpg" />Guy Stern, Who Fled Germany and Then Interrogated Nazis, Dies at 101</h2></a><h3 class="post-subtitle"></h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/europe/hungary-ukraine-eu.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17eu-ukraine-01-vzfc/17eu-ukraine-01-vzfc-mediumSquareAt3X.jpg" />How Hungary Undermined an E.U. Effort to Give More Aid to Ukraine</h2></a><h3 class="post-subtitle">Prime Minister Viktor Orban of Hungary has embraced the veto as a disruptive weapon to shape European policy.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/17/world/americas/chile-constitution-referendum-vote.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/world/17chile-referendum/17chile-referendum-mediumSquareAt3X.jpg" />Chile Votes on New Conservative Constitution in Referendum</h2></a><h3 class="post-subtitle">Rallying against the proposed new constitution this month in Santiago, Chile’s capital. The vote on Sunday is the culmination of a four-year undertaking.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/americas/bahia-blanca-argentina-storm.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16xp-argentina/16xp-argentina-mediumSquareAt3X.jpg" />Buenos Aires Drenched by Storm That Killed 13 in Bahía Blanca</h2></a><h3 class="post-subtitle">A satellite image of the storm near Buenos Aires on Saturday night.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/africa/migrants-drown-libya.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16migrants-libya-wtbp/16migrants-libya-wtbp-mediumSquareAt3X.jpg" />At Least 61 Migrants Drown Off Libya, I.O.M. Says</h2></a><h3 class="post-subtitle">Shoes of migrants on the beach in Qasr Alkayar, Libya, after their boat capsized in February.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/israel-hostage-killings-gaza.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16israel-ledeall-lede-swap-czbl/16israel-ledeall-lede-swap-czbl-mediumSquareAt3X.jpg" />Three Israeli Hostages Killed in Error Had White Flag, Israel Says</h2></a><h3 class="post-subtitle">Families and supporters of Israeli hostages held by Hamas attending a rally calling for their return in Tel Aviv on Saturday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/europe/vatican-corruption-trial.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16vatican-trial-kbzm/16vatican-trial-kbzm-mediumSquareAt3X.jpg" />Vatican Sentences Cardinal Giovanni Angelo Becciu to Over 5 Years for Fraud</h2></a><h3 class="post-subtitle">Cardinal Giovanni Angelo Becciu in 2018. He was sentenced to serve 5 and a half years on various charges on Saturday. </h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/gaza-communications-have-been-nearly-blacked-out-for-two-days.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16israel-hamas-blackout-gvjz/16israel-hamas-blackout-gvjz-mediumSquareAt3X-v2.jpg" />Gaza communications have been nearly blacked out for two days.</h2></a><h3 class="post-subtitle">Men walk past the rubble of a destroyed building in Gaza, where the conflict with Israel has led to another communications blackout.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/africa/sudan-war-wad-madani.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16sudan-updatetwo/16sudan-update-hkgf-mediumSquareAt3X.jpg" />A Sudanese City Took in Many Fleeing War. Now, Fighting Has Spread There.</h2></a><h3 class="post-subtitle">Riding atop a truck along a road in Wad Madani, Sudan, on Friday, when witnesses and aid workers said heavy gunfire could be heard in several parts of the city’s suburbs.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/canada/christmas-window-displays.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/world/16Canadaletter-gnome/16Canadaletter-gnome-mediumSquareAt3X.jpg" />In Search of Vintage Christmas Window Displays</h2></a><h3 class="post-subtitle">Despite being over 70 years old, the display at McCord Stewart Museum remains in good condition.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/sheikh-nawaf-dead.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/16nawaf-swap-zcwp/16nawaf-swap-zcwp-mediumSquareAt3X.jpg" />Sheikh Nawaf, Emir of Kuwait, Dies at 86</h2></a><h3 class="post-subtitle">Sheikh Nawaf al-Ahmad al-Jaber al-Sabah in 2006. “We offer our condolences to the Kuwaiti people, Islamic and Arab nations and the people of the world,” the Kuwaiti royal court said in a statement upon his death.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/israel-gaza-war-red-sea-houthis-shipping.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16israel-hamas-shipping-impacts-hjbw/16israel-hamas-shipping-impacts-hjbw-mediumSquareAt3X.jpg" />Tensions Spilling Over From Gaza Impact Shipping in the Red Sea</h2></a><h3 class="post-subtitle">A container port in Barcelona last year.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/europe/ukraine-kherson-river-russia.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/17/multimedia/17ukraine-kherson-01-qgfp/17ukraine-kherson-01-qgfp-mediumSquareAt3X.jpg" />Ukrainian Marines on ‘Suicide Mission’ in Crossing the Dnipro River</h2></a><h3 class="post-subtitle">For two months, Ukraine’s Marine Corps has been spearheading an assault across the Dnipro River in the southern region of Kherson to recapture territory from Russian troops.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/americas/nicaragua-miss-universe.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/14/multimedia/00nicaragua-pageant-wqhg/00nicaragua-pageant-wqhg-mediumSquareAt3X.jpg" />Miss Universe Is Latest Target of Nicaragua Government Crackdown</h2></a><h3 class="post-subtitle">Sheynnis Palacios of Nicaragua won the Miss Universe pageant last month in El Salvador.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/13/multimedia/00global-debt-1-kbmq/00global-debt-1-kbmq-mediumSquareAt3X.jpg" />The Debt Problem Is Enormous. Experts Say the System for Fixing It Is Broken</h2></a><h3 class="post-subtitle">Political posters in Argentina, speaking to voter worries about high inflation.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/climate/carbon-markets-global-warming.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/14/climate/00cli-bluecarbon-01/00cli-bluecarbon-01-mediumSquareAt3X.jpg" />Blue Carbon Is One of Many Companies Inking Carbon Market Deals</h2></a><h3 class="post-subtitle">A forest conservation project in Zimbabwe.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/asia/china-weather-snow-subway-crash.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16xp-chinaweather-01-gjqc/16xp-chinaweather-01-gjqc-mediumSquareAt3X.jpg" />China Braces for Cold Wave After Snow Causes Train Crash</h2></a><h3 class="post-subtitle">A section of the Great Wall of China at Shuiguan, north of Beijing, was covered in snow on Friday.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/europe/israel-hamas-money-finance-turkey-intelligence-attacks.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/14/multimedia/00hamas-money-gzlt/00hamas-money-gzlt-mediumSquareAt3X.jpg" />Israel Knew Hamas’s Money Source Years Before Oct. 7 Attacks</h2></a><h3 class="post-subtitle">Running to a reinforced concrete shelter in Ashkelon, Israel, moments after a rocket siren was sounded on Oct. 7.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/israel-mourns-as-the-accidental-killings-of-hostages-reverberate.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16israel-hamas-hostage-reax-ghkq/16israel-hamas-hostage-reax-ghkq-mediumSquareAt3X.jpg" />Israel mourns as the accidental killings of hostages reverberate.</h2></a><h3 class="post-subtitle">Protesters in Tel Aviv on Friday night demanding the return of the remaining hostages.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/asia/india-baby-apps-garbh-sanskar.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/01/10/multimedia/00india-dream-baby-lmwb/00india-dream-baby-lmwb-mediumSquareAt3X.jpg" />In India, There’s an App for Everything. Even Dream Babies.</h2></a><h3 class="post-subtitle">Leena Chauhan, 38, doing a meditation exercise guided by a pregnancy app at her home in Ahmedabad, India.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/01/10/multimedia/00india-dream-baby-lmwb/00india-dream-baby-lmwb-mediumSquareAt3X.jpg" />A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h2></a><h3 class="post-subtitle"></h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/asia/merle-goldman-dead.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/01/10/multimedia/00india-dream-baby-lmwb/00india-dream-baby-lmwb-mediumSquareAt3X.jpg" />Merle Goldman, a Leading Expert on Communist China, Dies at 92</h2></a><h3 class="post-subtitle"></h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/middleeast/israel-hamas-gaza-sullivan.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15Israel-Hamas-Leadall-pfkv/15Israel-Hamas-Leadall-pfkv-mediumSquareAt3X.jpg" />In Israel, Jake Sullivan Denies Talk of a Rift Over Gaza War</h2></a><h3 class="post-subtitle">Jake Sullivan, the president’s national security adviser, speaking in Jerusalem on Friday. He was the latest emissary from the Biden administration to visit Israel to discuss the war.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/middleeast/al-jazeera-journalist-dead-gaza.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/16/multimedia/16israel-hamas-reporter-killed-vfmk/16israel-hamas-reporter-killed-vfmk-mediumSquareAt3X.jpg" />Al Jazeera Cameraman Killed and Bureau Chief Injured in Gaza</h2></a><h3 class="post-subtitle">Colleagues and relatives mourn a Al Jazeera cameraman, Samer Abu Daqqa, at his funeral on Saturday after he was killed during an Israeli airstrike in the southern Gaza Strip. </h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/us/politics/senate-state-nominees-diplomats-republicans.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15dc-diplo-bqvt/15dc-diplo-bqvt-mediumSquareAt3X.jpg" />Senators Hold Up 43 Biden Diplomatic Nominees as Crises Roil World</h2></a><h3 class="post-subtitle">Kurt M. Campbell, right, the nominee for the No. 2 position in the State Department, is among those awaiting confirmation.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/health/lead-poisoning-applesauce-pouches.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15APPLESAUCE-mtwl/15APPLESAUCE-mtwl-mediumSquareAt3X.jpg" />Lead Levels in Children’s Applesauce May Be Traced to Cinnamon Additive</h2></a><h3 class="post-subtitle">Three products, WanaBana apple-cinnamon fruit purée pouches, Schnucks- and Weis-brand cinnamon-flavored applesauce pouches, were manufactured in a plant in Ecuador.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/us/politics/israel-gaza-war-biden-arm-sales.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15dc-us-israel-EXPLAINER-tgpm/15dc-us-israel-EXPLAINER-tgpm-mediumSquareAt3X.jpg" />The U.S. Wants Israel to Scale Back the Gaza War. What Leverage Does It Have?</h2></a><h3 class="post-subtitle">An Israeli tank operates near the border with Gaza. Israel receives about $3.8 billion in security aid from the United States each year.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/climate/cop28-kerry-fossil-fuel-phaseout.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15cli-kerry-tvhj/15cli-kerry-tvhj-mediumSquareAt3X.jpg" />John Kerry on the COP28 Agreement and What Comes Next</h2></a><h3 class="post-subtitle">John Kerry, the special presidential envoy for climate change, at the United Nations COP28 summit in Dubai this month.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/europe/what-im-reading-historical-memory-edition.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15InterpreterNL-HistoricalMemory-1-pqhg/15InterpreterNL-HistoricalMemory-1-pqhg-mediumSquareAt3X.jpg" />What I’m reading: Historical memory edition</h2></a><h3 class="post-subtitle">The Memorial to the Murdered Jews of Europe, in Berlin. A new essay by Masha Gessen in The New Yorker explores the politics of memory in Europe and its implications for current events in Gaza, tracing history back via the lens of their own Jewish family.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/europe/belgium-railway-holocaust-nazis.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15belgium-rail-holocaust-01-fzth/15belgium-rail-holocaust-01-fzth-mediumSquareAt3X.jpg" />Belgian Railway Earned Millions for Holocaust Trains, Report Finds</h2></a><h3 class="post-subtitle">Visitors at the Auschwitz-Birkenau Memorial and Museum in Poland. From 1942 to 1944, the Belgian railways sent 25,843 Jews and Roma people to Auschwitz, according to a report.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/europe/manchester-united-liverpool-premier-league.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15rory-salah-mcbw/15rory-salah-mcbw-mediumSquareAt3X.jpg" />Knowledge Is Power in Soccer. But Is It Fun to Watch?</h2></a><h3 class="post-subtitle">Liverpool, contending again thanks to Mohamed Salah and reams of data.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/middleeast/hamas-israel-hostage.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15israel-hamas-hostage-account-gtmk/15israel-hamas-hostage-account-gtmk-mediumSquareAt3X.jpg" />An Israeli Hostage Speaks of Her 7 Weeks in Hamas Captivity</h2></a><h3 class="post-subtitle">Chen Goldstein-Almog, who, along with her three surviving children, was among the hostages released by Hamas in exchange for the release of prisoners by Israel in November.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div><div class="post-preview col-lg-4 col-md-4 mx-auto float-md-left"><a href="https://www.nytimes.com/2023/12/15/world/europe/russia-interest-rates-inflation.html" rel="nofollow"><h2 class="post-title"><img src="https://static01.nyt.com/images/2023/12/15/multimedia/15russia-rate-01-jtpw/15russia-rate-01-jtpw-mediumSquareAt3X.jpg" />Russia’s Central Bank Raises Rates to 16 Percent</h2></a><h3 class="post-subtitle">The headquarters of Russia’s central bank in Moscow.</h3><p class="post-meta">Posted by
+            <a href="http://bookitimages.com">Thomas</a>
+            on December 2023</p>
+</div>
+
+        <!-- Pager -->
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 mx-auto">
+          <div class="site-heading">
+            <div id="loadMore">Load more</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+		   <li class="list-inline-item">
+              <a href="aboutus.php">About Us</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="termsofuse.php">Terms of Use</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="privacypolicy.php">Privacy Policy</a>
+            </li>
+			<li class="list-inline-item">
+              <a href="disclaimer.php">Disclaimer</a>
+            </li>
+			<li class="list-inline-item">
+              <a href="mailto:contact@bookitimages.com">Contact</a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; bookitimages.com 2023</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<!-- PGE_Home 20/11/2023 08:54 WEBDEV 28 28.0.459.4 --><html lang="fr" class="no-js htmlstd html5">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Home</title><meta name="generator" content="WEBDEV">
+<meta name="viewport" content="">
+<meta name="viewport" content=",initial-scale=1">
+<meta name="viewport" content=",initial-scale=1">
+<meta name="Description" lang="fr" content="">
+<meta name="keywords" lang="fr" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+
+<script src="https://901eoscontentia.boost.ai/chatPanel/chatPanel.js"></script>
+<!--<<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/chatPanel.js"></script>-->
+<link rel="shortcut icon" href="">
+
+<style type="text/css">.wblien,.wblienHorsZTR {border:0;background:transparent;padding:0;text-align:center;box-shadow:none;_line-height:normal;-webkit-box-decoration-break: clone;box-decoration-break: clone; color:#6e7d87;}.wblienHorsZTR {border:0 !important;background:transparent !important;outline-width:0 !important;} .wblienHorsZTR:not([class^=l-]) {box-shadow: none !important;}a:active{}a:visited{}*::-moz-selection{color:#FFFFFF;background-color:#000080;}::selection{color:#FFFFFF;background-color:#000080;}</style><link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/res/standard.css?100011d93ebf1">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/res/static.css?1000253d349c8">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/Evolution190EvolutionGrayVolution.css?100006299737d">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/MyContentiaBe_WD190EvolutionGrayVolution.css?1000099d70653">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/palette-MyContentiaBe_WD.css?10000dddb4de5">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/palette-GrayVolution.css?100007b211f2d">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/res/WDMenu.css?10000f30a274d">
+<link rel="stylesheet" type="text/css" href="/MYCONTENTIABE_WD_WEB/PGE_Home_style.css?10000d1039857">
+<style type="text/css">
+body{ position:relative;line-height:normal;height:100%;width:100%;margin:0 auto;width:100%;height:100%;position:relative; color:#333333;} body{}html,body {background-color:#e5e5e5;position:relative;}#page{position:relative; background-color:#f3f3f3;min-height:674px;height:auto !important; height:674px; min-width:950px;width:auto !important;width:950px;}html, form {height:100%;}#M5,#bzM5{border-top:none;border-right:solid 1px #ffffff;border-bottom:solid 2px #ffffff;border-left:solid 1px #ffffff;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M24,#bzM24{border-top:none;border-right:solid 1px #ffffff;border-bottom:solid 2px #ffffff;border-left:solid 1px #ffffff;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M18{font-family:Arial, Helvetica, sans-serif;}.dzM23{width:167px;height:39px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#M34{font-family:Arial, Helvetica, sans-serif;}.dzM4{width:160px;height:32px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#M9,#bzM9{border-top:none;border-right:solid 1px #ffffff;border-bottom:solid 2px #ffffff;border-left:solid 1px #ffffff;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M12{background-color:#FFFFFF;}.dzM12{width:40px;height:32px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#czM32,#bzczM32{border-style:solid;border-width:1px;border-color:#d9d9d9;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M32,#bzM32{ color:#4D4D4C; }#czM30,#bzczM30{border-style:solid;border-width:1px;border-color:#d9d9d9;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M30,#bzM30{ color:#EA0029; text-decoration:underline;}#M13{background-color:#FFFFFF;}.dzM13{width:40px;height:32px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#czM31,#bzczM31{border-style:solid;border-width:1px;border-color:#d9d9d9;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M31,#bzM31{ color:#4D4D4C; }.l-0{}.dzA4{width:938px;height:546px;;overflow-x:hidden;;overflow-y:hidden;position:static;}.dzA1{width:260px;height:192px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#M20{text-align:right;}#M21{text-align:right;}#M17,#tzM17{font-family:Arial, Helvetica, sans-serif;color:#FFFFFF;text-align:center;vertical-align:middle;background-color:#31171F;}#M29{text-align:left;}#M33{text-align:left;}#M8{text-align:left;}#M27{text-align:left;}#M35{text-align:left;}#M14>.WDOngletMain{  }.M14-sty10001{font-family:Arial, Helvetica, sans-serif;font-size:8pt;color:#000000;text-align:center;vertical-align:middle;background-color:#FFFFFF;border-radius:6px;text-align:center;vertical-align:middle;}.htmlstd .padding.M14-sty10001,.htmlstd .webdevclass-riche .M14-sty10001,.htmlstd .webdevclass-riche.M14-sty10001{padding:1px 16px 0;}.M14-sty10001.wbSurvol,M14-sty10001:hover{font-family:Arial, Helvetica, sans-serif;font-size:9pt;font-weight:bold;color:#EA0029;text-align:center;vertical-align:middle;background-color:#F3F3F3;border-radius:6px;}.M14-sty10001.wbActif,M14-sty10001:active{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:9pt;font-weight:bold;color:#FFFFFF;text-align:center;vertical-align:middle;background-color:#EA0029;border-radius:6px;}.htmlstd .padding.M14-sty10001,.htmlstd .webdevclass-riche .M14-sty10001,.htmlstd .webdevclass-riche.M14-sty10001{padding:1px 16px 0;}.M14-sty10235{font-family:Arial, Helvetica, sans-serif;font-size:9pt;color:#737373;vertical-align:middle;background-color:#F3F3F3;text-align:center;vertical-align:middle;}.htmlstd .padding.M14-sty10235,.htmlstd .webdevclass-riche .M14-sty10235,.htmlstd .webdevclass-riche.M14-sty10235{padding-right:16px;padding-left:16px;}.M14-sty10235.wbSurvol,M14-sty10235:hover{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:9pt;color:#737373;text-align:center;vertical-align:middle;background-color:#FFFFFF;}.M14-sty10235.wbActif,M14-sty10235:active{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:9pt;color:#333333;text-align:center;vertical-align:middle;background-color:#FFFFFF;}.htmlstd .padding.M14-sty10235,.htmlstd .webdevclass-riche .M14-sty10235,.htmlstd .webdevclass-riche.M14-sty10235{padding-right:16px;padding-left:16px;}#M36{  }#M36.wbLienMenu{min-width:px;}#M36.wbLienMenu{height:16px;}#M36+.wbOptionFleche{ }.M36-sty10001{text-align:center;vertical-align:middle;cursor:;}#M37{  }#M37.wbLienMenu{min-width:px;}#M37.wbLienMenu{height:28px;}#M37+.wbOptionFleche{ }.M37-sty10001{text-align:center;vertical-align:middle;cursor:;}#M38{  }#M38.wbLienMenu{min-width:px;}#M38.wbLienMenu{height:16px;}#M38+.wbOptionFleche{ }.M38-sty10001{text-align:center;vertical-align:middle;cursor:;}#M7{  }#M7.wbLienMenu{min-width:px;}#M7.wbLienMenu{height:16px;}#M7+.wbOptionFleche{ }.M7-sty10001{text-align:center;vertical-align:middle;cursor:;}#M10{  }#M10.wbLienMenu{min-width:px;}#M10.wbLienMenu{height:16px;}#M10+.wbOptionFleche{ }.M10-sty10001{text-align:center;vertical-align:middle;cursor:;}#M39{  }#M39.wbLienMenu{min-width:px;}#M39.wbLienMenu{height:16px;}#M39+.wbOptionFleche{ }.M39-sty10001{text-align:center;vertical-align:middle;cursor:;}#M40{  }#M40.wbLienMenu{min-width:px;}#M40.wbLienMenu{height:16px;}#M40+.wbOptionFleche{ }.M40-sty10001{text-align:center;vertical-align:middle;cursor:;}#M41{  }#M41.wbLienMenu{min-width:px;}#M41.wbLienMenu{height:28px;}#M41+.wbOptionFleche{ }.M41-sty10001{text-align:center;vertical-align:middle;cursor:;}#M42{  }#M42.wbLienMenu{min-width:px;}#M42.wbLienMenu{height:18px;}#M42+.wbOptionFleche{ }.M42-sty10001{text-align:center;vertical-align:middle;cursor:;}#M14 .wbOptionAvecSousMenu > .wbOptionSousMenu>.WDSousMenu{background-color:#808080;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-left:1px solid #808080;border-top:1px solid #808080;border-right:1px solid #808080;border-bottom:1px solid #808080;}#M14 .WDMenuSep hr{background-color:#808080;}#M14 a+.wbOptionFleche{border-left-color:#000000;}#M14 .WDSousMenu a+.wbOptionFleche{border-left-color:#737373;}#M14 .WDMenuSep{background-color:#F3F3F3;}#M14 a.wbSurvol+.wbOptionFleche,#M14 a:hover+.wbOptionFleche{border-left-color:#EA0029;}#M14 .WDSousMenu a.wbSurvol+.wbOptionFleche,#M14 .WDSousMenu a:hover+.wbOptionFleche{border-left-color:#737373;}#M14 a.wbActif+.wbOptionFleche,#M14 a:active+.wbOptionFleche{border-left-color:#FFFFFF;}#M14 .WDSousMenu a.wbActif+.wbOptionFleche,#M14 .WDSousMenu a:active+.wbOptionFleche{border-left-color:#333333;}#A3,#tzA3,#bzA3{border-style:solid;border-width:1px;border-color:#d9d9d9;border-collapse:collapse;empty-cells:show;border-spacing:0;}.dzA5{width:133px;height:29px;;overflow-x:hidden;;overflow-y:hidden;position:static;}#A6,#tzA6{color:#FFFFFF;}.l-10{}.l-34{}#M6,#bzM6{border-top:none;border-right:solid 1px #e5e5e5;border-bottom:solid 2px #d3d3d3;border-left:solid 1px #e5e5e5;border-collapse:collapse;empty-cells:show;border-spacing:0;}#M25{color:#555555;background-color:#FFFFFF;}#M26{font-family:Arial, Helvetica, sans-serif;}.wbplanche{background-repeat:repeat;background-position:0% 0%;background-attachment:scroll;background-size:auto auto;background-origin:padding-box;}.wbplancheLibInc{_font-size:1px;}</style><script src="/MYCONTENTIABE_WD_WEB/res/modernizr-2.5.3.js"></script></head><body onload=";clWDUtil.pfGetTraitement('PGE_HOME',15,void 0)(event); " onunload="clWDUtil.pfGetTraitement('PGE_HOME',16,'_COM')(event); "><form name="PGE_HOME" action="/MyContentiaBe_WD/PGE_Home/XA0AAOgKi1onADrK_ESasaZV_W4" target="_self" method="post" class="ancragecenter"><div class="h-0"><input type="hidden" name="WD_JSON_PROPRIETE_" value="{&quot;m_oProprietesSecurisees&quot;:{}}"/><input type="hidden" name="WD_BUTTON_CLICK_" value=""><input type="hidden" name="WD_ACTION_" value=""></div><table style="height:100%;width:950px"><tr style="height:100%"><td><table style="width:950px;height:674px"><tr style="height:674px"><td style="width:950px;min-width:950px"><div style="height:100%;min-width:950px;width:auto !important;width:950px;" class="lh0"><div  id="page" class="clearfix pos1" data-window-width="950" data-window-height="674" data-width="950" data-height="674"><div  class="pos2"><div  class="pos3"><div  class="pos4"><div  class="pos5"><table style="position:relative; height:45px; width:944px;" id="M1" class="l-0 M1-sty10001 padding">
+<tr><td><table style="position:relative;width:100%;height:100%;"><tr style="height:100%"><td></td></tr><tr style="height:0"><td><div id="dwwM5" style="position:absolute;left:178px;top:3px;width:614px;height:40px;z-index:0;visibility:hidden;"><table style=" background-color:#ffffff;border-collapse:separate;border-spacing:0;" id="M5">
+<tr><td style=" height:38px; min-width:612px; background-color:#ffffff;"><div  class="pos6"></div></td></tr></table></div><div id="dwwM24" style="position:absolute;left:3px;top:3px;width:174px;height:40px;z-index:1;"><table style=" background-color:#ffffff;border-collapse:separate;position:relative;border-spacing:0;" id="M24">
+<tr><td style=" height:38px; width:172px; background-color:#ffffff;"><table style="position:relative;width:100%;height:100%;"><tr style="height:100%"><td><div  class="pos7"><div  class="lh0 pos8"><div  class="lh0 pos9"><button type="button" onclick="clWDUtil.pfGetTraitement('M18',0,void 0)(event); " id="M18" class="BTN-Image wbp2etatsNS wbplanche wbPlanche2390475037432 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:15px;width:15px;width:15px\9;height:15px;background-image:url(/MYCONTENTIABE_WD_WEB/res/btn_f083f4ed505359d43be7119b8feed73c99070b26.png);visibility:hidden;">x</button></div></div></div></td></tr><tr style="height:0"><td><div id="dwwM23" style="position:absolute;left:-1px;top:1px;width:167px;height:39px;z-index:1;"><div class="lh0 dzSpan dzM23" id="dzM23" style=""><img src="/MYCONTENTIABE_WD_WEB/Images/logo-ct-be6_D-OTTO.png" alt="" id="M23" class="Image padding" style="display:block;border:0;"></div></div><div id="dwwM34" style="position:absolute;left:64px;top:7px;width:15px;height:15px;z-index:2;visibility:hidden;"><button type="button" onclick="_JCL(clWDUtil.sGetPageActionIE10()+'?M34','_self','','') " id="M34" class="BTN-Image wbp2etatsNS wbplanche wbPlanche2390475029992 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:15px;width:15px;width:15px\9;height:15px;background-image:url(/MYCONTENTIABE_WD_WEB/res/btn_f083f4ed505359d43be7119b8feed73c99070b26.png);">x</button></div></td></tr></table></td></tr></table></div><div id="dwwM4" style="position:absolute;left:609px;top:7px;width:160px;height:32px;z-index:2;"><div class="lh0 dzSpan dzM4" id="dzM4" style=""><img src="/MYCONTENTIABE_WD_WEB/Images/bancontact_165x29.png" alt="" id="M4" class="Image padding" style="display:block;border:0;"></div></div><div id="dwwM9" style="position:absolute;left:793px;top:3px;width:148px;height:40px;z-index:3;"><table style=" background-color:#ffffff;border-collapse:separate;position:relative;border-spacing:0;" id="M9">
+<tr><td style=" height:38px; width:146px; background-color:#ffffff;"><table style="position:relative;width:100%;height:100%;"><tr style="height:100%"><td></td></tr><tr style="height:0"><td><div id="dwwM12" style="position:absolute;left:106px;top:7px;width:40px;height:32px;z-index:0;visibility:hidden;"><div class="lh0 dzSpan dzM12" id="dzM12" style=""><a href="javascript:_JAEE(_PAGE_,'M12',16,0,48);" target="_self"><img src="/MYCONTENTIABE_WD_WEB/Images/menu-disable.png" alt="" id="M12" class="Image padding" style="display:block;border:0;"></a></div></div><div id="dwwM32" style="position:absolute;left:65px;top:7px;width:26px;height:26px;z-index:1;"><table style="position:relative;border-spacing:0;" id="bzczM32">
+<tr><td style=" height:24px; width:24px;"><table style=" width:24px;border-spacing:0;height:24px;border-collapse:separate;border:0;background:none;outline:none;" id="bzM32"><tr><td style="border:none;" id="tzM32" class="valignmiddle"><button type="button" onclick="clWDUtil.pfGetTraitement('M32',0,void 0)(event); " id="M32" class="l-8 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:auto;min-height:24px;width:auto;min-width:24px;width:24px\9;height:auto;min-height:24px;" tabindex="-1">EN</button></td></tr></table></td></tr></table></div><div id="dwwM30" style="position:absolute;left:11px;top:7px;width:26px;height:26px;z-index:2;"><table style="position:relative;border-spacing:0;" id="bzczM30">
+<tr><td style=" height:24px; width:24px;"><table style=" width:24px;border-spacing:0;height:24px;border-collapse:separate;border:0;background:none;outline:none;" id="bzM30"><tr><td style="border:none;" id="tzM30" class="valignmiddle"><button type="button" onclick="clWDUtil.pfGetTraitement('M30',0,void 0)(event); " id="M30" class="l-9 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:auto;min-height:24px;width:auto;min-width:24px;width:24px\9;height:auto;min-height:24px;" tabindex="-1">FR</button></td></tr></table></td></tr></table></div><div id="dwwM13" style="position:absolute;left:100px;top:5px;width:40px;height:32px;z-index:3;"><div class="lh0 dzSpan dzM13" id="dzM13" style=""><a href="javascript:_JAEE(_PAGE_,'M13',16,0,48);" target="_self"><img src="/MYCONTENTIABE_WD_WEB/Images/menu-enable.png" alt="" id="M13" class="Image padding" style="display:block;border:0;"></a></div></div><div id="dwwM31" style="position:absolute;left:38px;top:7px;width:26px;height:26px;z-index:4;"><table style="position:relative;border-spacing:0;" id="bzczM31">
+<tr><td style=" height:24px; width:24px;"><table style=" width:24px;border-spacing:0;height:24px;border-collapse:separate;border:0;background:none;outline:none;" id="bzM31"><tr><td style="border:none;" id="tzM31" class="valignmiddle"><button type="button" onclick="clWDUtil.pfGetTraitement('M31',0,void 0)(event); " id="M31" class="l-8 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:auto;min-height:24px;width:auto;min-width:24px;width:24px\9;height:auto;min-height:24px;" tabindex="-1">NL</button></td></tr></table></td></tr></table></div></td></tr></table></td></tr></table></div></td></tr></table></td></tr></table></div><div  class="pos10"><table style="position:relative;z-index:52; height:622px; width:944px;" id="M2" class="l-10 M2-sty10001 padding">
+<tr><td><table style="position:relative;width:100%;height:100%;"><tr style="height:100%"><td><div  class="pos11"><div  class="pos12"></div></div></td></tr><tr style="height:0"><td><div id="dwwA4" style="position:absolute;left:3px;top:6px;width:938px;height:546px;z-index:0;"><div class="lh0 dzSpan dzA4" id="dzA4" style=""><img src="/MYCONTENTIABE_WD_WEB/Images/EC%20card_Home_OTTO.jpg" alt="" id="A4" class="Image padding" style="display:block;border:0;"></div></div><div id="dwwA1" style="position:absolute;left:3px;top:-1px;width:260px;height:192px;z-index:1;visibility:hidden;"><div class="lh0 dzSpan dzA1" id="dzA1" style=""><img src="/MYCONTENTIABE_WD_WEB/Images/ImageFondAccueil.jpg" alt="" id="A1" class="Image padding" style=" width:260px; height:192px;display:block;border:0;"></div></div><div id="tzA2" style="position:absolute;left:12px;top:451px;width:406px;height:120px;z-index:2;" class="l-11"><noscript>Veuillez activer le Javascript<br />de votre navigateur s'il vous plaît...<br />Schakel Javascript in uw browser in...<br />Please enable Javascript in your browser...<br /></noscript></div><div id="dwwM20" style="position:absolute;left:41px;top:6px;width:107px;height:23px;z-index:3;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM20">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM20" class="Normal padding webdevclass-riche"><label for="M20">ResX</label></td></tr></table></li><li><table style=" width:58px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM20"><tr><td style="border:none;" id="tzM20" class="valignmiddle"><input TYPE="text" SIZE="5" NAME="M20" VALUE="" onkeypress="return VerifSaisieNombre(event,'+99 999 999 999 999 999,99'); " onblur="reinitNombre(event,'+99 999 999 999 999 999,99');VerifRegExp(this,'^^(\\+|\\-){0,1}(\\d|'+_WW_SEPMILLIER_+'){1,22}('+_WW_SEPDECIMAL_+'(\\d| ){0,2}){0,1}$'); " onfocus="var b=(this.value.length==0);initNombre(event,'+99 999 999 999 999 999,99');var s=this.value;if(b=(b&&(s.length>0)))this.value='';;if(b&&(this.value.length==0)){this.value=s;SetPositionCaret(this,0);} " id="M20" class="SAI M20 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM21" style="position:absolute;left:41px;top:31px;width:107px;height:23px;z-index:4;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM21">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM21" class="Normal padding webdevclass-riche"><label for="M21">ResY</label></td></tr></table></li><li><table style=" width:57px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM21"><tr><td style="border:none;" id="tzM21" class="valignmiddle"><input TYPE="text" SIZE="5" NAME="M21" VALUE="" onkeypress="return VerifSaisieNombre(event,'+99 999 999 999 999 999,99'); " onblur="reinitNombre(event,'+99 999 999 999 999 999,99');VerifRegExp(this,'^^(\\+|\\-){0,1}(\\d|'+_WW_SEPMILLIER_+'){1,22}('+_WW_SEPDECIMAL_+'(\\d| ){0,2}){0,1}$'); " onfocus="var b=(this.value.length==0);initNombre(event,'+99 999 999 999 999 999,99');var s=this.value;if(b=(b&&(s.length>0)))this.value='';;if(b&&(this.value.length==0)){this.value=s;SetPositionCaret(this,0);} " id="M21" class="SAI M21 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM17" style="position:absolute;left:3px;top:552px;z-index:5;"><table style=" width:938px;height:68px;"><tr><td id="M17" class="TXT-Normal padding webdevclass-riche"><p>S.A. EOS Contentia N.V - Futur X Center - Bld. Industrielaan 54 - 7700 Moeskroen / Mouscron<br><span style="display:none">Tel :&nbsp;<a href="tel:+3256391711" style="color: #FFFFFF">+32 (0)56 391711</a>&nbsp;- Fax :&nbsp;<a href="fax:+3256332064" style="color: #FFFFFF">+32 (0)56 332064</a>&nbsp;- E-mail:<a href="mailto:info@eos-contentia.be" style="color: #FFFFFF;">info@eos-contentia.be</a><br></span>Lid van ABR/BVI - RMP - BTW - BE0454609009 / RPM - TVA - BE0454609009<span style="display:none"><br><a href="https://be.eos-solutions.com/fr/privacy-statement-debtors-my-eos-contentia.html" style="color: white" target="_blank">Privacy Disclaimer</a></span></p></td></tr></table></div><div id="dwwM29" style="position:absolute;left:41px;top:56px;width:107px;height:23px;z-index:6;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM29">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM29" class="Normal padding webdevclass-riche"><label for="M29">ActiveChat</label></td></tr></table></li><li><table style=" width:27px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM29"><tr><td style="border:none;" id="tzM29" class="valignmiddle"><input TYPE="text" SIZE="2" NAME="M29" VALUE="0" onchange="clWDUtil.pfGetTraitement('M29',11,void 0)(event); " id="M29" class="SAI M29 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM33" style="position:absolute;left:41px;top:81px;width:107px;height:23px;z-index:7;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM33">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM33" class="Normal padding webdevclass-riche"><label for="M33">ParamChat</label></td></tr></table></li><li><table style=" width:27px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM33"><tr><td style="border:none;" id="tzM33" class="valignmiddle"><input TYPE="text" SIZE="2" NAME="M33" VALUE="" id="M33" class="SAI M33 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM8" style="position:absolute;left:41px;top:106px;width:107px;height:23px;z-index:8;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM8">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM8" class="Normal padding webdevclass-riche"><label for="M8">CurLang</label></td></tr></table></li><li><table style=" width:27px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM8"><tr><td style="border:none;" id="tzM8" class="valignmiddle"><input TYPE="text" SIZE="2" NAME="M8" VALUE="FR" onchange="clWDUtil.pfGetTraitement('M8',11,void 0)(event); " id="M8" class="SAI M8 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM27" style="position:absolute;left:41px;top:131px;width:107px;height:23px;z-index:9;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM27">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM27" class="Normal padding webdevclass-riche"><label for="M27">IdConversation</label></td></tr></table></li><li><table style=" width:27px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM27"><tr><td style="border:none;" id="tzM27" class="valignmiddle"><input TYPE="text" SIZE="2" NAME="M27" VALUE="" id="M27" class="SAI M27 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM35" style="position:absolute;left:41px;top:156px;width:107px;height:23px;z-index:10;visibility:hidden;"><table style="position:relative;">
+<tr><td style=" height:23px; width:107px;"><ul style=" width:107px;position:relative;left:0;" class="wbLibChamp wbLibChampM35">
+<li style=" height:23px;"><table style=" width:107px;height:23px;"><tr><td id="lzM35" class="Normal padding webdevclass-riche"><label for="M35">API_Test</label></td></tr></table></li><li><table style=" width:27px;border-spacing:0;height:22px;border-collapse:separate;border:0;outline:none;" id="bzM35"><tr><td style="border:none;" id="tzM35" class="valignmiddle"><input TYPE="text" SIZE="2" NAME="M35" VALUE="0" onchange="clWDUtil.pfGetTraitement('M35',11,void 0)(event); " id="M35" class="SAI M35 padding webdevclass-riche"></td></tr></table></li></ul></td></tr></table></div><div id="dwwM14" style="position:absolute;left:739px;top:3px;width:195px;height:170px;z-index:50;visibility:hidden;" data-webdev-class-usr="" class=""><nav id="M14" class="wbMenuMain wbMenuVertical wbMenuMobile" class="wbMenuMain wbMenuVertical wbMenuMobile" role="navigation"><ul role="menubar" class="effet WDOngletMain" onclick="oGetObjetChamp('M14').OnClick(event)"><li id="tzM36" style="" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M36',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M36','') " id="M36" class=" l-15 wbstyle wbLienMenu  l-13 M14-sty10001 M36-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Se connecter</a></li></ul></li><li id="tzM37" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M37',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M37','') " id="M37" class=" l-17 wbstyle wbLienMenu  l-13 M14-sty10001 M37-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:28px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Mes&nbsp;données
+<br>
+personnelles</a></li></ul></li><li id="tzM38" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M38',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M38','') " id="M38" class=" l-19 wbstyle wbLienMenu  l-13 M14-sty10001 M38-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Payer</a></li></ul></li><li id="tzM7" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M7',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M7','') " id="M7" class=" l-21 wbstyle wbLienMenu  l-13 M14-sty10001 M7-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Mes paiements</a></li></ul></li><li id="tzM10" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M10',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M10','') " id="M10" class=" l-23 wbstyle wbLienMenu  l-13 M14-sty10001 M10-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Mes commandes</a></li></ul></li><li id="tzM39" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M39',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M39','') " id="M39" class=" l-25 wbstyle wbLienMenu  l-13 M14-sty10001 M39-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Nous contacter</a></li></ul></li><li id="tzM40" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M40',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M40','') " id="M40" class=" l-27 wbstyle wbLienMenu  l-13 M14-sty10001 M40-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:16px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Mes documents</a></li></ul></li><li id="tzM41" style="display:none;visibility:hidden;" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M41',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M41','') " id="M41" class=" l-29 wbstyle wbLienMenu  l-13 M14-sty10001 M41-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:28px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)"><img src="/MYCONTENTIABE_WD_WEB/Images/chat.png" alt="chat" title="Chat"></a></li></ul></li><li id="tzM42" style="" class="padding effet WDMenuTDImage wbMenuOption WDMenuOption wbstyle" role="menuitem"><ul class="wbOptionAvecSousMenu"><li class="wbOptionLien"><a href="javascript:clWDUtil.pfGetTraitement('M42',19,void 0)();" oncontextmenu="window.WDMenu && WDMenu.s_OnMenuContextuel(event,'M42','') " id="M42" class=" l-31 wbstyle wbLienMenu  l-13 M14-sty10001 M42-sty10001  padding webdevclass-riche" data-webdev-class-usr="" style="width:px;height:18px;" title="" data-classConcat="true" data-classRemove="(wbLienMenuAvecSousMenu|wbLienMenuAvecSousMenuBlancGaucheDefautVerticalMobile)">Privacy Disclaimer</a></li></ul></li></ul></nav></div><div id="dwwA3" style="position:absolute;left:452px;top:505px;z-index:12;"><table style=" width:133px;border-spacing:0;height:26px;border-collapse:separate;background:none;outline:none;" id="bzA3"><tr><td style="border:none;" id="tzA3" class="l-33 valignmiddle"><button type="button" onclick="clWDUtil.pfGetTraitement('A3',0,void 0)(event); " id="A3" class="l-33 wblien bbox padding webdevclass-riche" style="display:block;border:0;width:100%;height:auto;min-height:24px;width:auto;min-width:131px;width:131px\9;height:auto;min-height:24px;">Se connecter</button></td></tr></table></div><div id="dwwA5" style="position:absolute;left:452px;top:470px;width:133px;height:29px;z-index:13;"><div class="lh0 dzSpan dzA5" id="dzA5" style=""><i class="wbHnImg" style="opacity:0;" data-wbModeHomothetique="16"><img src="/MYCONTENTIABE_WD_WEB/Images/btn_connect_tangerine_FR.svg" alt="" onclick="clWDUtil.pfGetTraitement('A5',0,void 0)(event); " id="A5" class="Image padding" style=" width:133px; height:29px;display:block;border:0;" onload="(window.wbImgHomNav ? window.wbImgHomNav(this,16,0) : (window['wbImgHomNav_DejaLoaded'] = (window['wbImgHomNav_DejaLoaded']||[]).concat([  [this,16,0]  ]))); "></i></div></div><div id="dwwA6" style="position:absolute;left:472px;top:530px;z-index:14;"><table style=" width:100px;height:20px;"><tr><td style="text-decoration:none;" id="tzA6" class="LIEN-Gauche-Non-Souligne valignmiddle"><a href="javascript:clWDUtil.pfGetTraitement('A6',0,void 0)();" id="A6" class="LIEN-Gauche-Non-Souligne wblienHorsZTR bbox padding">Privacy Disclaimer</a></td></tr></table></div></td></tr></table></td></tr></table></div><div  class="lh0 pos13"><table style=" height:1px; min-width:944px;" id="M3" class="l-34 M3-sty10001 padding">
+<tr><td></td></tr></table></div></div></div></div></div></div></td></tr></table></td></tr></table><div id="dwwM6" style="position:absolute;left:3px;top:3px;width:400px;height:300px;z-index:3;display:none;margin:0;" class=" wbchamppopup"><table style=" background-color:#ffffff;border-collapse:separate;position:relative;border-spacing:0;" id="M6">
+<tr><td onload="clWDUtil.pfGetTraitement('M6',15,void 0)(event); " style=" height:298px; width:398px;"><table style="position:relative;width:100%;height:100%;"><tr style="height:100%"><td><div  class="pos14"><div  class="lh0 pos15"><div  class="lh0 pos16"><button type="button" onclick="_JAEE(_PAGE_,'M26',16,0,48); " id="M26" class="BTN-Image wbp2etatsNS wbplanche wbPlanche2390597392664 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:15px;width:15px;width:15px\9;height:15px;background-image:url(/MYCONTENTIABE_WD_WEB/res/btn_f083f4ed505359d43be7119b8feed73c99070b26.png);visibility:hidden;">x</button></div></div><div  class="pos17"><div  class="pos18"><table style=" width:334px;height:20px;"><tr><td id="tzM28" class="Normal padding"></td></tr></table></div></div></div><div  class="pos19"><div  class="pos20"><table style=" width:382px;position:relative;height:251px;"><tr><td id="tzPGE_HOME_M15" class="l-38 padding valignmiddle"><!--[if IE]><iframe src="" name="PGE_HOME_M15" style="border:0;overflow:auto;width:100%;height:100%;position:absolute;top:0;left:0;" frameborder="0"><![endif]--><!--[if !IE]>--><iframe src="" name="PGE_HOME_M15" style="border:0;overflow:auto;width:100%;height:100%;position:absolute;top:0;left:0;"><!--<![endif]--></iframe></td></tr></table></div></div></td></tr><tr style="height:0"><td><div id="dwwM25" style="position:absolute;left:369px;top:8px;width:21px;height:21px;z-index:1;"><button type="button" onclick="clWDUtil.pfGetTraitement('M25',0,void 0)(event); " id="M25" class="BTN-Image wbp2etatsNS wbplanche wbPlanche2390475015112 wblien bbox padding webdevclass-riche" style="display:block;width:100%;height:21px;width:21px;width:21px\9;height:21px;background-image:url(/MYCONTENTIABE_WD_WEB/res/btn_3a40ca21b4060cc7c7fda2e523579e235dd548.png);">X</button></div></td></tr></table></td></tr></table></div>
+</form>
+<script type="text/javascript">undefined!==window.onpageshow?window.onpageshow=function(){history.forward()}:history.forward();</script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/Contentia.js"></script>
+<script type="text/javascript">var _bTable16_=false;
+</script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WWConstante5.js?3fffe37eaf35a"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDUtil.js?3ffffe4edd741"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/StdAction.js?30000e656e7a6"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDChamp.js?30001f7037ae7"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDMenu.js?30002e4edd741"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDXML.js?300035315ef1b"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDAJAX.js?3000ce4edd741"></script>
+<script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDStd.js?30016909dff9a"></script>
+<script type="text/javascript">
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJ4X3Bjc29mdF9ub21fbG9naXF1ZSI6IlBHRV9Ib21lIiwieF9wY3NvZnRfdHlwZV9sb2dpcXVlIjoiNjU1MzgiLCJ4X3Bjc29mdF9pZF9lbnNlbWJsZSI6IjUwNjg1MTEyNTk4NTk2NDYwODkiLCJtYXBwaW5ncyI6IkEifQ==
+var cptLocTime=0;var MyContentiaBe_WD_g_PgeLink_active=1;var MyContentiaBe_WD_g_Chat_ChangeConversationId=unescape("");var MyContentiaBe_WD_g_EtatLogin=0;var AliveTime=7000;var MyContentiaBe_WD_g_ShowChatBot=0;var AliveCpt=3;var MyContentiaBe_WD_cptLocTimeTotal=1;var maxLocTimeTotal=19;var MyContentiaBe_WD_g_ChatActive=unescape("0");var MyContentiaBe_WD_g_Chat_IframeSource=unescape("");var MyContentiaBe_WD_g_Itsme_SubDomain=unescape("prd");var MyContentiaBe_WD_g_Itsme_client_id=unescape("XsgG4PEPdb");var MyContentiaBe_WD_g_Itsme_redirect_uri=unescape("https://my.eos-contentia.be/MyContentiaBe_WD");var MyContentiaBe_WD_g_Itsme_Service_Code=unescape("EOSCONTENT_LOGIN");var MyContentiaBe_WD_g_Itsme_Scope=unescape("+profile+phone+email");var _lastconnection=unescape("");var _NA_=5;var _WW_SEPMILLIER_=" ";var _WW_SEPDECIMAL_=",";var _PU_="/MyContentiaBe_WD/PGE_Home/XA0AAOgKi1onADrK_ESasaZV_W4";var _GFI_A_=true;var _GFI_T_=60;var _PAGE_=document["PGE_HOME"];clWDUtil.DeclareClones({});clWDUtil.DeclareSurchargeTraitementServeur({});clWDUtil.DeclareChamp("M14",void 0,void 0,void 0,WDMenu,[false,{}],true,true);
+var _COL={9:"#fff0a5",66:"#745f1d"};
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["procalive","PROCALIVE"],function(){try{clWDUtil.Try();{cptLocTime=cptLocTime+1;if((cptLocTime>AliveCpt)){if((MyContentiaBe_WD_cptLocTimeTotal<maxLocTimeTotal)){cptLocTime=0;clWDUtil.pfGetTraitement("M18",0,void 0)();}}}}catch(_E){clWDUtil.xbCatchThrow(_E);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["InfoChatBot_","INFOCHATBOT_"],function(VSourceInfo){try{clWDUtil.Try();{clWDAJAXMain.AJAXExecuteSynchrone20("PGE_Home.ActionChatBot_","",0,clWDUtil.oConversionType("PGE_HOME",16,0,16,0),VSourceInfo);}}catch(_E){clWDUtil.xbCatchThrow(_E);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["Page_NoRefresh","PAGE_NOREFRESH"],function Page_NoRefresh()
+{
+pgnr=0;
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// Page_NoRefresh ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE Page_NoRefresh()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeLngChatFR","CHANGELNGCHATFR"],function ChangeLngChatFR()
+{
+ window.sessionStorage.setItem("selLang", "fr-FR");
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeLngChatFR ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeLngChatFR()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeLngChatNL","CHANGELNGCHATNL"],function ChangeLngChatNL()
+{
+ window.sessionStorage.setItem("selLang", "nl-NL");
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeLngChatNL ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeLngChatNL()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeLngChatEN","CHANGELNGCHATEN"],function ChangeLngChatEN()
+{
+ window.sessionStorage.setItem("selLang", "en-US");
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeLngChatEN ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeLngChatEN()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["LoginLogout","LOGINLOGOUT"],function LoginLogout()
+{
+	Page_NoRefresh();
+//	var elementa3=parent.document.getElementById("A3");
+//	if (typeof(elementa3) != "undefined" && elementa3 != null)
+//	{
+//		var captionLogin = document.getElementById("M13").innerText;
+//		if (captionLogin == "Déconnexion" || captionLogin == "Uitloggen" || captionLogin == "Logout")
+//		{
+//			
+//			if (parent.document.getElementById("A3").value == "1")
+//			{
+//				//parent.changeFilterByDefaultChat(); 
+//				var frame = parent.document.getElementsByTagName("iframe");
+//				if (typeof(frame[1]) != "undefined" && frame[1] != null)
+//				{
+//					var contenu = frame[1].contentDocument || frame[1].document;
+//					contenu.getElementById("A6").value="";
+//					var inframe = contenu.getElementsByTagName("iframe")[0];
+//					inframe.src="";
+//					parent.document.getElementById("dwwPGE_LINK_A2").style.top="603px"
+//					parent.document.getElementById("dwwPGE_LINK_A2").firstChild.style.height="50px"
+//					parent.document.getElementById("tzPGE_LINK_A2").style.visibility="hidden";
+//					parent.document.getElementById("A3").value="0";
+//				}
+//			}
+//		}
+//	}	
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// LoginLogout ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE LoginLogout()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeFilterChatLogout","CHANGEFILTERCHATLOGOUT"],function ChangeFilterChatLogout()
+{
+//	var elementa3=parent.document.getElementById("A3");
+//	if (typeof(elementa3) != "undefined" && elementa3 != null)
+//	{
+		//changeFilterAPIChat();
+		//changeFilterByDefaultChat();
+		if (document.getElementById("M35").value=="1") {
+			changeFilterAPIChat();
+		} else {
+			changeFilterByDefaultChat();
+		};
+//	}
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeFilterChatLogout ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeFilterChatLogout()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeFilterChat_","CHANGEFILTERCHAT_"],function ChangeFilterChat_()
+{
+//	var elementa3=parent.document.getElementById("A3");
+//	if (typeof(elementa3) != "undefined" && elementa3 != null)
+//	{
+		changeFilterAfterConnectChat();
+//	}
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeFilterChat_ ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeFilterChat_()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ChangeChatBotConversation_","CHANGECHATBOTCONVERSATION_"],function ChangeChatBotConversation_(newconversationId)
+{
+	window.sessionStorage.setItem('conversationId', newconversationId);
+	document.getElementById("M27").value = window.sessionStorage.getItem('conversationId') || null;
+	var conversationId = window.sessionStorage.getItem('conversationId') || null;
+	var filterbydefault = window.sessionStorage.getItem('filterbydefault') || null;
+	console.log('openChat'+ '=' + filterbydefault + '=' + conversationId);
+
+	if ((conversationId != null)  && (chatPanel !== undefined)){
+		console.log('conversationId != null');
+		chatPanel = window.boostChatPanel({
+			apiUrlBase: "https://901eoscontentia.boost.ai/api",
+			conversationId: conversationId,
+			language: selLanguage,
+			filterValues: [filterbydefault]
+		});
+		// window.sessionStorage.removeItem('conversationId');
+		console.log('new openChat');
+	}
+	// openChat();
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ChangeChatBotConversation_ ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ChangeChatBotConversation_()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ExtractConversationID","EXTRACTCONVERSATIONID"],function ExtractConversationID()
+{
+ document.getElementById("M27").value = window.sessionStorage.getItem('conversationId') || null;
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ExtractConversationID ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ExtractConversationID()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["HideChatBot","HIDECHATBOT"],function HideChatBot()
+{
+document.getElementById("btn_chat").style.display = "none";
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// HideChatBot ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE HideChatBot()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[["ShowChatBot","SHOWCHATBOT"],function ShowChatBot()
+{
+	if (chatPanel !== undefined) {
+		console.log('ShowChatBot');
+		chatPanel.show(); 
+	}
+}
+// Résumé : <indiquez ici ce que fait la procédure>
+// Syntaxe :
+// ShowChatBot ()
+//
+// Paramètres :
+//	Aucun
+// Valeur de retour :
+// 	Aucune
+//
+// Exemple :
+// Indiquez ici un exemple d'utilisation.
+//
+//PROCEDURE ShowChatBot()
+//
+//
+,void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[15,function(event){clWDUtil.pfGetTraitement("PGE_HOME",15,"_COM")(event);if(false===clWDUtil.pfGetTraitement("PGE_HOME",15,"_0")(event)){return;};try{clWDUtil.Try();{AliveChatTime=300;NumTimer=0;eval((("bz"+"A3")+".style")).borderStyle="none";if(clWDUtil.bComparaison(MyContentiaBe_WD_g_ShowChatBot,true,true,false,false,false)){clWDUtil.pfGetTraitement("PGE_HOME","ShowChatBot",void 0)();clWDAJAXMain.AJAXExecuteSynchrone20("PGE_Home.UnableShowChatBot","",0);}}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false,15,function(event){try{clWDUtil.Try();{eval((("bzcz"+"M30")+".style")).borderStyle="none";eval((("bzcz"+"M31")+".style")).borderStyle="none";eval((("bzcz"+"M32")+".style")).borderStyle="none";cptLocTime=0;if((MyContentiaBe_WD_g_PgeLink_active==1)){if(((MyContentiaBe_WD_g_Chat_ChangeConversationId!="")&&clWDUtil.bComparaison(document.getElementsByName("M27")[0].value,"",true,false,false,false))){clWDUtil.pfGetTraitement("PGE_HOME","ChangeChatBotConversation_",void 0)(MyContentiaBe_WD_g_Chat_ChangeConversationId);}clWDUtil.pfGetTraitement("PGE_HOME","ExtractConversationID",void 0)();if((clWDUtil.bComparaison(MyContentiaBe_WD_g_EtatLogin,true,true,false,false,false)&&(clWDUtil.oConversionType("PGE_HOME",19,0,19,0)!="PGE_PAYMENTREQUESTCTP"))){clWDUtil.pfGetTraitement("PGE_HOME","ChangeFilterChat_",void 0)();}else{clWDUtil.pfGetTraitement("PGE_HOME","ChangeFilterChatLogout",void 0)();}}else{clWDUtil.pfGetTraitement("PGE_HOME","HideChatBot",void 0)();}if(((((clWDUtil.oConversionType("PGE_HOME",19,0,19,0)!="PGE_ATOSRECEPTION")&&(clWDUtil.oConversionType("PGE_HOME",19,0,19,0)!="PGE_HOME"))&&(clWDUtil.oConversionType("PGE_HOME",19,0,19,0)!="PGE_LOGIN"))&&(clWDUtil.oConversionType("PGE_HOME",19,0,19,0)!="PGE_PAYCONIQRECEPTION"))){setInterval(clWDUtil.pfGetTraitement("PGE_HOME","procalive",void 0),clWDUtil.nGetDuree(AliveTime,false,true));}}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},"_0",false]);
+clWDUtil.DeclareTraitementEx("M18",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"M18","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M32",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"M32","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M30",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"M30","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M31",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"M31","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M29",false,[11,function(event){try{clWDUtil.Try();{MyContentiaBe_WD_g_ChatActive=clWDUtil.oConversionType(document.getElementsByName("M29")[0].value,19,0,31,0);}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("M8",false,[11,function(event){try{clWDUtil.Try();{MyContentiaBe_WD_g_Chat_IframeSource=clWDUtil.oConversionType(document.getElementsByName("M33")[0].value,19,0,31,0);}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("M35",false,[11,function(event){try{clWDUtil.Try();{MyContentiaBe_WD_g_ChatActive=clWDUtil.oConversionType(document.getElementsByName("M29")[0].value,19,0,31,0);}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("M36",false,[19,function(event){try{clWDUtil.Try();{if((MyContentiaBe_WD_g_PgeLink_active==1)){clWDUtil.pfGetTraitement("PGE_HOME","ChangeFilterChatLogout",void 0)();}clWDUtil.pfGetTraitement("PGE_HOME","LoginLogout",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M36"),"_self","","",true);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M37",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M37"),"_self","","",true);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M38",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M38"),"_self","","",true);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M7",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M7"),"_self","","",true);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M10",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M10"),"_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M39",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M39"),"_self","","",true);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M40",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JEM(clWDUtil.sGetAliasDeOriginal("M40"),"_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("M41",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}if(clWDUtil.bSurchargeTraitementServeur(clWDUtil.sGetAliasDeOriginal("M41"),26)){_JEM(clWDUtil.sGetAliasDeOriginal("M41"),"_self","","");}},void 0,false]);
+clWDUtil.DeclareTraitementEx("M42",false,[19,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();clWDUtil.oGetCurrentStyleIdName("M12",document,true,true,false).visibility=clWDUtil.sGetVisibility(false,0);clWDUtil.oGetCurrentStyleIdName("M13",document,true,true,false).visibility=clWDUtil.sGetVisibility(true,0);clWDUtil.oGetCurrentStyleIdName(clWDUtil.sGetAliasDeOriginal("M14"),document,true,true,false).visibility=clWDUtil.sGetVisibility(false,0);var V2390601358984=clWDUtil.oConversionType(_NA_,8,0,8,0);if(clWDUtil.bComparaison(V2390601358984,5,true,false,false,false)){window.open("https://be.eos-solutions.com/fr/privacy-statement-debtors-my-eos-contentia.html");}else if(clWDUtil.bComparaison(V2390601358984,12,true,false,false,false)){window.open("https://be.eos-solutions.com/privacy-statement-debtors-my-eos-contentia.html");}else if(clWDUtil.bComparaison(V2390601358984,3,true,false,false,false)){window.open("https://be.eos-solutions.com/en/privacy-statement-debtors-my-eos-contentia.html");}else{window.open("https://be.eos-solutions.com/en/privacy-statement-debtors-my-eos-contentia.html");}}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("A3",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"A3","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("A5",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();var Vui_locales="";var V2390601355928=clWDUtil.oConversionType(_NA_,8,0,8,0);if(clWDUtil.bComparaison(V2390601355928,5,true,false,false,false)){Vui_locales="fr";}else if(clWDUtil.bComparaison(V2390601355928,12,true,false,false,false)){Vui_locales="nl";}else if(clWDUtil.bComparaison(V2390601355928,3,true,false,false,false)){Vui_locales="en";}else{Vui_locales="en";}window.open(((((((((((((("https://oidc."+MyContentiaBe_WD_g_Itsme_SubDomain)+".itsme.services/clientsecret-oidc/csapi/v0.1/connect/authorize?client_id=")+MyContentiaBe_WD_g_Itsme_client_id)+"\x26response_type=code\x26redirect_uri=")+MyContentiaBe_WD_g_Itsme_redirect_uri)+"\x26scope=openid+service:")+MyContentiaBe_WD_g_Itsme_Service_Code)+MyContentiaBe_WD_g_Itsme_Scope)+"\x26state=")+Vui_locales)+"\x26nonce=anonce\x26ui_locales=")+Vui_locales)+"\x26prompt=login\x26max_age=1"));top.close();return;}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("A6",false,[0,function(event){try{clWDUtil.Try();{clWDUtil.pfGetTraitement("PGE_HOME","Page_NoRefresh",void 0)();var V2390601359608=clWDUtil.oConversionType(_NA_,8,0,8,0);if(clWDUtil.bComparaison(V2390601359608,5,true,false,false,false)){window.open("https://be.eos-solutions.com/fr/privacy-statement-debtors-my-eos-contentia.html");}else if(clWDUtil.bComparaison(V2390601359608,12,true,false,false,false)){window.open("https://be.eos-solutions.com/privacy-statement-debtors-my-eos-contentia.html");}else if(clWDUtil.bComparaison(V2390601359608,3,true,false,false,false)){window.open("https://be.eos-solutions.com/en/privacy-statement-debtors-my-eos-contentia.html");}else{window.open("https://be.eos-solutions.com/en/privacy-statement-debtors-my-eos-contentia.html");}}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JAEE(_PAGE_,"A6",16,2,48);},void 0,false]);
+clWDUtil.DeclareTraitementEx("M6",false,[15,function(event){try{clWDUtil.Try();{_JGE("M28",document).innerHTML=clWDUtil.sEncodeInnerHTML(document.getElementsByName("PGE_HOME_M15")[0].src,true,false);if((clWDUtil.bComparaison(clWDUtil.sWLVersNumerique(document.getElementsByName("M20")[0].value,_WW_SEPDECIMAL_),0,false,false,false,true)&&clWDUtil.bComparaison(clWDUtil.sWLVersNumerique(document.getElementsByName("M21")[0].value,_WW_SEPDECIMAL_),0,false,false,false,true))){clWDUtil.oGetCurrentStyleIdName("M6",document,true,true,false).top=_JCCP(clWDUtil.oDivision((760-_JGEN("M6",document,false,false).offsetHeight),2),_JGEN("M6",document,true,false),false,false)+"px";clWDUtil.oGetCurrentStyleIdName("M6",document,true,true,false).left=_JCCP(clWDUtil.oDivision(clWDUtil.oSoustraction(clWDUtil.sWLVersNumerique(document.getElementsByName("M20")[0].value,_WW_SEPDECIMAL_),_JGEN("M6",document,false,false).offsetWidth),2),_JGEN("M6",document,true,false),true,false)+"px";}}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}},void 0,false]);
+clWDUtil.DeclareTraitementEx("M25",false,[0,function(event){try{clWDUtil.Try();{MyContentiaBe_WD_g_ChatActive=clWDUtil.oConversionType(false,19,0,1,0);clWDUtil.CelluleFermeDialogue("M6");}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}_JSL(_PAGE_,"M25","_self","","");},void 0,false]);
+clWDUtil.DeclareTraitementEx("PGE_HOME",true,[15,function(event){clWDUtil.DeclareChampInit();window.chfocus&&chfocus();clWDUtil.pfGetTraitementAvecAppelClones("M6",15,void 0)(event);},"_COM",false,16,function(event){},"_COM",false]);
+</script>
+
+<script type="text/javascript">(function(){if (!window.XMLHttpRequest) return;var nTimeoutHeartBeat = 240000;if (nTimeoutHeartBeat>0) setInterval(function() {		var xhr = new XMLHttpRequest(); xhr.open('POST', clWDUtil.sGetPageAction()); xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');		xhr.send('WD_ACTION_=HEARTBEAT');},nTimeoutHeartBeat);})();</script>
+<script type="text/javascript">var bPCSFR=true;</script><script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/WDLIB.JS?20007c97fcbf1"></script><script data-wb-modal type="text/javascript">window.jQuery || document.write('\x3Cscript src="/MYCONTENTIABE_WD_WEB/res/jquery.js"\x3E\x3C\/script\x3E')</script><script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/jquery-ui.js?200065d69d9b3"></script><script type="text/javascript" src="/MYCONTENTIABE_WD_WEB/res/jquery-effet.js?20004dbc804e8"></script><script type="text/javascript" data-wb-modal src="/MYCONTENTIABE_WD_WEB/res/jquery-ancrage-sup-epingle.js?200055769c128"></script><script type="text/javascript">
+if (window["_gtabPostTrt"]!==undefined){for(var i=window["_gtabPostTrt"].length-1; i>-1; --i){var domCible = window["_gtabPostTrt"][i].cible;for(pcode in window["_gtabPostTrt"][i].pcode){var tmp=domCible[pcode.toString()]; var f = window["_gtabPostTrt"][i].pcode[pcode];  domCible[pcode.toString()] = function() { if (tmp) tmp.apply(this,arguments); return f.apply(this,arguments); };if (pcode.toString()=='onload'){if (domCible.complete || domCible.getAttribute("data-onload-posttrt")=="true") domCible[pcode.toString()]();domCible.removeAttribute("data-onload-posttrt");}}}}
+</script><script LANGUAGE=Javascript>
+/*_resize_screen();*/
+_Get_XY_screen();
+</script>
+
+<script type="text/javascript">
+  var filterbydefault = window.sessionStorage.getItem('filterbydefault') || null;
+  var theForms = document.getElementsByTagName("form");
+  var FilterChatTableByDefault="Default";
+  if (document.getElementById("M35").value=="1") {
+    FilterChatTableByDefault="API_test"
+  };
+
+  var FilterFind="";
+  var FilterChatTable = new Object();
+
+  FilterChatTable["PGE_HOME"] = FilterChatTableByDefault;
+  FilterChatTable["PGE_LOGIN"] = FilterChatTableByDefault;
+  FilterChatTable["PGE_LOGINPASS"] = FilterChatTableByDefault;
+  FilterChatTable["PGE_PAYMENTREQUESTCTP"] = FilterChatTableByDefault;
+  FilterChatTable["PGE_PAYMENTBANKRETURNCTP"] = FilterChatTableByDefault;
+ 
+  for(var key in FilterChatTable)
+  {
+   if (key==theForms[0].name) {
+    FilterFind=FilterChatTable[key];
+  };
+  }
+
+  if (FilterFind == "") {FilterFind = "Portal_no_auth"};   
+  if (filterbydefault != FilterFind) {
+	console.log('InfoChatBot_Filterform_'+FilterFind);
+	window.sessionStorage.setItem('filterbydefault',FilterFind);
+	filterbydefault = window.sessionStorage.getItem('filterbydefault') || null;
+  };
+   
+   var selLanguage = "en-US"
+   if (window.navigator.language.slice(0, 2) == 'fr') {
+    selLanguage="fr-FR"} else if (window.navigator.language.slice(0, 2) == 'nl') {
+                selLanguage="nl-NL"}; 
+   var lng=document.getElementById("M8");
+    console.log(lng.value);
+   if (lng.value == "FR") {
+    selLanguage="fr-FR"} else if (lng.value == "NL") {selLanguage="nl-NL"}  else if (lng.value == "EN") {selLanguage="en-US"};
+
+
+   var conversationId = window.sessionStorage.getItem('conversationId') || null;
+   var chatPanel = window.boostChatPanel({
+    apiUrlBase: "https://901eoscontentia.boost.ai/api",
+                conversationId: conversationId,
+                language: selLanguage,
+                filterValues: [filterbydefault]
+   }); 
+  console.log('Initialize'+ '=' + filterbydefault + '=' + conversationId+ "=" + theForms[0].name);
+
+// Open the Chat Panel
+function openChat() {
+
+  var conversationId = window.sessionStorage.getItem('conversationId') || null;
+  filterbydefault = window.sessionStorage.getItem('filterbydefault') || null;
+  console.log('openChat'+ '=' + filterbydefault + '=' + conversationId);
+
+ if (chatPanel !== undefined) {
+	if (conversationId != null) {
+		    console.log('conversationId != null');
+		    chatPanel = window.boostChatPanel({
+			apiUrlBase: "https://901eoscontentia.boost.ai/api",
+			conversationId: conversationId,
+			language: selLanguage,
+			filterValues: [filterbydefault]
+   		    });
+//// window.sessionStorage.removeItem('conversationId');
+   console.log('new openChat');
+	 } 
+	 else
+	 {
+	    console.log('conversationId == null');
+                    //chatPanel.setFilterValues([filterbydefault]);
+                    //chatPanel.setFilterValues(['Portal_no_auth']);
+                     console.log('conversationId == null - filter :'+filterbydefault);
+	 }
+}
+
+ if (chatPanel !== undefined) {
+  chatPanel.show(); 
+  //chatPanel.setFilterValues(['Portal_no_auth']);
+  chatPanel.setFilterValues([filterbydefault]);
+  InfoChatBot_('OpenChat');
+  console.log('openChat');
+
+  }
+
+}
+
+function changeFilterByDefaultChat() {
+   filterbydefault = window.sessionStorage.getItem('filterbydefault') || null; 
+   if (filterbydefault != 'Default') {
+    window.sessionStorage.setItem('filterbydefault', 'Default');
+    if (chatPanel !== undefined) {
+	chatPanel.setFilterValues(['Default']);
+	console.log('changeFilterByDefaultChat');
+	InfoChatBot_('changeFilterByDefaultChat');
+    };
+   } else {
+     console.log('XchangeFilterByDefaultChat')
+   };
+}
+
+function changeFilterAfterConnectChat() {
+   filterbydefault = window.sessionStorage.getItem('filterbydefault') || null; 
+   if (filterbydefault != 'Portal_no_auth') {
+   	window.sessionStorage.setItem('filterbydefault', 'Portal_no_auth');
+   	if (chatPanel !== undefined) {
+   		chatPanel.setFilterValues(['Portal_no_auth']);
+   		console.log('changeFilterAfterConnectChat');
+   		InfoChatBot_('changeFilterAfterConnectChat');
+   	};
+   } else {
+     console.log('XchangeFilterAfterConnectChat')
+   };
+   window.sessionStorage.setItem('filterbydefault', 'Portal_no_auth');
+   filterbydefault = window.sessionStorage.getItem('filterbydefault') || null; 
+
+}
+
+function changeFilterAPIChat() {
+   filterbydefault = window.sessionStorage.getItem('filterbydefault') || null; 
+   if (filterbydefault != 'API_test') {
+	window.sessionStorage.setItem('filterbydefault', 'API_test');
+	if (chatPanel !== undefined) {
+		chatPanel.setFilterValues(['API_test']);
+		console.log('changeFilterAPI_test');
+		InfoChatBot_('changeFilterAPI_test');
+	};
+   } else {
+     console.log('XchangeFilterAPI_test')
+   };
+}
+
+
+chatPanel.addEventListener('chatPanelClosed', function () {
+//window.sessionStorage.removeItem('conversationId');
+console.log('chatPanelClosed');
+InfoChatBot_('chatPanelClosed');
+});
+
+chatPanel.addEventListener('chatPanelMinimized', function () {
+console.log('chatPanelMinimized');
+InfoChatBot_('chatPanelMinimized');
+});
+
+chatPanel.addEventListener('conversationIdChanged', function (event) {
+window.sessionStorage.setItem('conversationId', event.detail.conversationId);
+InfoChatBot_('conversationIdChanged');
+console.log('conversationIdChanged=>'+window.sessionStorage.getItem('conversationId'));
+document.getElementById("M27").value = window.sessionStorage.getItem('conversationId') || null;
+});
+
+</script>
+
+<style type="text/css">
+	.btn-chatOLD {
+		font-family: Helvetica,Arial,sans-serif;
+		font-weight: 700;
+		color: #363442;
+		display: block;
+		align-items:center;
+		justify-content: flex-start;
+		position: fixed;
+		bottom: 0;
+		z-index: 150;
+		cursor: pointer;
+		margin: 0;
+		padding : 0;
+		box-sizing: border-box;
+		font-size: 16px;
+		font-size: 1rem;
+		line-height: 1.48;
+		right: 20px;
+	}
+	.btn-chat-iconOLD {
+		width: 203px;
+		height: 66px;
+		background-color: white;
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+		align-items: left;
+		box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	}
+	.btn-chat-iconOLD img {
+		width: 66px;
+		height: 66px;
+		display: inline;
+		box-sizing: border-box;
+	}
+	.btn-chat-animOLD img{
+		width: 32x;
+		height: 37px;
+		display: block;
+	}
+	.btn-chat-labelOLD {
+		display: flex;
+		//-ms-flex-pack: center;
+		justify-content: center;
+		background-color: white;
+		align-items: center;
+		width: 160px;
+		height: 44px;
+		z-index: 33;
+	}
+	.btn-chat-labelOLD:hover {
+		opacity:1;
+		background-color: #f5f5f5;
+		//background-color: rgba(255, 255, 128, .5);
+	}
+	
+	.btn-chat {
+		font-family: Helvetica,Arial,sans-serif;
+		font-weight: 700;
+		color: #363442;
+		display: block;
+		align-items:center;
+		justify-content: flex-start;
+		position: fixed;
+		bottom: 0;
+		z-index: 150;
+		cursor: pointer;
+		margin: 0;
+		padding : 0;
+		box-sizing: border-box;
+		font-size: 16px;
+		font-size: 1rem;
+		line-height: 1.48;
+		right: 20px;
+	}
+
+	.btn-chat-icon img {
+		width: 8vw;
+		min-width: 96px;	
+		display: inline;
+		box-sizing: border-box;
+	}
+
+	.btn-chat-anim img{
+		width: 8vw;
+		min-width: 96px;	
+		display: inline;
+		box-sizing: border-box;
+	}	
+</style>
+
+<a onclick="javascript:openChat()">
+    <div id="btn_chat" class="btn-chat">
+	<div class="btn-chat-anim">
+		<!--<img src="/MYCONTENTIABE_WD_WEB/Tom.gif" alt="" id="TomGif">-->
+                                <img src="/MYCONTENTIABE_WD_WEB/Chatbot_Tom (2).gif" alt="" id="TomGif">
+	</div>
+	<div class="btn-chat-icon">
+		<!--<img src="/MYCONTENTIABE_WD_WEB/Tom.png" alt="" id="TomIcon"><span class="btn-chat-label">Chat</span>-->
+		<img src="/MYCONTENTIABE_WD_WEB/Tom_v2.png" alt="" id="TomIcon" title="Chat">
+	</div>
+   </div>
+</a></body></html>

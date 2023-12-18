@@ -1,0 +1,2027 @@
+
+<!doctype html>
+<html lang="en-us" dir="ltr">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="utf-8">
+<meta name="description" content="MixedTimes brings you breaking news and thought-provoking commentary from around the world - 24/7 news.">
+<meta name="generator" content="MixedTimes">
+<title>MixedTimes - Breaking news 24/7, media, politics and opinion</title>
+<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="MixedTimes - Breaking news 24/7, media, politics and opinion">
+<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="MixedTimes - Breaking news 24/7, media, politics and opinion">
+<link href="/images/favicon.png" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+<link href="//fonts.googleapis.com/css?family=Roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;" />
+<link href="//fonts.googleapis.com/css?family=Oswald:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;" />
+<link href="//fonts.googleapis.com/css?family=Roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;" />
+<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet" />
+<link href="/media/system/css/joomla-fontawesome.min.css?73c1e28f98619983f13f00a7d0170f1f" rel="stylesheet" />
+<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet" />
+<link href="/templates/shaper_helixultimate/css/presets/default.css" rel="stylesheet" />
+<link href="/templates/shaper_helixultimate/css/custom.css" rel="stylesheet" />
+<link href="/modules/mod_raxo_allmode_pro/tmpl/raxo-portal/raxo-portal.css" rel="stylesheet" />
+<link href="/modules/mod_raxo_allmode_pro/tmpl/raxo-slider/raxo-slider.css" rel="stylesheet" />
+<style>body{font-family: 'Roboto', sans-serif;font-weight: 400;text-decoration: none;}
+</style>
+<style>h1{font-family: 'Oswald', sans-serif;font-weight: 800;text-decoration: none;}
+</style>
+<style>h2{font-family: 'Oswald', sans-serif;font-weight: 700;text-decoration: none;}
+</style>
+<style>h3{font-family: 'Roboto', sans-serif;font-weight: 700;text-decoration: none;}
+</style>
+<style>h4{font-family: 'Roboto', sans-serif;font-weight: 400;text-decoration: none;}
+</style>
+<style>h5{font-family: 'Roboto', sans-serif;font-size: 12px;font-weight: 400;text-decoration: none;}
+</style>
+<style>h6{font-family: 'Roboto', sans-serif;text-decoration: none;}
+</style>
+<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Roboto', sans-serif;font-size: 18px;font-weight: 700;text-decoration: none;}
+</style>
+<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Roboto', sans-serif;font-size: 18px;font-weight: 700;text-decoration: none;}
+</style>
+<style>.logo-image {height:76px;}.logo-image-phone {height:76px;}</style>
+<style>@media(max-width: 992px) {.logo-image {height: 56px;}.logo-image-phone {height: 56px;}}</style>
+<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+<style>#sp-main-body{ background-color:#FFFFFF; }</style>
+<style>#sp-footer{ background-color:#002147; }</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.6.3"></script>
+<script src="/media/legacy/js/jquery-noconflict.min.js?05a23071e5310a2505d14dc1e0511bce"></script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"system.paths":{"root":"","rootFull":"https:\/\/www.mixedtimes.com\/","base":"","baseFull":"https:\/\/www.mixedtimes.com\/"},"csrf.token":"097c444ebf38f4ee76d3933610c8f554"}</script>
+<script src="/media/system/js/core.min.js?05a23071e5310a2505d14dc1e0511bce"></script>
+<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.2.3" nomodule defer></script>
+<script src="/media/system/js/showon-es5.min.js?05a23071e5310a2505d14dc1e0511bce" defer nomodule></script>
+<script src="/media/system/js/messages-es5.min.js?05a23071e5310a2505d14dc1e0511bce" nomodule defer></script>
+<script src="/media/vendor/bootstrap/js/alert.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/button.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/carousel.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/collapse.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/modal.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/popover.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/tab.min.js?5.2.3" type="module"></script>
+<script src="/media/vendor/bootstrap/js/toast.min.js?5.2.3" type="module"></script>
+<script src="/media/system/js/showon.min.js?05a23071e5310a2505d14dc1e0511bce" type="module"></script>
+<script src="/media/system/js/messages.min.js?05a23071e5310a2505d14dc1e0511bce" type="module"></script>
+<script src="/templates/shaper_helixultimate/js/main.js"></script>
+<script src="/modules/mod_raxo_allmode_pro/tmpl/raxo-portal/raxo-portal.js"></script>
+<script src="/modules/mod_raxo_allmode_pro/tmpl/raxo-slider/raxo-slider.js"></script>
+<script>template="shaper_helixultimate";</script>
+<link rel="canonical" href="https://www.mixedtimes.com/" class="4SEO_auto_canonical">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" class="4SEO_robots_tag">
+<script type="application/ld+json" class="4SEO_structured_data_sitelinks">{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.mixedtimes.com/",
+    "name": "MixedTimes",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.mixedtimes.com/component/finder/search?q={search_term_string}&amp;Itemid=101",
+        "query-input": "required name=search_term_string"
+    }
+}</script>
+<script type="application/ld+json" class="4SEO_structured_data_page">{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@id": "https://www.mixedtimes.com/#defaultBusiness",
+            "@type": "LocalBusiness",
+            "name": "MixedTimes",
+            "url": "https://www.mixedtimes.com/",
+            "telephone": "",
+            "address": {
+                "@id": "https://www.mixedtimes.com/#defaultAddress"
+            },
+            "geo": {
+                "@id": "https://www.mixedtimes.com/#defaultGeo"
+            },
+            "image": {
+                "@id": "https://www.mixedtimes.com/#defaultLogo"
+            }
+        },
+        {
+            "@id": "https://www.mixedtimes.com/#defaultLogo",
+            "@type": "ImageObject",
+            "url": "https://www.mixedtimes.com/images/opengraph.svg",
+            "width": 1358,
+            "height": 1500
+        }
+    ]
+}</script></head>
+<body class="site helix-ultimate hu com_content com-content view-featured layout-default task-none itemid-101 en-us ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
+<div class="body-wrapper">
+<div class="body-innerwrapper">
+<header id="sp-header">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-top2" class="col-4 col-sm-4 col-md-4  col-lg-4 col-xl-4 "><div class="sp-column  d-flex align-items-center"><div class="sp-module mixedtimes-offcanvas-menu"><div class="sp-module-content">
+<div id="mod-custom116" class="mod-custom custom">
+<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a></div>
+</div></div></div></div><div id="sp-logo" class="col-4 col-sm-4 col-md-4  col-lg-4 col-xl-4 "><div class="sp-column  d-flex align-items-center"><a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex d-lg-none" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="/">
+<img class="logo-image  d-none d-lg-inline-block" srcset="https://www.mixedtimes.com/images/logo.svg 1x, https://www.mixedtimes.com/images/logo.svg 2x" src="https://www.mixedtimes.com/images/logo.svg" height="76px" alt="MixedTimes brings you breaking news and thought-provoking commentary from around the world - 24/7 news" />
+<img class="logo-image-phone d-inline-block d-lg-none" src="https://www.mixedtimes.com/images/logo.svg" alt="MixedTimes brings you breaking news and thought-provoking commentary from around the world - 24/7 news" /></a></div></div></div><div id="sp-top3" class="col-4 col-sm-4 col-md-4  col-lg-4 col-xl-4 "><div class="sp-column  d-flex align-items-center"><div class="sp-module watch-live-button"><div class="sp-module-content">
+<div id="mod-custom113" class="mod-custom custom">
+<a href="/live" id="watch-live" class="d-none d-lg-block"><i class="fas fa-broadcast-tower" aria-hidden="true"></i> LIVE</a>
+<a href="/live" id="watch-live" class="d-lg-none"><i class="fas fa-broadcast-tower" aria-hidden="true"></i></a></div>
+</div></div></div></div></div>
+</div>
+</div>
+</header>
+<section id="sp-main-menu">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-menu" class="col-9 col-lg-12 d-none d-sm-none d-md-none d-lg-block"><div class="sp-column "><nav class="sp-megamenu-wrapper d-flex" role="navigation"><ul class="sp-megamenu-parent menu-animation-none d-none d-lg-block"><li class="sp-menu-item current-item active"><a aria-current="page" href="/">Home</a></li><li class="sp-menu-item"><a href="/politics">Politics</a></li><li class="sp-menu-item"><a href="/business">Business</a></li><li class="sp-menu-item"><a href="/opinion">Opinion</a></li><li class="sp-menu-item"><a href="/technology">Technology</a></li><li class="sp-menu-item"><a href="/lifestyle">Lifestyle</a></li><li class="sp-menu-item"><a href="/entertainment">Entertainment</a></li><li class="sp-menu-item"><a href="/video">Video</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li></ul></nav></div></div></div>
+</div>
+</div>
+</section>
+<section id="sp-title">
+<div class="row">
+<div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div>
+</section>
+<section id="sp-featured">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-feature" class="col-lg-12 "><div class="sp-column "></div></div></div>
+</div>
+</div>
+</section>
+<section id="sp-headlines">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-position5" class="col-lg-4 "><div class="sp-column "><div class="sp-module ad-stop-child-abuse mt-3 mb-3"><div class="sp-module-content">
+<div id="mod-custom161" class="mod-custom custom">
+<a href="https://www.stopchildabuse.org?utm_source=MixedTimes&utm_medium=Banner&utm_campaign=Home+Page&utm_term=Child+Abuse+Affects+You&utm_content=Banner+Left+Side+432x432" rel="noopener external" target="_blank"><img class="ad-stop-child-abuse" src="/images/ads/mixedtimes-child-abuse-affects-you.png" title="Child Abuse Affects You! Visit Stop Child Abuse to find out more." loading="lazy" width="432" height="432" alt="Child Abuse Affects You" data-path="local-images:/ads/mixedtimes-child-abuse-affects-you.png" /></a><a href="https://www.stopchildabuse.org/donate?utm_source=MixedTimes&utm_medium=Donate+Button&utm_campaign=Home+Page&utm_term=Child+Abuse+Affects+You&utm_content=Banner+Left+Side+432x432" title="Please Donate! We rely on your support." class="btn stop-child-abuse" role="button" rel="noopener external" target="_blank">Donate</a></div>
+</div></div></div></div><div id="sp-position6" class="col-lg-8 "><div class="sp-column "><div class="sp-module mixedtimes-home-news"><div class="sp-module-content">
+<div id="raxo-module-id141" class="raxo-allmode-pro raxo-portal mixedtimes-home-news">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/news">Latest</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/news/freed-israeli-hostage-warns-soldiers-not-to-go-into-hamas-tunnels-its-a-colossal-danger"><img src="https://images.mixedtimes.com/freed-israeli-hostage-warns-soldiers-not-to-go-into-hamas-tunnels-its-a-colossal-danger-f9108cafdb070fdd11d48b5c3ada8cca/intro" alt="Freed Israeli hostage warns soldiers not to go into Hamas tunnels: ‘It’s a colossal danger’" title="Freed Israeli hostage warns soldiers not to go into Hamas tunnels: ‘It’s a colossal danger’" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/news/freed-israeli-hostage-warns-soldiers-not-to-go-into-hamas-tunnels-its-a-colossal-danger">Freed Israeli hostage warns soldiers not to go into Hamas tunnels: ‘It’s a colossal danger’</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 4934</span>
+</div>
+<div class="raxo-text">
+Fox News senior foreign affairs correspondent Greg Palkot reports on National Security Advisor Jake Sullivan&hellip; </div>
+<div class="raxo-readmore"><a href="/news/freed-israeli-hostage-warns-soldiers-not-to-go-into-hamas-tunnels-its-a-colossal-danger">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/news/us-customs-to-suspend-railway-operations-at-international-crossings-into-texas-starting-monday"><img src="https://images.mixedtimes.com/us-customs-to-suspend-railway-operations-at-international-crossings-into-texas-starting-monday-bf0b4010d8c28d652d69c8e46c152cd5/intro" alt="US Customs to suspend railway operations at international crossings into Texas starting Monday" title="US Customs to suspend railway operations at international crossings into Texas starting Monday" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/news/us-customs-to-suspend-railway-operations-at-international-crossings-into-texas-starting-monday">US Customs to suspend railway operations at international crossings into Texas starting Monday</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 4828</span>
+</div>
+<div class="raxo-text">
+Droves of migrants were seen waiting to catch a passing freight train just three hours south of Eagle Pass,&hellip; </div>
+<div class="raxo-readmore"><a href="/news/us-customs-to-suspend-railway-operations-at-international-crossings-into-texas-starting-monday">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/las-vegas-school-district-opens-tuberculosis-investigation-after-infected-person-visits-dozens-of-schools"><img src="https://images.mixedtimes.com/las-vegas-school-district-opens-tuberculosis-investigation-after-infected-person-visits-dozens-of-schools-7ee26ea3bbcaf74c8fe81b58f36da03c/intro" alt="Las Vegas school district opens tuberculosis investigation after infected person visits dozens of schools" title="Las Vegas school district opens tuberculosis investigation after infected person visits dozens of schools" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/las-vegas-school-district-opens-tuberculosis-investigation-after-infected-person-visits-dozens-of-schools">Las Vegas school district opens tuberculosis investigation after infected person visits dozens of schools</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5920</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/soros-backed-da-slammed-after-homeless-man-released-on-violent-offense-charged-with-murder"><img src="https://images.mixedtimes.com/soros-backed-da-slammed-after-homeless-man-released-on-violent-offense-charged-with-murder-4a06c062751785801e314cf57699b9da/intro" alt="Soros-backed DA slammed after homeless man released on violent offense charged with murder" title="Soros-backed DA slammed after homeless man released on violent offense charged with murder" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/soros-backed-da-slammed-after-homeless-man-released-on-violent-offense-charged-with-murder">Soros-backed DA slammed after homeless man released on violent offense charged with murder</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8274</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/texas-officer-involved-late-night-shooting-in-tourist-spot-leaves-1-dead-3-injured"><img src="https://images.mixedtimes.com/texas-officer-involved-late-night-shooting-in-tourist-spot-leaves-1-dead-3-injured-b87632d6f3e2e0ee455047658981cfc7/intro" alt="Texas officer-involved late-night shooting in tourist spot leaves 1 dead, 3 injured" title="Texas officer-involved late-night shooting in tourist spot leaves 1 dead, 3 injured" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/texas-officer-involved-late-night-shooting-in-tourist-spot-leaves-1-dead-3-injured">Texas officer-involved late-night shooting in tourist spot leaves 1 dead, 3 injured</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1579</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/jewish-federation-of-greater-nashville-cancels-sunday-services-other-events-due-to-email-threat"><img src="https://images.mixedtimes.com/jewish-federation-of-greater-nashville-cancels-sunday-services-other-events-due-to-email-threat-72586aa6050a7ae17763276a2ba6ff52/intro" alt="Jewish Federation of Greater Nashville cancels Sunday services, other events due to email threat" title="Jewish Federation of Greater Nashville cancels Sunday services, other events due to email threat" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/jewish-federation-of-greater-nashville-cancels-sunday-services-other-events-due-to-email-threat">Jewish Federation of Greater Nashville cancels Sunday services, other events due to email threat</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7079</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/idf-confirms-incident-at-gaza-church-after-patriarch-says-2-christian-women-killed-convent-bombed"><img src="https://images.mixedtimes.com/idf-confirms-incident-at-gaza-church-after-patriarch-says-2-christian-women-killed-convent-bombed-e7adbfec98f7a34a94dbcb002d6ee569/intro" alt="IDF confirms 'incident' at Gaza church after patriarch says 2 Christian women killed, convent bombed" title="IDF confirms 'incident' at Gaza church after patriarch says 2 Christian women killed, convent bombed" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/idf-confirms-incident-at-gaza-church-after-patriarch-says-2-christian-women-killed-convent-bombed">IDF confirms 'incident' at Gaza church after patriarch says 2 Christian women killed, convent bombed</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9382</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/fire-destroys-los-angeles-church-hours-before-christmas-toy-drive-event">
+<img data-src="https://images.mixedtimes.com/fire-destroys-los-angeles-church-hours-before-christmas-toy-drive-event-12087ff609b12421762c094a7c4ca6b5/intro" alt="Fire destroys Los Angeles church hours before Christmas toy drive event" title="Fire destroys Los Angeles church hours before Christmas toy drive event" />
+<noscript><img src="https://images.mixedtimes.com/fire-destroys-los-angeles-church-hours-before-christmas-toy-drive-event-12087ff609b12421762c094a7c4ca6b5/intro"  alt="Fire destroys Los Angeles church hours before Christmas toy drive event" title="Fire destroys Los Angeles church hours before Christmas toy drive event" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/fire-destroys-los-angeles-church-hours-before-christmas-toy-drive-event">Fire destroys Los Angeles church hours before Christmas toy drive event</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6786</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/islamic-convention-featuring-hamas-leaders-says-war-would-end-if-nuclear-armed-pakistan-threatened-israel">
+<img data-src="https://images.mixedtimes.com/islamic-convention-featuring-hamas-leaders-says-war-would-end-if-nuclear-armed-pakistan-threatened-israel-0ba3a48a284e8cbf49d67eb63e7eefde/intro" alt="Islamic convention featuring Hamas leaders says war would end if nuclear-armed Pakistan threatened Israel" title="Islamic convention featuring Hamas leaders says war would end if nuclear-armed Pakistan threatened Israel" />
+<noscript><img src="https://images.mixedtimes.com/islamic-convention-featuring-hamas-leaders-says-war-would-end-if-nuclear-armed-pakistan-threatened-israel-0ba3a48a284e8cbf49d67eb63e7eefde/intro"  alt="Islamic convention featuring Hamas leaders says war would end if nuclear-armed Pakistan threatened Israel" title="Islamic convention featuring Hamas leaders says war would end if nuclear-armed Pakistan threatened Israel" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/islamic-convention-featuring-hamas-leaders-says-war-would-end-if-nuclear-armed-pakistan-threatened-israel">Islamic convention featuring Hamas leaders says war would end if nuclear-armed Pakistan threatened Israel</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1058</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/chief-strategist-for-desantis-super-pac-resigns-after-false-statements-by-new-chairman">
+<img data-src="/images/intro.svg" alt="Chief strategist for DeSantis super PAC resigns after ‘false’ statements by new chairman" title="Chief strategist for DeSantis super PAC resigns after ‘false’ statements by new chairman" />
+<noscript><img src="/images/intro.svg"  alt="Chief strategist for DeSantis super PAC resigns after ‘false’ statements by new chairman" title="Chief strategist for DeSantis super PAC resigns after ‘false’ statements by new chairman" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/chief-strategist-for-desantis-super-pac-resigns-after-false-statements-by-new-chairman">Chief strategist for DeSantis super PAC resigns after ‘false’ statements by new chairman</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1411</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/texas-man-strikes-kills-pedestrian-who-landed-inside-car-drives-38-miles-with-body-in-passenger-seat-police">
+<img data-src="https://images.mixedtimes.com/texas-man-strikes-kills-pedestrian-who-landed-inside-car-drives-38-miles-with-body-in-passenger-seat-police-4865c200c5eba620b2be68186649cfcf/intro" alt="Texas man strikes, kills pedestrian who landed inside car; drives 38 miles with body in passenger seat: police" title="Texas man strikes, kills pedestrian who landed inside car; drives 38 miles with body in passenger seat: police" />
+<noscript><img src="https://images.mixedtimes.com/texas-man-strikes-kills-pedestrian-who-landed-inside-car-drives-38-miles-with-body-in-passenger-seat-police-4865c200c5eba620b2be68186649cfcf/intro"  alt="Texas man strikes, kills pedestrian who landed inside car; drives 38 miles with body in passenger seat: police" title="Texas man strikes, kills pedestrian who landed inside car; drives 38 miles with body in passenger seat: police" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/texas-man-strikes-kills-pedestrian-who-landed-inside-car-drives-38-miles-with-body-in-passenger-seat-police">Texas man strikes, kills pedestrian who landed inside car; drives 38 miles with body in passenger seat: police</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 2752</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/gop-will-absolutely-push-to-meet-with-hunter-biden-sugar-brother-who-paid-his-millions-in-taxes-rep-says">
+<img data-src="https://images.mixedtimes.com/gop-will-absolutely-push-to-meet-with-hunter-biden-sugar-brother-who-paid-his-millions-in-taxes-rep-says-fabc28f4b1b555f9910d529872b77990/intro" alt="GOP will 'absolutely' push to meet with Hunter Biden 'sugar brother' who paid his millions in taxes, rep says" title="GOP will 'absolutely' push to meet with Hunter Biden 'sugar brother' who paid his millions in taxes, rep says" />
+<noscript><img src="https://images.mixedtimes.com/gop-will-absolutely-push-to-meet-with-hunter-biden-sugar-brother-who-paid-his-millions-in-taxes-rep-says-fabc28f4b1b555f9910d529872b77990/intro"  alt="GOP will 'absolutely' push to meet with Hunter Biden 'sugar brother' who paid his millions in taxes, rep says" title="GOP will 'absolutely' push to meet with Hunter Biden 'sugar brother' who paid his millions in taxes, rep says" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/gop-will-absolutely-push-to-meet-with-hunter-biden-sugar-brother-who-paid-his-millions-in-taxes-rep-says">GOP will 'absolutely' push to meet with Hunter Biden 'sugar brother' who paid his millions in taxes, rep says</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9561</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/booze-bandit-florida-man-caught-on-video-stealing-screwdriver-ingredients-from-an-apartment">
+<img data-src="https://images.mixedtimes.com/booze-bandit-florida-man-caught-on-video-stealing-screwdriver-ingredients-from-an-apartment-ada1e349230000e95455975e370b15c8/intro" alt="Booze bandit: Florida man caught on video stealing 'screwdriver' ingredients from an apartment" title="Booze bandit: Florida man caught on video stealing 'screwdriver' ingredients from an apartment" />
+<noscript><img src="https://images.mixedtimes.com/booze-bandit-florida-man-caught-on-video-stealing-screwdriver-ingredients-from-an-apartment-ada1e349230000e95455975e370b15c8/intro"  alt="Booze bandit: Florida man caught on video stealing 'screwdriver' ingredients from an apartment" title="Booze bandit: Florida man caught on video stealing 'screwdriver' ingredients from an apartment" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/booze-bandit-florida-man-caught-on-video-stealing-screwdriver-ingredients-from-an-apartment">Booze bandit: Florida man caught on video stealing 'screwdriver' ingredients from an apartment</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8563</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/jen-psaki-muses-white-house-wants-hunter-biden-to-stop-talking-in-public">
+<img data-src="https://images.mixedtimes.com/jen-psaki-muses-white-house-wants-hunter-biden-to-stop-talking-in-public-0668a76dc3d843c87896124269cf6963/intro" alt="Jen Psaki muses White House wants Hunter Biden to 'stop talking in public'" title="Jen Psaki muses White House wants Hunter Biden to 'stop talking in public'" />
+<noscript><img src="https://images.mixedtimes.com/jen-psaki-muses-white-house-wants-hunter-biden-to-stop-talking-in-public-0668a76dc3d843c87896124269cf6963/intro"  alt="Jen Psaki muses White House wants Hunter Biden to 'stop talking in public'" title="Jen Psaki muses White House wants Hunter Biden to 'stop talking in public'" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/jen-psaki-muses-white-house-wants-hunter-biden-to-stop-talking-in-public">Jen Psaki muses White House wants Hunter Biden to 'stop talking in public'</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6979</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/killed-israeli-hostages-brother-says-army-murdered-him">
+<img data-src="https://images.mixedtimes.com/killed-israeli-hostages-brother-says-army-murdered-him-d8783305a61284a3056e0c7d90a5ab13/intro" alt="Killed Israeli hostage’s brother says army ‘murdered’ him" title="Killed Israeli hostage’s brother says army ‘murdered’ him" />
+<noscript><img src="https://images.mixedtimes.com/killed-israeli-hostages-brother-says-army-murdered-him-d8783305a61284a3056e0c7d90a5ab13/intro"  alt="Killed Israeli hostage’s brother says army ‘murdered’ him" title="Killed Israeli hostage’s brother says army ‘murdered’ him" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/killed-israeli-hostages-brother-says-army-murdered-him">Killed Israeli hostage’s brother says army ‘murdered’ him</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7692</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/storm-drenches-florida-and-causes-floods-in-south-carolina-as-it-moves-up-east-coast">
+<img data-src="https://images.mixedtimes.com/storm-drenches-florida-and-causes-floods-in-south-carolina-as-it-moves-up-east-coast-2a09d17b941e113e8b7773fb25c8362f/intro" alt="Storm drenches Florida and causes floods in South Carolina as it moves up East Coast" title="Storm drenches Florida and causes floods in South Carolina as it moves up East Coast" />
+<noscript><img src="https://images.mixedtimes.com/storm-drenches-florida-and-causes-floods-in-south-carolina-as-it-moves-up-east-coast-2a09d17b941e113e8b7773fb25c8362f/intro"  alt="Storm drenches Florida and causes floods in South Carolina as it moves up East Coast" title="Storm drenches Florida and causes floods in South Carolina as it moves up East Coast" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/storm-drenches-florida-and-causes-floods-in-south-carolina-as-it-moves-up-east-coast">Storm drenches Florida and causes floods in South Carolina as it moves up East Coast</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9754</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id8 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/news/trump-says-nevada-fake-electors-treated-unfairly-during-rally-in-reno">
+<img data-src="https://images.mixedtimes.com/trump-says-nevada-fake-electors-treated-unfairly-during-rally-in-reno-455793386c64fffe14bc4bed63e92526/intro" alt="Trump says Nevada fake electors treated ‘unfairly’ during rally in Reno" title="Trump says Nevada fake electors treated ‘unfairly’ during rally in Reno" />
+<noscript><img src="https://images.mixedtimes.com/trump-says-nevada-fake-electors-treated-unfairly-during-rally-in-reno-455793386c64fffe14bc4bed63e92526/intro"  alt="Trump says Nevada fake electors treated ‘unfairly’ during rally in Reno" title="Trump says Nevada fake electors treated ‘unfairly’ during rally in Reno" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/news/trump-says-nevada-fake-electors-treated-unfairly-during-rally-in-reno">Trump says Nevada fake electors treated ‘unfairly’ during rally in Reno</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5210</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/news">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id141');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id141 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div></div></div></div>
+</div>
+</div>
+</section>
+<section id="sp-news">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-position7" class="col-lg-8 "><div class="sp-column "><div class="sp-module mixedtimes-home-politics"><div class="sp-module-content">
+<div id="raxo-module-id140" class="raxo-allmode-pro raxo-portal mixedtimes-home-politics">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/politics">Politics</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/politics/haley-responds-to-pressure-to-love-or-hate-trump-normal-people-arent-obsessed-with-him"><img src="https://images.mixedtimes.com/haley-responds-to-pressure-to-love-or-hate-trump-normal-people-arent-obsessed-with-him-4f51e0dc0be02cd0e419bcc1c9d900db/intro" alt="Haley responds to pressure to love or hate Trump: 'Normal people aren't obsessed with him'" title="Haley responds to pressure to love or hate Trump: 'Normal people aren't obsessed with him'" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/politics/haley-responds-to-pressure-to-love-or-hate-trump-normal-people-arent-obsessed-with-him">Haley responds to pressure to love or hate Trump: 'Normal people aren't obsessed with him'</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 7485</span>
+</div>
+<div class="raxo-text">
+GOP presidential candidate Nikki Haley responded on Sunday to pressure to love or hate former&hellip; </div>
+<div class="raxo-readmore"><a href="/politics/haley-responds-to-pressure-to-love-or-hate-trump-normal-people-arent-obsessed-with-him">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/politics/trump-blasts-biden-at-nh-rally-says-inflation-ukraine-and-israel-wars-wouldnt-have-happened-on-his-watch"><img src="https://images.mixedtimes.com/trump-blasts-biden-at-nh-rally-says-inflation-ukraine-and-israel-wars-wouldnt-have-happened-on-his-watch-c1792399a122e41db6bc4ad2390f8785/intro" alt="Trump blasts Biden at NH rally, says inflation, Ukraine and Israel wars 'wouldn't have happened' on his watch" title="Trump blasts Biden at NH rally, says inflation, Ukraine and Israel wars 'wouldn't have happened' on his watch" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/politics/trump-blasts-biden-at-nh-rally-says-inflation-ukraine-and-israel-wars-wouldnt-have-happened-on-his-watch">Trump blasts Biden at NH rally, says inflation, Ukraine and Israel wars 'wouldn't have happened' on his watch</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 8484</span>
+</div>
+<div class="raxo-text">
+Former Trump impeachment lawyer David Schoen joins 'Life, Liberty &amp; Levin' to discuss former&hellip; </div>
+<div class="raxo-readmore"><a href="/politics/trump-blasts-biden-at-nh-rally-says-inflation-ukraine-and-israel-wars-wouldnt-have-happened-on-his-watch">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/tranq-tourism-content-creators-blasted-for-filming-drug-addicts-in-philadelphia"><img src="https://images.mixedtimes.com/tranq-tourism-content-creators-blasted-for-filming-drug-addicts-in-philadelphia-6ef67f31caaad71607d775e3f86b8e08/intro" alt="‘Tranq Tourism’: Content Creators Blasted for Filming Drug Addicts in Philadelphia" title="‘Tranq Tourism’: Content Creators Blasted for Filming Drug Addicts in Philadelphia" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/tranq-tourism-content-creators-blasted-for-filming-drug-addicts-in-philadelphia">‘Tranq Tourism’: Content Creators Blasted for Filming Drug Addicts in Philadelphia</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8970</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/photo-heroic-israeli-hostages-made-sos-banner-calling-for-help-in-gaza"><img src="https://images.mixedtimes.com/photo-heroic-israeli-hostages-made-sos-banner-calling-for-help-in-gaza-74c101fbaa059a43bf8c546e8252b100/intro" alt="PHOTO: Heroic Israeli Hostages Made ‘SOS’ Banner Calling for Help in Gaza" title="PHOTO: Heroic Israeli Hostages Made ‘SOS’ Banner Calling for Help in Gaza" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/photo-heroic-israeli-hostages-made-sos-banner-calling-for-help-in-gaza">PHOTO: Heroic Israeli Hostages Made ‘SOS’ Banner Calling for Help in Gaza</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1420</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/top-desantis-super-pac-strategist-departs-as-campaign-creeps-closer-to-collapse"><img src="https://images.mixedtimes.com/top-desantis-super-pac-strategist-departs-as-campaign-creeps-closer-to-collapse-b675aa176fcecb13bfe02fafad451aeb/intro" alt="Top DeSantis Super PAC Strategist Departs as Campaign Creeps Closer to Collapse" title="Top DeSantis Super PAC Strategist Departs as Campaign Creeps Closer to Collapse" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/top-desantis-super-pac-strategist-departs-as-campaign-creeps-closer-to-collapse">Top DeSantis Super PAC Strategist Departs as Campaign Creeps Closer to Collapse</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1127</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/poll-trump-dominance-hits-new-level-as-he-nears-70-percent-support-in-gop-primary"><img src="https://images.mixedtimes.com/poll-trump-dominance-hits-new-level-as-he-nears-70-percent-support-in-gop-primary-239b0ed356ceb278836a815e72a727d0/intro" alt="Poll: Trump Dominance Hits New Level as He Nears 70 Percent Support in GOP Primary" title="Poll: Trump Dominance Hits New Level as He Nears 70 Percent Support in GOP Primary" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/poll-trump-dominance-hits-new-level-as-he-nears-70-percent-support-in-gop-primary">Poll: Trump Dominance Hits New Level as He Nears 70 Percent Support in GOP Primary</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7015</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/graham-israel-will-have-to-accept-two-state-solution-to-normalize-ties-with-arab-countries"><img src="/images/intro.svg" alt="Graham: Israel Will Have to Accept Two-State Solution to Normalize Ties with Arab Countries" title="Graham: Israel Will Have to Accept Two-State Solution to Normalize Ties with Arab Countries" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/graham-israel-will-have-to-accept-two-state-solution-to-normalize-ties-with-arab-countries">Graham: Israel Will Have to Accept Two-State Solution to Normalize Ties with Arab Countries</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5132</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/cnns-tapper-empirically-stunning-trump-repeats-russian-propaganda">
+<img data-src="https://images.mixedtimes.com/cnns-tapper-empirically-stunning-trump-repeats-russian-propaganda-57e1f424b1c26bb491378b21e50192de/intro" alt="CNN’s Tapper: ‘Empirically Stunning’ Trump Repeats Russian Propaganda" title="CNN’s Tapper: ‘Empirically Stunning’ Trump Repeats Russian Propaganda" />
+<noscript><img src="https://images.mixedtimes.com/cnns-tapper-empirically-stunning-trump-repeats-russian-propaganda-57e1f424b1c26bb491378b21e50192de/intro"  alt="CNN’s Tapper: ‘Empirically Stunning’ Trump Repeats Russian Propaganda" title="CNN’s Tapper: ‘Empirically Stunning’ Trump Repeats Russian Propaganda" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/cnns-tapper-empirically-stunning-trump-repeats-russian-propaganda">CNN’s Tapper: ‘Empirically Stunning’ Trump Repeats Russian Propaganda</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 3868</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/exclusive-unstoppable-wave-of-migrants-in-texas-forces-border-patrol-checkpoint-closures">
+<img data-src="https://images.mixedtimes.com/exclusive-unstoppable-wave-of-migrants-in-texas-forces-border-patrol-checkpoint-closures-cec6bdd520384bff5109b59a3580fe50/intro" alt="Exclusive: Unstoppable Wave of Migrants in Texas Forces Border Patrol Checkpoint Closures" title="Exclusive: Unstoppable Wave of Migrants in Texas Forces Border Patrol Checkpoint Closures" />
+<noscript><img src="https://images.mixedtimes.com/exclusive-unstoppable-wave-of-migrants-in-texas-forces-border-patrol-checkpoint-closures-cec6bdd520384bff5109b59a3580fe50/intro"  alt="Exclusive: Unstoppable Wave of Migrants in Texas Forces Border Patrol Checkpoint Closures" title="Exclusive: Unstoppable Wave of Migrants in Texas Forces Border Patrol Checkpoint Closures" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/exclusive-unstoppable-wave-of-migrants-in-texas-forces-border-patrol-checkpoint-closures">Exclusive: Unstoppable Wave of Migrants in Texas Forces Border Patrol Checkpoint Closures</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8275</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/maher-from-the-river-to-the-sea-is-calling-for-ethnic-cleansing-israel-is-not-going-away">
+<img data-src="https://images.mixedtimes.com/maher-from-the-river-to-the-sea-is-calling-for-ethnic-cleansing-israel-is-not-going-away-e90ec771b7636b8295130736cff9587c/intro" alt="Maher: ‘From the River to the Sea’ Is Calling for ‘Ethnic Cleansing,’ Israel Is Not Going Away" title="Maher: ‘From the River to the Sea’ Is Calling for ‘Ethnic Cleansing,’ Israel Is Not Going Away" />
+<noscript><img src="https://images.mixedtimes.com/maher-from-the-river-to-the-sea-is-calling-for-ethnic-cleansing-israel-is-not-going-away-e90ec771b7636b8295130736cff9587c/intro"  alt="Maher: ‘From the River to the Sea’ Is Calling for ‘Ethnic Cleansing,’ Israel Is Not Going Away" title="Maher: ‘From the River to the Sea’ Is Calling for ‘Ethnic Cleansing,’ Israel Is Not Going Away" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/maher-from-the-river-to-the-sea-is-calling-for-ethnic-cleansing-israel-is-not-going-away">Maher: ‘From the River to the Sea’ Is Calling for ‘Ethnic Cleansing,’ Israel Is Not Going Away</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 4399</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/dem-sen-van-hollen-we-continue-to-see-unacceptably-high-levels-of-civilian-casualties-in-gaza">
+<img data-src="https://images.mixedtimes.com/dem-sen-van-hollen-we-continue-to-see-unacceptably-high-levels-of-civilian-casualties-in-gaza-00862cfe1d660410f85a9c428c66a21c/intro" alt="Dem Sen. Van Hollen: ‘We Continue to See Unacceptably High Levels of Civilian Casualties’ in Gaza" title="Dem Sen. Van Hollen: ‘We Continue to See Unacceptably High Levels of Civilian Casualties’ in Gaza" />
+<noscript><img src="https://images.mixedtimes.com/dem-sen-van-hollen-we-continue-to-see-unacceptably-high-levels-of-civilian-casualties-in-gaza-00862cfe1d660410f85a9c428c66a21c/intro"  alt="Dem Sen. Van Hollen: ‘We Continue to See Unacceptably High Levels of Civilian Casualties’ in Gaza" title="Dem Sen. Van Hollen: ‘We Continue to See Unacceptably High Levels of Civilian Casualties’ in Gaza" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/dem-sen-van-hollen-we-continue-to-see-unacceptably-high-levels-of-civilian-casualties-in-gaza">Dem Sen. Van Hollen: ‘We Continue to See Unacceptably High Levels of Civilian Casualties’ in Gaza</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7128</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/russia-and-ukraine-duel-in-the-skies-launching-dozens-of-drones-at-each-other-on-sunday">
+<img data-src="https://images.mixedtimes.com/russia-and-ukraine-duel-in-the-skies-launching-dozens-of-drones-at-each-other-on-sunday-b1f9a23f13c45385e0b9a4e56342632c/intro" alt="Russia and Ukraine Duel in the Skies Launching Dozens of Drones at Each Other on Sunday" title="Russia and Ukraine Duel in the Skies Launching Dozens of Drones at Each Other on Sunday" />
+<noscript><img src="https://images.mixedtimes.com/russia-and-ukraine-duel-in-the-skies-launching-dozens-of-drones-at-each-other-on-sunday-b1f9a23f13c45385e0b9a4e56342632c/intro"  alt="Russia and Ukraine Duel in the Skies Launching Dozens of Drones at Each Other on Sunday" title="Russia and Ukraine Duel in the Skies Launching Dozens of Drones at Each Other on Sunday" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/russia-and-ukraine-duel-in-the-skies-launching-dozens-of-drones-at-each-other-on-sunday">Russia and Ukraine Duel in the Skies Launching Dozens of Drones at Each Other on Sunday</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5629</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/exclusive-families-of-hostages-held-captive-in-gaza-demand-justice-warn-hamas-wont-stop-at-israel">
+<img data-src="https://images.mixedtimes.com/exclusive-families-of-hostages-held-captive-in-gaza-demand-justice-warn-hamas-wont-stop-at-israel-fc7c2d588526ea1f096317db38099d82/intro" alt="EXCLUSIVE: Families of Hostages Held Captive in Gaza Demand ‘Justice,’ Warn Hamas ‘Won’t Stop’ at Israel" title="EXCLUSIVE: Families of Hostages Held Captive in Gaza Demand ‘Justice,’ Warn Hamas ‘Won’t Stop’ at Israel" />
+<noscript><img src="https://images.mixedtimes.com/exclusive-families-of-hostages-held-captive-in-gaza-demand-justice-warn-hamas-wont-stop-at-israel-fc7c2d588526ea1f096317db38099d82/intro"  alt="EXCLUSIVE: Families of Hostages Held Captive in Gaza Demand ‘Justice,’ Warn Hamas ‘Won’t Stop’ at Israel" title="EXCLUSIVE: Families of Hostages Held Captive in Gaza Demand ‘Justice,’ Warn Hamas ‘Won’t Stop’ at Israel" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/exclusive-families-of-hostages-held-captive-in-gaza-demand-justice-warn-hamas-wont-stop-at-israel">EXCLUSIVE: Families of Hostages Held Captive in Gaza Demand ‘Justice,’ Warn Hamas ‘Won’t Stop’ at Israel</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7735</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/nikki-haley-state-legislatures-need-to-tweak-abortion-laws">
+<img data-src="https://images.mixedtimes.com/nikki-haley-state-legislatures-need-to-tweak-abortion-laws-794020f9240a29fafea618117db63757/intro" alt="Nikki Haley: State Legislatures Need to ‘Tweak’ Abortion Laws" title="Nikki Haley: State Legislatures Need to ‘Tweak’ Abortion Laws" />
+<noscript><img src="https://images.mixedtimes.com/nikki-haley-state-legislatures-need-to-tweak-abortion-laws-794020f9240a29fafea618117db63757/intro"  alt="Nikki Haley: State Legislatures Need to ‘Tweak’ Abortion Laws" title="Nikki Haley: State Legislatures Need to ‘Tweak’ Abortion Laws" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/nikki-haley-state-legislatures-need-to-tweak-abortion-laws">Nikki Haley: State Legislatures Need to ‘Tweak’ Abortion Laws</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7672</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/robert-f-kennedy-jr-elon-musk-and-benjamin-netanyahu-most-favorable-in-us">
+<img data-src="https://images.mixedtimes.com/robert-f-kennedy-jr-elon-musk-and-benjamin-netanyahu-most-favorable-in-us-00b7141f133c3c9553cc3d58ae97a6c4/intro" alt="Robert F. Kennedy Jr., Elon Musk, and Benjamin Netanyahu Most Favorable in U.S." title="Robert F. Kennedy Jr., Elon Musk, and Benjamin Netanyahu Most Favorable in U.S." />
+<noscript><img src="https://images.mixedtimes.com/robert-f-kennedy-jr-elon-musk-and-benjamin-netanyahu-most-favorable-in-us-00b7141f133c3c9553cc3d58ae97a6c4/intro"  alt="Robert F. Kennedy Jr., Elon Musk, and Benjamin Netanyahu Most Favorable in U.S." title="Robert F. Kennedy Jr., Elon Musk, and Benjamin Netanyahu Most Favorable in U.S." /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/robert-f-kennedy-jr-elon-musk-and-benjamin-netanyahu-most-favorable-in-us">Robert F. Kennedy Jr., Elon Musk, and Benjamin Netanyahu Most Favorable in U.S.</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1490</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/christie-trump-will-be-convicted-of-crimes-worthy-of-jail-by-spring">
+<img data-src="https://images.mixedtimes.com/christie-trump-will-be-convicted-of-crimes-worthy-of-jail-by-spring-3828d1d5f868ab96c1f39f9d4e63f65d/intro" alt="Christie: Trump Will Be Convicted of Crimes Worthy of Jail by Spring" title="Christie: Trump Will Be Convicted of Crimes Worthy of Jail by Spring" />
+<noscript><img src="https://images.mixedtimes.com/christie-trump-will-be-convicted-of-crimes-worthy-of-jail-by-spring-3828d1d5f868ab96c1f39f9d4e63f65d/intro"  alt="Christie: Trump Will Be Convicted of Crimes Worthy of Jail by Spring" title="Christie: Trump Will Be Convicted of Crimes Worthy of Jail by Spring" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/christie-trump-will-be-convicted-of-crimes-worthy-of-jail-by-spring">Christie: Trump Will Be Convicted of Crimes Worthy of Jail by Spring</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9083</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id11 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/politics/christie-nikki-haley-should-be-ashamed-of-herself-shes-enabling-trump">
+<img data-src="https://images.mixedtimes.com/christie-nikki-haley-should-be-ashamed-of-herself-shes-enabling-trump-e696053832e9a5c470652e09afacb626/intro" alt="Christie: ‘Nikki Haley Should Be Ashamed of Herself’ — ‘She’s Enabling’ Trump" title="Christie: ‘Nikki Haley Should Be Ashamed of Herself’ — ‘She’s Enabling’ Trump" />
+<noscript><img src="https://images.mixedtimes.com/christie-nikki-haley-should-be-ashamed-of-herself-shes-enabling-trump-e696053832e9a5c470652e09afacb626/intro"  alt="Christie: ‘Nikki Haley Should Be Ashamed of Herself’ — ‘She’s Enabling’ Trump" title="Christie: ‘Nikki Haley Should Be Ashamed of Herself’ — ‘She’s Enabling’ Trump" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/politics/christie-nikki-haley-should-be-ashamed-of-herself-shes-enabling-trump">Christie: ‘Nikki Haley Should Be Ashamed of Herself’ — ‘She’s Enabling’ Trump</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1873</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/politics">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id140');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id140 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-video-politics"><div class="sp-module-content">
+<div id="raxo-module-id147" class="raxo-allmode-pro raxo-slider mixedtimes-home-video-politics">
+<div class="raxo-header">
+<div class="raxo-block-name"><h3><a href="/video">Video</a></h3></div>
+<div class="raxo-navigation"></div>
+</div>
+<div class="raxo-container">
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/rabbi-unveils-how-congregation-is-paying-antisemitism-tax"><img src="https://images.mixedtimes.com/rabbi-unveils-how-congregation-is-paying-antisemitism-tax-fc9e4424cd6a21edab07136d1a4251bd/intro" alt="Rabbi unveils how congregation is paying 'antisemitism tax'" title="Rabbi unveils how congregation is paying 'antisemitism tax'" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">1305</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/rabbi-unveils-how-congregation-is-paying-antisemitism-tax">Rabbi unveils how congregation is paying 'antisemitism tax'</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/watch-california-store-clerk-fends-off-sledgehammer-wielding-criminals-with-38-revolver"><img src="https://images.mixedtimes.com/watch-california-store-clerk-fends-off-sledgehammer-wielding-criminals-with-38-revolver-cd6e0594081f3857563421e93e37f3eb/intro" alt="WATCH: California store clerk fends off sledgehammer-wielding criminals with .38 revolver" title="WATCH: California store clerk fends off sledgehammer-wielding criminals with .38 revolver" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">2729</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/watch-california-store-clerk-fends-off-sledgehammer-wielding-criminals-with-38-revolver">WATCH: California store clerk fends off sledgehammer-wielding criminals with .38 revolver</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/jesse-watters-hunter-biden-goes-on-a-finger-painting-publicity-tour"><img src="https://images.mixedtimes.com/jesse-watters-hunter-biden-goes-on-a-finger-painting-publicity-tour-5c53de4ef70a0138d593fd174d1abfcc/intro" alt="Jesse Watters: Hunter Biden goes on a finger painting publicity tour" title="Jesse Watters: Hunter Biden goes on a finger painting publicity tour" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">4130</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/jesse-watters-hunter-biden-goes-on-a-finger-painting-publicity-tour">Jesse Watters: Hunter Biden goes on a finger painting publicity tour</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/man-who-beheaded-satanic-statue-at-state-capitol-speaks-out-righteous-indignation"><img src="https://images.mixedtimes.com/man-who-beheaded-satanic-statue-at-state-capitol-speaks-out-righteous-indignation-49aa7971203da780a951d4915a5df097/intro" alt="Man who beheaded satanic statue at state capitol speaks out: 'Righteous indignation'" title="Man who beheaded satanic statue at state capitol speaks out: 'Righteous indignation'" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">9692</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/man-who-beheaded-satanic-statue-at-state-capitol-speaks-out-righteous-indignation">Man who beheaded satanic statue at state capitol speaks out: 'Righteous indignation'</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/laura-ingraham-this-is-astonishing"><img src="https://images.mixedtimes.com/laura-ingraham-this-is-astonishing-76e874c466106317a326b092b3bee11a/intro" alt="Laura Ingraham: This is astonishing" title="Laura Ingraham: This is astonishing" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">2363</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/laura-ingraham-this-is-astonishing">Laura Ingraham: This is astonishing</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/the-five-is-bad-blood-brewing-between-joe-and-kamala"><img src="https://images.mixedtimes.com/the-five-is-bad-blood-brewing-between-joe-and-kamala-97c089d74cd9860e60b475475fe9789b/intro" alt="'The Five': Is bad blood brewing between Joe and Kamala?" title="'The Five': Is bad blood brewing between Joe and Kamala?" /></a>
+<div class="raxo-meta">
+<span class="raxo-hits">2943</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/the-five-is-bad-blood-brewing-between-joe-and-kamala">'The Five': Is bad blood brewing between Joe and Kamala?</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/what-are-the-chances-biden-gets-impeached">
+<img data-lazy="https://images.mixedtimes.com/what-are-the-chances-biden-gets-impeached-e3d8a1709981b722fd07def0c0de5c7b/intro" alt="What are the chances Biden gets impeached?" title="What are the chances Biden gets impeached?" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">4605</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/what-are-the-chances-biden-gets-impeached">What are the chances Biden gets impeached?</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/gutfeld-white-house-dancers-marxist-ideologies-revealed">
+<img data-lazy="https://images.mixedtimes.com/gutfeld-white-house-dancers-marxist-ideologies-revealed-15f2a414a93b09ae233d7f83185ac843/intro" alt="Gutfeld: White House dancers' Marxist ideologies revealed" title="Gutfeld: White House dancers' Marxist ideologies revealed" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">9015</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/gutfeld-white-house-dancers-marxist-ideologies-revealed">Gutfeld: White House dancers' Marxist ideologies revealed</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/dukes-of-hazzard-star-tackles-woke-culture-in-new-movie-jingle-smells">
+<img data-lazy="https://images.mixedtimes.com/dukes-of-hazzard-star-tackles-woke-culture-in-new-movie-jingle-smells-fb4f0dec8d617d6e425b74b49e858f01/intro" alt="'Dukes of Hazzard' star tackles woke culture in new movie 'Jingle Smells'" title="'Dukes of Hazzard' star tackles woke culture in new movie 'Jingle Smells'" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">9686</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/dukes-of-hazzard-star-tackles-woke-culture-in-new-movie-jingle-smells">'Dukes of Hazzard' star tackles woke culture in new movie 'Jingle Smells'</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/tom-homan-we-need-to-take-the-cartels-out">
+<img data-lazy="https://images.mixedtimes.com/tom-homan-we-need-to-take-the-cartels-out-26ccf33956a88138bb8ff5e71e3271c2/intro" alt="Tom Homan: We need to take the cartels out" title="Tom Homan: We need to take the cartels out" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">2808</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/tom-homan-we-need-to-take-the-cartels-out">Tom Homan: We need to take the cartels out</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/why-are-some-americans-prepping-for-a-doomsday">
+<img data-lazy="https://images.mixedtimes.com/why-are-some-americans-prepping-for-a-doomsday-bfab942db0a6b9fbceb7338d9b11ad25/intro" alt="Why are some Americans prepping for a doomsday?" title="Why are some Americans prepping for a doomsday?" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">6685</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/why-are-some-americans-prepping-for-a-doomsday">Why are some Americans prepping for a doomsday?</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/rabbi-says-harvard-is-forcing-students-to-hide-menorah">
+<img data-lazy="https://images.mixedtimes.com/rabbi-says-harvard-is-forcing-students-to-hide-menorah-e8fe42ab10c8d4293e4741d20d55dd45/intro" alt="Rabbi says Harvard is forcing students to 'hide' menorah" title="Rabbi says Harvard is forcing students to 'hide' menorah" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">2496</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/rabbi-says-harvard-is-forcing-students-to-hide-menorah">Rabbi says Harvard is forcing students to 'hide' menorah</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/reuters-under-fire-for-allegedly-feeding-questions-to-joe-biden">
+<img data-lazy="https://images.mixedtimes.com/reuters-under-fire-for-allegedly-feeding-questions-to-joe-biden-5eee49b40c7e268c3cb71ec4f5f310ed/intro" alt="Reuters Under Fire for Allegedly Feeding Questions to Joe Biden" title="Reuters Under Fire for Allegedly Feeding Questions to Joe Biden" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">8299</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/reuters-under-fire-for-allegedly-feeding-questions-to-joe-biden">Reuters Under Fire for Allegedly Feeding Questions to Joe Biden</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/unhappy-democrat-causes-chaos-at-kamalas-holiday-party">
+<img data-lazy="https://images.mixedtimes.com/unhappy-democrat-causes-chaos-at-kamalas-holiday-party-bf78873f0d218d01f3a250bd0de4e230/intro" alt="Unhappy Democrat Causes Chaos at Kamala’s Holiday Party" title="Unhappy Democrat Causes Chaos at Kamala’s Holiday Party" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">8885</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/unhappy-democrat-causes-chaos-at-kamalas-holiday-party">Unhappy Democrat Causes Chaos at Kamala’s Holiday Party</a></h4>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id15"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/video/the-problem-for-bidens-re-election-effort-is-reality-newt-gingrich">
+<img data-lazy="https://images.mixedtimes.com/the-problem-for-bidens-re-election-effort-is-reality-newt-gingrich-06c30d8254ee0c3b28842285de9cc5a5/intro" alt="The problem for Biden’s re-election effort is ‘reality’: Newt Gingrich" title="The problem for Biden’s re-election effort is ‘reality’: Newt Gingrich" />
+</a>
+<div class="raxo-meta">
+<span class="raxo-hits">9478</span>
+</div>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/video/the-problem-for-bidens-re-election-effort-is-reality-newt-gingrich">The problem for Biden’s re-election effort is ‘reality’: Newt Gingrich</a></h4>
+</div>
+</div></article>
+</div>
+</div>
+<div class="raxo-block-button"><a href="/video">MORE VIDEOS</a></div>
+<script>
+jQuery(document).ready(function($){
+	var raxo_module = $('#raxo-module-id147'),
+		raxo_slider = raxo_module.find('.raxo-normal');
+		raxo_nav 	= raxo_module.find('.raxo-navigation');
+
+	raxo_slider.slick({
+		infinite: false,
+		slidesToShow: 6,
+		slidesToScroll: 6,
+
+		dots: true,
+		dotsClass: 'raxo-nav-slides',
+		appendArrows: raxo_nav,
+		appendDots: raxo_nav,
+
+		respondTo: 'slider',
+		responsive: [
+			{ breakpoint: 1180,
+				settings: {
+					slidesToShow: 4,
+					slidesToScroll: 4			  }
+			},
+			{ breakpoint: 960,
+				settings: {
+					slidesToShow: 3,
+					slidesToScroll: 3,
+					infinite: true
+			  }
+			},
+			{ breakpoint: 720,
+				settings: {
+					slidesToShow: 2,
+					slidesToScroll: 2,
+					infinite: true
+				}
+			},
+			{ breakpoint: 420,
+				settings: {
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					infinite: true,
+					dots: false
+				}
+			}
+		]
+	});
+
+});
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-crypto"><div class="sp-module-content">
+<div id="raxo-module-id183" class="raxo-allmode-pro raxo-portal mixedtimes-home-crypto">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/crypto">Crypto</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id18 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/crypto/can-the-government-ban-bitcoin-four-things-you-need-to-know-today"><img src="https://images.mixedtimes.com/can-the-government-ban-bitcoin-four-things-you-need-to-know-today-d204a2a4e2eabfa1281d964bd820ae2f/intro" alt="Can The Government Ban Bitcoin? Four Things You Need To Know Today" title="Can The Government Ban Bitcoin? Four Things You Need To Know Today" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/crypto/can-the-government-ban-bitcoin-four-things-you-need-to-know-today">Can The Government Ban Bitcoin? Four Things You Need To Know Today</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 15, 2023</span>
+<span class="raxo-hits">Hits: 8141</span>
+</div>
+<div class="raxo-text">
+Recently, we’ve heard powerful bankers and politicians expressing their desire to ban Bitcoin. The notion&hellip; </div>
+<div class="raxo-readmore"><a href="/crypto/can-the-government-ban-bitcoin-four-things-you-need-to-know-today">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-block-button"><a href="/crypto">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id183');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id183 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-technology"><div class="sp-module-content">
+<div id="raxo-module-id144" class="raxo-allmode-pro raxo-portal mixedtimes-home-technology">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/technology">Technology</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/technology/privacy-is-it-smart-to-hand-over-your-email-and-number-for-discounts"><img src="https://images.mixedtimes.com/privacy-is-it-smart-to-hand-over-your-email-and-number-for-discounts-c71ecf96e87904197dec1d8cdcbb1bcd/intro" alt="Privacy: Is it smart to hand over your email and number for discounts?" title="Privacy: Is it smart to hand over your email and number for discounts?" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/technology/privacy-is-it-smart-to-hand-over-your-email-and-number-for-discounts">Privacy: Is it smart to hand over your email and number for discounts?</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 3741</span>
+</div>
+<div class="raxo-text">
+It’s a savvy shopper's favorite time of year: Discounts and deals as far as the eye can see. You’re probably&hellip; </div>
+<div class="raxo-readmore"><a href="/technology/privacy-is-it-smart-to-hand-over-your-email-and-number-for-discounts">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/technology/gen-z-us-soldiers-engaged-in-tiktok-mutiny-discouraging-army-recruits"><img src="https://images.mixedtimes.com/gen-z-us-soldiers-engaged-in-tiktok-mutiny-discouraging-army-recruits-0bcd4f0210ce2f62f60b7f15618cfb09/intro" alt="Gen Z U.S. Soldiers Engaged in ‘TikTok Mutiny,’ Discouraging Army Recruits" title="Gen Z U.S. Soldiers Engaged in ‘TikTok Mutiny,’ Discouraging Army Recruits" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/technology/gen-z-us-soldiers-engaged-in-tiktok-mutiny-discouraging-army-recruits">Gen Z U.S. Soldiers Engaged in ‘TikTok Mutiny,’ Discouraging Army Recruits</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 5693</span>
+</div>
+<div class="raxo-text">
+Young members of the U.S. Army are throwing a TikTok “mutiny” to complain about “sh*tty food,” being pushed&hellip; </div>
+<div class="raxo-readmore"><a href="/technology/gen-z-us-soldiers-engaged-in-tiktok-mutiny-discouraging-army-recruits">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/even-the-pope-has-something-to-say-about-artificial-intelligence"><img src="https://images.mixedtimes.com/even-the-pope-has-something-to-say-about-artificial-intelligence-2bba1de40546f5ce6720b238855b3a22/intro" alt="Even The Pope Has Something To Say About Artificial Intelligence" title="Even The Pope Has Something To Say About Artificial Intelligence" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/even-the-pope-has-something-to-say-about-artificial-intelligence">Even The Pope Has Something To Say About Artificial Intelligence</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7232</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/tropical-storm-like-system-will-slam-eastern-seaboard-"><img src="/images/intro.svg" alt="Tropical-Storm-Like System Will Slam Eastern Seaboard " title="Tropical-Storm-Like System Will Slam Eastern Seaboard " /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/tropical-storm-like-system-will-slam-eastern-seaboard-">Tropical-Storm-Like System Will Slam Eastern Seaboard </a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1245</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/wikipedia-editors-downplay-controversies-surrounding-harvard-president-claudine-gay"><img src="https://images.mixedtimes.com/wikipedia-editors-downplay-controversies-surrounding-harvard-president-claudine-gay-5b05778cede94a69bbe3a4987409c27c/intro" alt="Wikipedia Editors Downplay Controversies Surrounding Harvard President Claudine Gay" title="Wikipedia Editors Downplay Controversies Surrounding Harvard President Claudine Gay" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/wikipedia-editors-downplay-controversies-surrounding-harvard-president-claudine-gay">Wikipedia Editors Downplay Controversies Surrounding Harvard President Claudine Gay</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9539</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/wikipedia-supreme-court-suspends-member-for-breaking-sites-code-of-silence"><img src="https://images.mixedtimes.com/wikipedia-supreme-court-suspends-member-for-breaking-sites-code-of-silence-3b215c5423ff4b9d5180626bd9d1a269/intro" alt="Wikipedia ‘Supreme Court’ Suspends Member for Breaking Site’s ‘Code of Silence’" title="Wikipedia ‘Supreme Court’ Suspends Member for Breaking Site’s ‘Code of Silence’" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/wikipedia-supreme-court-suspends-member-for-breaking-sites-code-of-silence">Wikipedia ‘Supreme Court’ Suspends Member for Breaking Site’s ‘Code of Silence’</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6184</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/study-ai-resume-screening-discriminates-against-mothers"><img src="https://images.mixedtimes.com/study-ai-resume-screening-discriminates-against-mothers-22b831fd4d1a8b3a40a32188fad17227/intro" alt="Study: AI Resume Screening Discriminates Against Mothers" title="Study: AI Resume Screening Discriminates Against Mothers" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/study-ai-resume-screening-discriminates-against-mothers">Study: AI Resume Screening Discriminates Against Mothers</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1910</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/lawsuit-elon-musks-x-twitter-welshed-on-promise-to-pay-employee-retention-bonuses">
+<img data-src="https://images.mixedtimes.com/lawsuit-elon-musks-x-twitter-welshed-on-promise-to-pay-employee-retention-bonuses-f72d6ac6d6f2166c17704c66132f23a8/intro" alt="Lawsuit: Elon Musk’s X/Twitter Welshed on Promise to Pay Employee Retention Bonuses" title="Lawsuit: Elon Musk’s X/Twitter Welshed on Promise to Pay Employee Retention Bonuses" />
+<noscript><img src="https://images.mixedtimes.com/lawsuit-elon-musks-x-twitter-welshed-on-promise-to-pay-employee-retention-bonuses-f72d6ac6d6f2166c17704c66132f23a8/intro"  alt="Lawsuit: Elon Musk’s X/Twitter Welshed on Promise to Pay Employee Retention Bonuses" title="Lawsuit: Elon Musk’s X/Twitter Welshed on Promise to Pay Employee Retention Bonuses" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/lawsuit-elon-musks-x-twitter-welshed-on-promise-to-pay-employee-retention-bonuses">Lawsuit: Elon Musk’s X/Twitter Welshed on Promise to Pay Employee Retention Bonuses</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6750</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/bots-counting-beans-hr-block-launches-ai-tax-filing-assistant">
+<img data-src="https://images.mixedtimes.com/bots-counting-beans-hr-block-launches-ai-tax-filing-assistant-e70276a1c1634c44c91a1dc7a8dbc04e/intro" alt="Bots Counting Beans: H&R Block Launches AI Tax Filing Assistant" title="Bots Counting Beans: H&amp;R Block Launches AI Tax Filing Assistant" />
+<noscript><img src="https://images.mixedtimes.com/bots-counting-beans-hr-block-launches-ai-tax-filing-assistant-e70276a1c1634c44c91a1dc7a8dbc04e/intro"  alt="Bots Counting Beans: H&R Block Launches AI Tax Filing Assistant" title="Bots Counting Beans: H&amp;R Block Launches AI Tax Filing Assistant" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/bots-counting-beans-hr-block-launches-ai-tax-filing-assistant">Bots Counting Beans: H&R Block Launches AI Tax Filing Assistant</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 2282</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/investigative-reporter-lee-fang-newsguard-demands-news-orgs-conform-to-government-narratives">
+<img data-src="https://images.mixedtimes.com/investigative-reporter-lee-fang-newsguard-demands-news-orgs-conform-to-government-narratives-aebeaac25b2ef613293e1c922526ce37/intro" alt="Investigative Reporter Lee Fang: NewsGuard Demands News Orgs Conform to Government Narratives" title="Investigative Reporter Lee Fang: NewsGuard Demands News Orgs Conform to Government Narratives" />
+<noscript><img src="https://images.mixedtimes.com/investigative-reporter-lee-fang-newsguard-demands-news-orgs-conform-to-government-narratives-aebeaac25b2ef613293e1c922526ce37/intro"  alt="Investigative Reporter Lee Fang: NewsGuard Demands News Orgs Conform to Government Narratives" title="Investigative Reporter Lee Fang: NewsGuard Demands News Orgs Conform to Government Narratives" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/investigative-reporter-lee-fang-newsguard-demands-news-orgs-conform-to-government-narratives">Investigative Reporter Lee Fang: NewsGuard Demands News Orgs Conform to Government Narratives</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7549</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/chinese-mourners-use-ai-to-create-avatars-of-the-dead">
+<img data-src="https://images.mixedtimes.com/chinese-mourners-use-ai-to-create-avatars-of-the-dead-a9b5f8cd08411956f0afecfd270eb287/intro" alt="Chinese Mourners Use AI to Create Avatars of the Dead" title="Chinese Mourners Use AI to Create Avatars of the Dead" />
+<noscript><img src="https://images.mixedtimes.com/chinese-mourners-use-ai-to-create-avatars-of-the-dead-a9b5f8cd08411956f0afecfd270eb287/intro"  alt="Chinese Mourners Use AI to Create Avatars of the Dead" title="Chinese Mourners Use AI to Create Avatars of the Dead" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/chinese-mourners-use-ai-to-create-avatars-of-the-dead">Chinese Mourners Use AI to Create Avatars of the Dead</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9451</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/watch-vladimir-putin-takes-question-from-deepfake-twin-at-four-hour-press-conference">
+<img data-src="https://images.mixedtimes.com/watch-vladimir-putin-takes-question-from-deepfake-twin-at-four-hour-press-conference-ff55fc1f8453be990bd9bce04a4d8759/intro" alt="Watch: Vladimir Putin Takes Question from Deepfake Twin at Four-Hour Press Conference" title="Watch: Vladimir Putin Takes Question from Deepfake Twin at Four-Hour Press Conference" />
+<noscript><img src="https://images.mixedtimes.com/watch-vladimir-putin-takes-question-from-deepfake-twin-at-four-hour-press-conference-ff55fc1f8453be990bd9bce04a4d8759/intro"  alt="Watch: Vladimir Putin Takes Question from Deepfake Twin at Four-Hour Press Conference" title="Watch: Vladimir Putin Takes Question from Deepfake Twin at Four-Hour Press Conference" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/watch-vladimir-putin-takes-question-from-deepfake-twin-at-four-hour-press-conference">Watch: Vladimir Putin Takes Question from Deepfake Twin at Four-Hour Press Conference</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1754</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/chatgpt-users-say-the-ai-chatbot-has-gotten-lazy-and-sarcastic-before-the-holidays">
+<img data-src="https://images.mixedtimes.com/chatgpt-users-say-the-ai-chatbot-has-gotten-lazy-and-sarcastic-before-the-holidays-be154e32f6847f12336445faf6ecb23c/intro" alt="ChatGPT Users Say the AI Chatbot Has Gotten Lazy and Sarcastic Before the Holidays" title="ChatGPT Users Say the AI Chatbot Has Gotten Lazy and Sarcastic Before the Holidays" />
+<noscript><img src="https://images.mixedtimes.com/chatgpt-users-say-the-ai-chatbot-has-gotten-lazy-and-sarcastic-before-the-holidays-be154e32f6847f12336445faf6ecb23c/intro"  alt="ChatGPT Users Say the AI Chatbot Has Gotten Lazy and Sarcastic Before the Holidays" title="ChatGPT Users Say the AI Chatbot Has Gotten Lazy and Sarcastic Before the Holidays" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/chatgpt-users-say-the-ai-chatbot-has-gotten-lazy-and-sarcastic-before-the-holidays">ChatGPT Users Say the AI Chatbot Has Gotten Lazy and Sarcastic Before the Holidays</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7437</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/elisa-stefanik-other-republicans-call-for-harvard-to-be-stripped-of-billions-in-federal-funds">
+<img data-src="https://images.mixedtimes.com/elisa-stefanik-other-republicans-call-for-harvard-to-be-stripped-of-billions-in-federal-funds-51bfbe9ffa2dff1a793cafe398ee4f99/intro" alt="Elisa Stefanik, Other Republicans Call for Harvard to Be Stripped of Billions in Federal Funds" title="Elisa Stefanik, Other Republicans Call for Harvard to Be Stripped of Billions in Federal Funds" />
+<noscript><img src="https://images.mixedtimes.com/elisa-stefanik-other-republicans-call-for-harvard-to-be-stripped-of-billions-in-federal-funds-51bfbe9ffa2dff1a793cafe398ee4f99/intro"  alt="Elisa Stefanik, Other Republicans Call for Harvard to Be Stripped of Billions in Federal Funds" title="Elisa Stefanik, Other Republicans Call for Harvard to Be Stripped of Billions in Federal Funds" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/elisa-stefanik-other-republicans-call-for-harvard-to-be-stripped-of-billions-in-federal-funds">Elisa Stefanik, Other Republicans Call for Harvard to Be Stripped of Billions in Federal Funds</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7354</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/the-dawn-of-ai-politics-pennsylvania-democrat-rolls-out-chatbot-to-robocall-voters">
+<img data-src="https://images.mixedtimes.com/the-dawn-of-ai-politics-pennsylvania-democrat-rolls-out-chatbot-to-robocall-voters-d61ac1d0e4293ae4ddb745bbf84b8a5d/intro" alt="‘The Dawn of AI Politics:’ Pennsylvania Democrat Rolls Out Chatbot to Robocall Voters" title="‘The Dawn of AI Politics:’ Pennsylvania Democrat Rolls Out Chatbot to Robocall Voters" />
+<noscript><img src="https://images.mixedtimes.com/the-dawn-of-ai-politics-pennsylvania-democrat-rolls-out-chatbot-to-robocall-voters-d61ac1d0e4293ae4ddb745bbf84b8a5d/intro"  alt="‘The Dawn of AI Politics:’ Pennsylvania Democrat Rolls Out Chatbot to Robocall Voters" title="‘The Dawn of AI Politics:’ Pennsylvania Democrat Rolls Out Chatbot to Robocall Voters" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/the-dawn-of-ai-politics-pennsylvania-democrat-rolls-out-chatbot-to-robocall-voters">‘The Dawn of AI Politics:’ Pennsylvania Democrat Rolls Out Chatbot to Robocall Voters</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9633</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/former-facebook-diversity-manager-admits-to-stealing-millions-from-mark-zuckerbergs-company">
+<img data-src="https://images.mixedtimes.com/former-facebook-diversity-manager-admits-to-stealing-millions-from-mark-zuckerbergs-company-c6f1db34e255bebcf3ae680c00fa3e47/intro" alt="Former Facebook Diversity Manager Admits to Stealing Millions from Mark Zuckerberg’s Company" title="Former Facebook Diversity Manager Admits to Stealing Millions from Mark Zuckerberg’s Company" />
+<noscript><img src="https://images.mixedtimes.com/former-facebook-diversity-manager-admits-to-stealing-millions-from-mark-zuckerbergs-company-c6f1db34e255bebcf3ae680c00fa3e47/intro"  alt="Former Facebook Diversity Manager Admits to Stealing Millions from Mark Zuckerberg’s Company" title="Former Facebook Diversity Manager Admits to Stealing Millions from Mark Zuckerberg’s Company" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/former-facebook-diversity-manager-admits-to-stealing-millions-from-mark-zuckerbergs-company">Former Facebook Diversity Manager Admits to Stealing Millions from Mark Zuckerberg’s Company</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5978</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id12 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/technology/court-rules-amazon-doesnt-have-to-pay-270-million-back-taxes-demanded-by-eu">
+<img data-src="https://images.mixedtimes.com/court-rules-amazon-doesnt-have-to-pay-270-million-back-taxes-demanded-by-eu-82757ed37914444ab829a1e05bfbba3d/intro" alt="Court Rules Amazon Doesn’t Have to Pay $270 Million Back Taxes Demanded by EU" title="Court Rules Amazon Doesn’t Have to Pay $270 Million Back Taxes Demanded by EU" />
+<noscript><img src="https://images.mixedtimes.com/court-rules-amazon-doesnt-have-to-pay-270-million-back-taxes-demanded-by-eu-82757ed37914444ab829a1e05bfbba3d/intro"  alt="Court Rules Amazon Doesn’t Have to Pay $270 Million Back Taxes Demanded by EU" title="Court Rules Amazon Doesn’t Have to Pay $270 Million Back Taxes Demanded by EU" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/technology/court-rules-amazon-doesnt-have-to-pay-270-million-back-taxes-demanded-by-eu">Court Rules Amazon Doesn’t Have to Pay $270 Million Back Taxes Demanded by EU</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 2180</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/technology">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id144');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id144 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-lifestyle"><div class="sp-module-content">
+<div id="raxo-module-id145" class="raxo-allmode-pro raxo-portal mixedtimes-home-lifestyle">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/lifestyle">Lifestyle</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/lifestyle/bob-pardo-vietnam-war-pilot-famous-for-pardos-push-maneuver-dead-at-89"><img src="https://images.mixedtimes.com/bob-pardo-vietnam-war-pilot-famous-for-pardos-push-maneuver-dead-at-89-1e08c6545efcd19b23ffe9cf9493577c/intro" alt="Bob Pardo, Vietnam War pilot famous for Pardo’s Push maneuver, dead at 89" title="Bob Pardo, Vietnam War pilot famous for Pardo’s Push maneuver, dead at 89" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/lifestyle/bob-pardo-vietnam-war-pilot-famous-for-pardos-push-maneuver-dead-at-89">Bob Pardo, Vietnam War pilot famous for Pardo’s Push maneuver, dead at 89</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 16, 2023</span>
+<span class="raxo-hits">Hits: 6025</span>
+</div>
+<div class="raxo-text">
+Fox News correspondent Danamarie McNicholl provides insight on the hero's bucket list on 'Fox News Live.' Bob&hellip; </div>
+<div class="raxo-readmore"><a href="/lifestyle/bob-pardo-vietnam-war-pilot-famous-for-pardos-push-maneuver-dead-at-89">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/lifestyle/the-virgin-mary-mother-of-jesus-mysteriously-appeared-on-florida-building-27-years-ago-today"><img src="https://images.mixedtimes.com/the-virgin-mary-mother-of-jesus-mysteriously-appeared-on-florida-building-27-years-ago-today-953c6424edab38964c42fffa373b8a9c/intro" alt="The Virgin Mary, mother of Jesus, mysteriously 'appeared' on Florida building 27 years ago today" title="The Virgin Mary, mother of Jesus, mysteriously 'appeared' on Florida building 27 years ago today" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/lifestyle/the-virgin-mary-mother-of-jesus-mysteriously-appeared-on-florida-building-27-years-ago-today">The Virgin Mary, mother of Jesus, mysteriously 'appeared' on Florida building 27 years ago today</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 16, 2023</span>
+<span class="raxo-hits">Hits: 2048</span>
+</div>
+<div class="raxo-text">
+Twenty-seven years ago today, a rainbow-tinged image of what appeared to be the Virgin Mary covered the side&hellip; </div>
+<div class="raxo-readmore"><a href="/lifestyle/the-virgin-mary-mother-of-jesus-mysteriously-appeared-on-florida-building-27-years-ago-today">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/at-christmas-don-mclean-sings-the-praises-of-silent-night-other-holiday-classics-my-mothers-favorite"><img src="https://images.mixedtimes.com/at-christmas-don-mclean-sings-the-praises-of-silent-night-other-holiday-classics-my-mothers-favorite-20ad6f918e763942a1efabf33fa5c8fd/intro" alt="At Christmas, Don McLean sings the praises of 'Silent Night,' other holiday classics: 'My mother's favorite'" title="At Christmas, Don McLean sings the praises of 'Silent Night,' other holiday classics: 'My mother's favorite'" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/at-christmas-don-mclean-sings-the-praises-of-silent-night-other-holiday-classics-my-mothers-favorite">At Christmas, Don McLean sings the praises of 'Silent Night,' other holiday classics: 'My mother's favorite'</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 3980</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/beowulf-returned-to-pennsylvania-library-after-54-years-accrued-nearly-1000-fine"><img src="https://images.mixedtimes.com/beowulf-returned-to-pennsylvania-library-after-54-years-accrued-nearly-1000-fine-337567409fdbc3965560584f942a91ee/intro" alt="'Beowulf' returned to Pennsylvania library after 54 years, accrued nearly $1,000 fine" title="'Beowulf' returned to Pennsylvania library after 54 years, accrued nearly $1,000 fine" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/beowulf-returned-to-pennsylvania-library-after-54-years-accrued-nearly-1000-fine">'Beowulf' returned to Pennsylvania library after 54 years, accrued nearly $1,000 fine</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5986</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/taylor-swift-inspired-christmas-ornaments-take-over-the-internet-as-swifties-display-unique-designs"><img src="https://images.mixedtimes.com/taylor-swift-inspired-christmas-ornaments-take-over-the-internet-as-swifties-display-unique-designs-a29726f34b97f1008240f83f16f22793/intro" alt="Taylor Swift-inspired Christmas ornaments take over the internet as Swifties display unique designs" title="Taylor Swift-inspired Christmas ornaments take over the internet as Swifties display unique designs" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/taylor-swift-inspired-christmas-ornaments-take-over-the-internet-as-swifties-display-unique-designs">Taylor Swift-inspired Christmas ornaments take over the internet as Swifties display unique designs</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9869</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/wine-pioneer-miljenko-mike-grgich-dies-at-100-leaving-lasting-legacy-in-napa-valley"><img src="https://images.mixedtimes.com/wine-pioneer-miljenko-mike-grgich-dies-at-100-leaving-lasting-legacy-in-napa-valley-71fe342b8de6e2b7c368d07c52ba541b/intro" alt="Wine pioneer Miljenko 'Mike' Grgich dies at 100, leaving lasting legacy in Napa Valley" title="Wine pioneer Miljenko 'Mike' Grgich dies at 100, leaving lasting legacy in Napa Valley" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/wine-pioneer-miljenko-mike-grgich-dies-at-100-leaving-lasting-legacy-in-napa-valley">Wine pioneer Miljenko 'Mike' Grgich dies at 100, leaving lasting legacy in Napa Valley</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7908</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/taylor-swifts-birth-hospital-gives-newborn-era-bracelets-to-parents-who-welcomed-babies-on-december-13"><img src="https://images.mixedtimes.com/taylor-swifts-birth-hospital-gives-newborn-era-bracelets-to-parents-who-welcomed-babies-on-december-13-b12294593e91c4d2fc8c7d3401f534d8/intro" alt="Taylor Swift’s birth hospital gives ‘newborn era’ bracelets to parents who welcomed babies on December 13" title="Taylor Swift’s birth hospital gives ‘newborn era’ bracelets to parents who welcomed babies on December 13" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/taylor-swifts-birth-hospital-gives-newborn-era-bracelets-to-parents-who-welcomed-babies-on-december-13">Taylor Swift’s birth hospital gives ‘newborn era’ bracelets to parents who welcomed babies on December 13</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8615</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/wreaths-across-america-driver-and-national-guard-member-is-honored-to-take-part-in-holiday-mission">
+<img data-src="https://images.mixedtimes.com/wreaths-across-america-driver-and-national-guard-member-is-honored-to-take-part-in-holiday-mission-86b1ab89864c7392791130932dcf303f/intro" alt="Wreaths Across America driver and National Guard member is 'honored' to take part in holiday mission" title="Wreaths Across America driver and National Guard member is 'honored' to take part in holiday mission" />
+<noscript><img src="https://images.mixedtimes.com/wreaths-across-america-driver-and-national-guard-member-is-honored-to-take-part-in-holiday-mission-86b1ab89864c7392791130932dcf303f/intro"  alt="Wreaths Across America driver and National Guard member is 'honored' to take part in holiday mission" title="Wreaths Across America driver and National Guard member is 'honored' to take part in holiday mission" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/wreaths-across-america-driver-and-national-guard-member-is-honored-to-take-part-in-holiday-mission">Wreaths Across America driver and National Guard member is 'honored' to take part in holiday mission</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 3248</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/jack-carrs-take-on-uncommon-valor-which-premiered-on-this-day-december-16-1983-semper-fidelis">
+<img data-src="https://images.mixedtimes.com/jack-carrs-take-on-uncommon-valor-which-premiered-on-this-day-december-16-1983-semper-fidelis-bae6619136bece354667e5cafda55b9c/intro" alt="Jack Carr's take on 'Uncommon Valor,' which premiered on this day, December 16, 1983: 'Semper Fidelis'" title="Jack Carr's take on 'Uncommon Valor,' which premiered on this day, December 16, 1983: 'Semper Fidelis'" />
+<noscript><img src="https://images.mixedtimes.com/jack-carrs-take-on-uncommon-valor-which-premiered-on-this-day-december-16-1983-semper-fidelis-bae6619136bece354667e5cafda55b9c/intro"  alt="Jack Carr's take on 'Uncommon Valor,' which premiered on this day, December 16, 1983: 'Semper Fidelis'" title="Jack Carr's take on 'Uncommon Valor,' which premiered on this day, December 16, 1983: 'Semper Fidelis'" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/jack-carrs-take-on-uncommon-valor-which-premiered-on-this-day-december-16-1983-semper-fidelis">Jack Carr's take on 'Uncommon Valor,' which premiered on this day, December 16, 1983: 'Semper Fidelis'</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7013</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/christmas-gift-leads-to-teams-lotto-win-plus-the-word-vegan-may-be-turning-people-off">
+<img data-src="https://images.mixedtimes.com/christmas-gift-leads-to-teams-lotto-win-plus-the-word-vegan-may-be-turning-people-off-a76514cb5ce2b40ae14927be681ba707/intro" alt="Christmas gift leads to team's lotto win, plus the word 'vegan' may be turning people off" title="Christmas gift leads to team's lotto win, plus the word 'vegan' may be turning people off" />
+<noscript><img src="https://images.mixedtimes.com/christmas-gift-leads-to-teams-lotto-win-plus-the-word-vegan-may-be-turning-people-off-a76514cb5ce2b40ae14927be681ba707/intro"  alt="Christmas gift leads to team's lotto win, plus the word 'vegan' may be turning people off" title="Christmas gift leads to team's lotto win, plus the word 'vegan' may be turning people off" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/christmas-gift-leads-to-teams-lotto-win-plus-the-word-vegan-may-be-turning-people-off">Christmas gift leads to team's lotto win, plus the word 'vegan' may be turning people off</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1687</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/woman-switched-at-birth-spends-holidays-with-birth-mom-after-decades-long-search-feel-at-peace">
+<img data-src="https://images.mixedtimes.com/woman-switched-at-birth-spends-holidays-with-birth-mom-after-decades-long-search-feel-at-peace-5824ce4e5d8a849386423e8037b8dc38/intro" alt="Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'" title="Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'" />
+<noscript><img src="https://images.mixedtimes.com/woman-switched-at-birth-spends-holidays-with-birth-mom-after-decades-long-search-feel-at-peace-5824ce4e5d8a849386423e8037b8dc38/intro"  alt="Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'" title="Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/woman-switched-at-birth-spends-holidays-with-birth-mom-after-decades-long-search-feel-at-peace">Woman switched at birth spends holidays with birth mom after decades-long search: 'Feel at peace'</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1009</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/deaf-girl-finally-tells-santa-what-she-wants-for-christmas-after-elf-helps-her-sign-her-wish-list">
+<img data-src="https://images.mixedtimes.com/deaf-girl-finally-tells-santa-what-she-wants-for-christmas-after-elf-helps-her-sign-her-wish-list-508beb2a54289e18a52ab2522443a63c/intro" alt="Deaf girl finally tells Santa what she wants for Christmas after elf helps her ‘sign’ her wish list" title="Deaf girl finally tells Santa what she wants for Christmas after elf helps her ‘sign’ her wish list" />
+<noscript><img src="https://images.mixedtimes.com/deaf-girl-finally-tells-santa-what-she-wants-for-christmas-after-elf-helps-her-sign-her-wish-list-508beb2a54289e18a52ab2522443a63c/intro"  alt="Deaf girl finally tells Santa what she wants for Christmas after elf helps her ‘sign’ her wish list" title="Deaf girl finally tells Santa what she wants for Christmas after elf helps her ‘sign’ her wish list" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/deaf-girl-finally-tells-santa-what-she-wants-for-christmas-after-elf-helps-her-sign-her-wish-list">Deaf girl finally tells Santa what she wants for Christmas after elf helps her ‘sign’ her wish list</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8041</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/yuletide-owl-found-roosting-in-kentucky-familys-christmas-tree-for-days-before-being-found">
+<img data-src="https://images.mixedtimes.com/yuletide-owl-found-roosting-in-kentucky-familys-christmas-tree-for-days-before-being-found-fdb290cf22aa474d4843313bae986de2/intro" alt="Yuletide owl found roosting in Kentucky family's Christmas tree for days before being found" title="Yuletide owl found roosting in Kentucky family's Christmas tree for days before being found" />
+<noscript><img src="https://images.mixedtimes.com/yuletide-owl-found-roosting-in-kentucky-familys-christmas-tree-for-days-before-being-found-fdb290cf22aa474d4843313bae986de2/intro"  alt="Yuletide owl found roosting in Kentucky family's Christmas tree for days before being found" title="Yuletide owl found roosting in Kentucky family's Christmas tree for days before being found" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/yuletide-owl-found-roosting-in-kentucky-familys-christmas-tree-for-days-before-being-found">Yuletide owl found roosting in Kentucky family's Christmas tree for days before being found</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5470</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/mini-volcanoes-made-of-mounds-of-sand-appear-scattered-on-texas-beach">
+<img data-src="https://images.mixedtimes.com/mini-volcanoes-made-of-mounds-of-sand-appear-scattered-on-texas-beach-24beea43b3cbea585b435b53b130198d/intro" alt="'Mini volcanoes' made of mounds of sand appear scattered on Texas beach" title="'Mini volcanoes' made of mounds of sand appear scattered on Texas beach" />
+<noscript><img src="https://images.mixedtimes.com/mini-volcanoes-made-of-mounds-of-sand-appear-scattered-on-texas-beach-24beea43b3cbea585b435b53b130198d/intro"  alt="'Mini volcanoes' made of mounds of sand appear scattered on Texas beach" title="'Mini volcanoes' made of mounds of sand appear scattered on Texas beach" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/mini-volcanoes-made-of-mounds-of-sand-appear-scattered-on-texas-beach">'Mini volcanoes' made of mounds of sand appear scattered on Texas beach</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9049</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/author-james-patterson-gifts-special-holiday-bonuses-to-600-employees-at-independent-bookstores">
+<img data-src="https://images.mixedtimes.com/author-james-patterson-gifts-special-holiday-bonuses-to-600-employees-at-independent-bookstores-1f36d2214b37e4d5416d78671636db60/intro" alt="Author James Patterson gifts special holiday bonuses to 600 employees at independent bookstores" title="Author James Patterson gifts special holiday bonuses to 600 employees at independent bookstores" />
+<noscript><img src="https://images.mixedtimes.com/author-james-patterson-gifts-special-holiday-bonuses-to-600-employees-at-independent-bookstores-1f36d2214b37e4d5416d78671636db60/intro"  alt="Author James Patterson gifts special holiday bonuses to 600 employees at independent bookstores" title="Author James Patterson gifts special holiday bonuses to 600 employees at independent bookstores" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/author-james-patterson-gifts-special-holiday-bonuses-to-600-employees-at-independent-bookstores">Author James Patterson gifts special holiday bonuses to 600 employees at independent bookstores</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8420</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/watch-tree-hit-by-lightning-strike-shatters-into-mans-car-narrowly-missing-driver">
+<img data-src="https://images.mixedtimes.com/watch-tree-hit-by-lightning-strike-shatters-into-mans-car-narrowly-missing-driver-56c35da8609fc8b97ea675d97595ea68/intro" alt="WATCH: Tree hit by lightning strike shatters into man's car, narrowly missing driver" title="WATCH: Tree hit by lightning strike shatters into man's car, narrowly missing driver" />
+<noscript><img src="https://images.mixedtimes.com/watch-tree-hit-by-lightning-strike-shatters-into-mans-car-narrowly-missing-driver-56c35da8609fc8b97ea675d97595ea68/intro"  alt="WATCH: Tree hit by lightning strike shatters into man's car, narrowly missing driver" title="WATCH: Tree hit by lightning strike shatters into man's car, narrowly missing driver" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/watch-tree-hit-by-lightning-strike-shatters-into-mans-car-narrowly-missing-driver">WATCH: Tree hit by lightning strike shatters into man's car, narrowly missing driver</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1294</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id9 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/lifestyle/the-grinch-inspired-roast-beef-and-turkey-recipes-for-your-holiday-feast-this-season">
+<img data-src="https://images.mixedtimes.com/the-grinch-inspired-roast-beef-and-turkey-recipes-for-your-holiday-feast-this-season-8541b18a497624027cc143d4fa2b941f/intro" alt="'The Grinch'-inspired roast beef and turkey recipes for your holiday feast this season" title="'The Grinch'-inspired roast beef and turkey recipes for your holiday feast this season" />
+<noscript><img src="https://images.mixedtimes.com/the-grinch-inspired-roast-beef-and-turkey-recipes-for-your-holiday-feast-this-season-8541b18a497624027cc143d4fa2b941f/intro"  alt="'The Grinch'-inspired roast beef and turkey recipes for your holiday feast this season" title="'The Grinch'-inspired roast beef and turkey recipes for your holiday feast this season" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/lifestyle/the-grinch-inspired-roast-beef-and-turkey-recipes-for-your-holiday-feast-this-season">'The Grinch'-inspired roast beef and turkey recipes for your holiday feast this season</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7771</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/lifestyle">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id145');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id145 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-entertainment"><div class="sp-module-content">
+<div id="raxo-module-id146" class="raxo-allmode-pro raxo-portal mixedtimes-home-entertainment">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/entertainment">Entertainment</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/entertainment/suzanne-somers-sang-love-song-to-husband-alan-hamel-at-her-own-memorial"><img src="https://images.mixedtimes.com/suzanne-somers-sang-love-song-to-husband-alan-hamel-at-her-own-memorial-f41dc5b9f08efc2c1894ab089867dddb/intro" alt="Suzanne Somers sang love song to husband Alan Hamel at her own memorial" title="Suzanne Somers sang love song to husband Alan Hamel at her own memorial" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/entertainment/suzanne-somers-sang-love-song-to-husband-alan-hamel-at-her-own-memorial">Suzanne Somers sang love song to husband Alan Hamel at her own memorial</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 2537</span>
+</div>
+<div class="raxo-text">
+FOX News' Todd Piro details her iconic life and legacy during 'FOX &amp; Friends.' Suzanne Somers made sure her&hellip; </div>
+<div class="raxo-readmore"><a href="/entertainment/suzanne-somers-sang-love-song-to-husband-alan-hamel-at-her-own-memorial">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/entertainment/michael-b-jordans-ferrari-crash-caught-on-video"><img src="https://images.mixedtimes.com/michael-b-jordans-ferrari-crash-caught-on-video-c375049e6b2dcc9c7dbd60fbb95ab9ab/intro" alt="Michael B. Jordan's Ferrari crash caught on video" title="Michael B. Jordan's Ferrari crash caught on video" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/entertainment/michael-b-jordans-ferrari-crash-caught-on-video">Michael B. Jordan's Ferrari crash caught on video</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 9750</span>
+</div>
+<div class="raxo-text">
+A vehicle owned by Michael B. Jordan crashed into a parked car on Dec. 2, Fox News Digital confirmed. Michael&hellip; </div>
+<div class="raxo-readmore"><a href="/entertainment/michael-b-jordans-ferrari-crash-caught-on-video">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id16 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/dick-van-dyke-calls-himself-lazy-looking-back-on-legendary-movie-and-tv-career"><img src="https://images.mixedtimes.com/dick-van-dyke-calls-himself-lazy-looking-back-on-legendary-movie-and-tv-career-6ba9f2813689d2b702313aa23a02037e/intro" alt="Dick Van Dyke calls himself ‘lazy’ looking back on legendary movie and TV career" title="Dick Van Dyke calls himself ‘lazy’ looking back on legendary movie and TV career" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/dick-van-dyke-calls-himself-lazy-looking-back-on-legendary-movie-and-tv-career">Dick Van Dyke calls himself ‘lazy’ looking back on legendary movie and TV career</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9358</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/taylor-swift-travels-to-travis-kelces-kansas-city-chiefs-game-against-new-england-patriots"><img src="https://images.mixedtimes.com/taylor-swift-travels-to-travis-kelces-kansas-city-chiefs-game-against-new-england-patriots-bd31368b214eca8ea95566e12fd3acdb/intro" alt="Taylor Swift travels to Travis Kelce's Kansas City Chiefs Game against New England Patriots" title="Taylor Swift travels to Travis Kelce's Kansas City Chiefs Game against New England Patriots" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/taylor-swift-travels-to-travis-kelces-kansas-city-chiefs-game-against-new-england-patriots">Taylor Swift travels to Travis Kelce's Kansas City Chiefs Game against New England Patriots</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 4916</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/jason-momoa-shares-surprising-aquaman-diet-i-just-shovel-it-in"><img src="https://images.mixedtimes.com/jason-momoa-shares-surprising-aquaman-diet-i-just-shovel-it-in-7336aeed99cfb40bfbad6ad139c41623/intro" alt="Jason Momoa shares surprising 'Aquaman' diet: 'I just shovel it in'" title="Jason Momoa shares surprising 'Aquaman' diet: 'I just shovel it in'" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/jason-momoa-shares-surprising-aquaman-diet-i-just-shovel-it-in">Jason Momoa shares surprising 'Aquaman' diet: 'I just shovel it in'</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7370</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/snls-colin-jost-roasts-wife-scarlett-johansson-during-merciless-weekend-update-joke-swap"><img src="https://images.mixedtimes.com/snls-colin-jost-roasts-wife-scarlett-johansson-during-merciless-weekend-update-joke-swap-9a19c71c8e25d0e989614a770d2eba0b/intro" alt="'SNL's' Colin Jost roasts wife Scarlett Johansson during merciless 'Weekend Update' joke swap" title="'SNL's' Colin Jost roasts wife Scarlett Johansson during merciless 'Weekend Update' joke swap" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/snls-colin-jost-roasts-wife-scarlett-johansson-during-merciless-weekend-update-joke-swap">'SNL's' Colin Jost roasts wife Scarlett Johansson during merciless 'Weekend Update' joke swap</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9898</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/disneys-copyright-expiring-on-mickey-mouse-film-steamboat-willie-putting-his-early-design-in-public-domain"><img src="https://images.mixedtimes.com/disneys-copyright-expiring-on-mickey-mouse-film-steamboat-willie-putting-his-early-design-in-public-domain-c41588144ad000f6093f3a5ed3e52ae5/intro" alt="Disney’s Copyright Expiring on Mickey Mouse Film ‘Steamboat Willie,’ Putting His Early Design in Public Domain" title="Disney’s Copyright Expiring on Mickey Mouse Film ‘Steamboat Willie,’ Putting His Early Design in Public Domain" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/disneys-copyright-expiring-on-mickey-mouse-film-steamboat-willie-putting-his-early-design-in-public-domain">Disney’s Copyright Expiring on Mickey Mouse Film ‘Steamboat Willie,’ Putting His Early Design in Public Domain</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8375</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/motley-crues-nikki-sixx-leaves-home-state-of-california-for-wyoming-a-better-place-to-raise-our-daughter">
+<img data-src="https://images.mixedtimes.com/motley-crues-nikki-sixx-leaves-home-state-of-california-for-wyoming-a-better-place-to-raise-our-daughter-ee381d41ae93bc785e1dd00a076b0ddd/intro" alt="Mötley Crüe’s Nikki Sixx Leaves Home State of California for Wyoming: ‘A Better Place to Raise Our Daughter’" title="Mötley Crüe’s Nikki Sixx Leaves Home State of California for Wyoming: ‘A Better Place to Raise Our Daughter’" />
+<noscript><img src="https://images.mixedtimes.com/motley-crues-nikki-sixx-leaves-home-state-of-california-for-wyoming-a-better-place-to-raise-our-daughter-ee381d41ae93bc785e1dd00a076b0ddd/intro"  alt="Mötley Crüe’s Nikki Sixx Leaves Home State of California for Wyoming: ‘A Better Place to Raise Our Daughter’" title="Mötley Crüe’s Nikki Sixx Leaves Home State of California for Wyoming: ‘A Better Place to Raise Our Daughter’" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/motley-crues-nikki-sixx-leaves-home-state-of-california-for-wyoming-a-better-place-to-raise-our-daughter">Mötley Crüe’s Nikki Sixx Leaves Home State of California for Wyoming: ‘A Better Place to Raise Our Daughter’</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5577</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id16 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/entertainment/mayim-bialik-out-as-jeopardy-host-leftist-jerk-ken-jennings-takes-over">
+<img data-src="https://images.mixedtimes.com/mayim-bialik-out-as-jeopardy-host-leftist-jerk-ken-jennings-takes-over-149661a0282ffa03c68b887f6dae21bf/intro" alt="Mayim Bialik out as ‘Jeopardy!’ Host, Leftist Jerk Ken Jennings Takes Over" title="Mayim Bialik out as ‘Jeopardy!’ Host, Leftist Jerk Ken Jennings Takes Over" />
+<noscript><img src="https://images.mixedtimes.com/mayim-bialik-out-as-jeopardy-host-leftist-jerk-ken-jennings-takes-over-149661a0282ffa03c68b887f6dae21bf/intro"  alt="Mayim Bialik out as ‘Jeopardy!’ Host, Leftist Jerk Ken Jennings Takes Over" title="Mayim Bialik out as ‘Jeopardy!’ Host, Leftist Jerk Ken Jennings Takes Over" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/entertainment/mayim-bialik-out-as-jeopardy-host-leftist-jerk-ken-jennings-takes-over">Mayim Bialik out as ‘Jeopardy!’ Host, Leftist Jerk Ken Jennings Takes Over</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5982</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/entertainment">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id146');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id146 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-opinion"><div class="sp-module-content">
+<div id="raxo-module-id143" class="raxo-allmode-pro raxo-portal mixedtimes-home-opinion">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/opinion">Opinion</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id14 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/opinion/greg-gutfeld-boston-mayor-michelle-wu-is-a-bigot-for-bringing-back-segregation"><img src="https://images.mixedtimes.com/greg-gutfeld-boston-mayor-michelle-wu-is-a-bigot-for-bringing-back-segregation-75d2663757ef50435fe48eaea10cc19a/intro" alt="GREG GUTFELD: Boston Mayor Michelle Wu is a bigot for bringing back segregation" title="GREG GUTFELD: Boston Mayor Michelle Wu is a bigot for bringing back segregation" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/opinion/greg-gutfeld-boston-mayor-michelle-wu-is-a-bigot-for-bringing-back-segregation">GREG GUTFELD: Boston Mayor Michelle Wu is a bigot for bringing back segregation</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 14, 2023</span>
+<span class="raxo-hits">Hits: 4780</span>
+</div>
+<div class="raxo-text">
+'Gutfeld!' panelists react to Boston Mayor Michelle Wu's 'Electeds of Color Holiday Party.' Happy Thursday.&hellip; </div>
+<div class="raxo-readmore"><a href="/opinion/greg-gutfeld-boston-mayor-michelle-wu-is-a-bigot-for-bringing-back-segregation">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id14 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/opinion/the-pronoun-police-have-arrived-and-are-coming-for-you-next"><img src="https://images.mixedtimes.com/the-pronoun-police-have-arrived-and-are-coming-for-you-next-12ca94eec5a83c8dc7e1ae455c2c3c1f/intro" alt="The pronoun police have arrived and are coming for you next" title="The pronoun police have arrived and are coming for you next" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/opinion/the-pronoun-police-have-arrived-and-are-coming-for-you-next">The pronoun police have arrived and are coming for you next</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 14, 2023</span>
+<span class="raxo-hits">Hits: 6379</span>
+</div>
+<div class="raxo-text">
+Cheryl Tuck-Smith and Patsy Levang, who have been members of the organization for 50 years, say they were&hellip; </div>
+<div class="raxo-readmore"><a href="/opinion/the-pronoun-police-have-arrived-and-are-coming-for-you-next">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id14 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/opinion/antisemitism-is-a-horrible-evil-that-we-must-fight"><img src="https://images.mixedtimes.com/antisemitism-is-a-horrible-evil-that-we-must-fight-155c859416bb1f62976defa303dd271e/intro" alt="Antisemitism is a horrible evil that we must fight" title="Antisemitism is a horrible evil that we must fight" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/opinion/antisemitism-is-a-horrible-evil-that-we-must-fight">Antisemitism is a horrible evil that we must fight</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6726</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id14 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/opinion/greg-gutfeld-regressive-progressives-are-looking-to-tear-down-the-fences-of-capitalism-and-law-and-order"><img src="https://images.mixedtimes.com/greg-gutfeld-regressive-progressives-are-looking-to-tear-down-the-fences-of-capitalism-and-law-and-order-a3a2bfcd1f79ccc7e6407dd81b6c3480/intro" alt="GREG GUTFELD: Regressive progressives are looking to tear down the fences of capitalism and law and order" title="GREG GUTFELD: Regressive progressives are looking to tear down the fences of capitalism and law and order" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/opinion/greg-gutfeld-regressive-progressives-are-looking-to-tear-down-the-fences-of-capitalism-and-law-and-order">GREG GUTFELD: Regressive progressives are looking to tear down the fences of capitalism and law and order</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6605</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-block-button"><a href="/opinion">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id143');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id143 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div><div class="sp-module mixedtimes-home-opinion"><div class="sp-module-content">
+<div id="raxo-module-id184" class="raxo-allmode-pro raxo-portal mixedtimes-home-opinion">
+<div class="raxo-container">
+<h3 class="raxo-block-name"><a href="/sports">Sports</a></h3>
+<div class="raxo-top">
+<article class="raxo-item-top raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/sports/bills-josh-allen-perfectly-sums-up-poor-passing-performance-in-teams-dominant-win"><img src="https://images.mixedtimes.com/bills-josh-allen-perfectly-sums-up-poor-passing-performance-in-teams-dominant-win-9d960685a6ed543780b484be99df29ad/intro" alt="Bills' Josh Allen perfectly sums up poor passing performance in team's dominant win" title="Bills' Josh Allen perfectly sums up poor passing performance in team's dominant win" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/sports/bills-josh-allen-perfectly-sums-up-poor-passing-performance-in-teams-dominant-win">Bills' Josh Allen perfectly sums up poor passing performance in team's dominant win</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 2316</span>
+</div>
+<div class="raxo-text">
+The Buffalo Bills romped over the Dallas Cowboys, 31-10, on Sunday evening and stayed afloat in their race to&hellip; </div>
+<div class="raxo-readmore"><a href="/sports/bills-josh-allen-perfectly-sums-up-poor-passing-performance-in-teams-dominant-win">Read More ...</a></div>
+</div>
+</div></article>
+<article class="raxo-item-top raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image"><a href="/sports/ufcs-dana-white-takes-blame-for-sean-strickland-dricus-du-plessis-melee-how-f-ing-stupid-is-that"><img src="https://images.mixedtimes.com/ufcs-dana-white-takes-blame-for-sean-strickland-dricus-du-plessis-melee-how-f-ing-stupid-is-that-520b7ae8dbc211d24d34c096687ec635/intro" alt="UFC's Dana White takes blame for Sean Strickland-Dricus Du Plessis melee: 'How f---ing stupid is that?'" title="UFC's Dana White takes blame for Sean Strickland-Dricus Du Plessis melee: 'How f---ing stupid is that?'" /></a></div>
+<div class="raxo-content">
+<h3 class="raxo-title"><a href="/sports/ufcs-dana-white-takes-blame-for-sean-strickland-dricus-du-plessis-melee-how-f-ing-stupid-is-that">UFC's Dana White takes blame for Sean Strickland-Dricus Du Plessis melee: 'How f---ing stupid is that?'</a></h3>
+<div class="raxo-meta">
+<span class="raxo-date">December 17, 2023</span>
+<span class="raxo-hits">Hits: 3377</span>
+</div>
+<div class="raxo-text">
+UFC President Dana White didn’t mince words Saturday night when he was asked about the melee involving&hellip; </div>
+<div class="raxo-readmore"><a href="/sports/ufcs-dana-white-takes-blame-for-sean-strickland-dricus-du-plessis-melee-how-f-ing-stupid-is-that">Read More ...</a></div>
+</div>
+</div></article>
+</div>
+<div class="raxo-normal">
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-upper"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/matthew-staffords-2-touchdowns-help-rams-to-win-over-commanders"><img src="https://images.mixedtimes.com/matthew-staffords-2-touchdowns-help-rams-to-win-over-commanders-9396f56a9b850952ce91d604bfc9b314/intro" alt="Matthew Stafford's 2 touchdowns help Rams to win over Commanders" title="Matthew Stafford's 2 touchdowns help Rams to win over Commanders" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/matthew-staffords-2-touchdowns-help-rams-to-win-over-commanders">Matthew Stafford's 2 touchdowns help Rams to win over Commanders</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 3964</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/josh-allen-james-cook-come-alive-for-bills-to-beat-cowboys"><img src="https://images.mixedtimes.com/josh-allen-james-cook-come-alive-for-bills-to-beat-cowboys-35586066eee113667db63c5ef8d02591/intro" alt="Josh Allen, James Cook come alive for Bills to beat Cowboys" title="Josh Allen, James Cook come alive for Bills to beat Cowboys" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/josh-allen-james-cook-come-alive-for-bills-to-beat-cowboys">Josh Allen, James Cook come alive for Bills to beat Cowboys</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8801</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/49ers-clinch-nfc-west-title-after-big-day-from-christian-mccaffrey"><img src="https://images.mixedtimes.com/49ers-clinch-nfc-west-title-after-big-day-from-christian-mccaffrey-bc700f8bc03f82560f31ad4bc1b7efe1/intro" alt="49ers clinch NFC West title after big day from Christian McCaffrey" title="49ers clinch NFC West title after big day from Christian McCaffrey" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/49ers-clinch-nfc-west-title-after-big-day-from-christian-mccaffrey">49ers clinch NFC West title after big day from Christian McCaffrey</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 5476</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/nba-g-league-player-girlfriend-accused-of-executing-murder-plan-in-nevada-police-say"><img src="https://images.mixedtimes.com/nba-g-league-player-girlfriend-accused-of-executing-murder-plan-in-nevada-police-say-bb87d186831dce04d264f28164330589/intro" alt="NBA G League player, girlfriend accused of 'executing murder plan' in Nevada, police say" title="NBA G League player, girlfriend accused of 'executing murder plan' in Nevada, police say" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/nba-g-league-player-girlfriend-accused-of-executing-murder-plan-in-nevada-police-say">NBA G League player, girlfriend accused of 'executing murder plan' in Nevada, police say</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 4543</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/patriots-matthew-judon-takes-swipe-at-nfl-officials-treatment-of-patrick-mahomes"><img src="https://images.mixedtimes.com/patriots-matthew-judon-takes-swipe-at-nfl-officials-treatment-of-patrick-mahomes-8fec68af2acf8f1933c2ecb774a0e551/intro" alt="Patriots' Matthew Judon takes swipe at NFL officials' treatment of Patrick Mahomes" title="Patriots' Matthew Judon takes swipe at NFL officials' treatment of Patrick Mahomes" /></a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/patriots-matthew-judon-takes-swipe-at-nfl-officials-treatment-of-patrick-mahomes">Patriots' Matthew Judon takes swipe at NFL officials' treatment of Patrick Mahomes</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7764</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/dolphins-eviscerate-jets-as-zach-wilson-leaves-game-early-with-concussion">
+<img data-src="https://images.mixedtimes.com/dolphins-eviscerate-jets-as-zach-wilson-leaves-game-early-with-concussion-52c2d46c48cd2182fd4ef8d73d167ba0/intro" alt="Dolphins eviscerate Jets as Zach Wilson leaves game early with concussion" title="Dolphins eviscerate Jets as Zach Wilson leaves game early with concussion" />
+<noscript><img src="https://images.mixedtimes.com/dolphins-eviscerate-jets-as-zach-wilson-leaves-game-early-with-concussion-52c2d46c48cd2182fd4ef8d73d167ba0/intro"  alt="Dolphins eviscerate Jets as Zach Wilson leaves game early with concussion" title="Dolphins eviscerate Jets as Zach Wilson leaves game early with concussion" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/dolphins-eviscerate-jets-as-zach-wilson-leaves-game-early-with-concussion">Dolphins eviscerate Jets as Zach Wilson leaves game early with concussion</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7630</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/texans-kick-game-winning-field-goal-to-eliminate-titans-from-playoff-contention">
+<img data-src="https://images.mixedtimes.com/texans-kick-game-winning-field-goal-to-eliminate-titans-from-playoff-contention-967501c79d0f2f4f757d1c9fedb239d2/intro" alt="Texans kick game-winning field goal to eliminate Titans from playoff contention" title="Texans kick game-winning field goal to eliminate Titans from playoff contention" />
+<noscript><img src="https://images.mixedtimes.com/texans-kick-game-winning-field-goal-to-eliminate-titans-from-playoff-contention-967501c79d0f2f4f757d1c9fedb239d2/intro"  alt="Texans kick game-winning field goal to eliminate Titans from playoff contention" title="Texans kick game-winning field goal to eliminate Titans from playoff contention" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/texans-kick-game-winning-field-goal-to-eliminate-titans-from-playoff-contention">Texans kick game-winning field goal to eliminate Titans from playoff contention</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 7972</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/bears-hail-mary-attempt-falls-just-short-as-darnell-mooney-bobbles-ball-drops-pass">
+<img data-src="https://images.mixedtimes.com/bears-hail-mary-attempt-falls-just-short-as-darnell-mooney-bobbles-ball-drops-pass-fd7abe5291056b08ba797666c4b58351/intro" alt="Bears' Hail Mary attempt falls just short as Darnell Mooney bobbles ball, drops pass" title="Bears' Hail Mary attempt falls just short as Darnell Mooney bobbles ball, drops pass" />
+<noscript><img src="https://images.mixedtimes.com/bears-hail-mary-attempt-falls-just-short-as-darnell-mooney-bobbles-ball-drops-pass-fd7abe5291056b08ba797666c4b58351/intro"  alt="Bears' Hail Mary attempt falls just short as Darnell Mooney bobbles ball, drops pass" title="Bears' Hail Mary attempt falls just short as Darnell Mooney bobbles ball, drops pass" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/bears-hail-mary-attempt-falls-just-short-as-darnell-mooney-bobbles-ball-drops-pass">Bears' Hail Mary attempt falls just short as Darnell Mooney bobbles ball, drops pass</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9258</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/bucs-remain-atop-nfc-south-standings-after-beating-packers">
+<img data-src="https://images.mixedtimes.com/bucs-remain-atop-nfc-south-standings-after-beating-packers-c043a7ecae3e521a0e95f15a35c0718d/intro" alt="Bucs remain atop NFC South standings after beating Packers" title="Bucs remain atop NFC South standings after beating Packers" />
+<noscript><img src="https://images.mixedtimes.com/bucs-remain-atop-nfc-south-standings-after-beating-packers-c043a7ecae3e521a0e95f15a35c0718d/intro"  alt="Bucs remain atop NFC South standings after beating Packers" title="Bucs remain atop NFC South standings after beating Packers" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/bucs-remain-atop-nfc-south-standings-after-beating-packers">Bucs remain atop NFC South standings after beating Packers</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 4744</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/chiefs-snap-2-game-losing-streak-with-victory-over-patriots">
+<img data-src="https://images.mixedtimes.com/chiefs-snap-2-game-losing-streak-with-victory-over-patriots-882b41578d767eb179e0443819d4ebde/intro" alt="Chiefs snap 2-game losing streak with victory over Patriots" title="Chiefs snap 2-game losing streak with victory over Patriots" />
+<noscript><img src="https://images.mixedtimes.com/chiefs-snap-2-game-losing-streak-with-victory-over-patriots-882b41578d767eb179e0443819d4ebde/intro"  alt="Chiefs snap 2-game losing streak with victory over Patriots" title="Chiefs snap 2-game losing streak with victory over Patriots" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/chiefs-snap-2-game-losing-streak-with-victory-over-patriots">Chiefs snap 2-game losing streak with victory over Patriots</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1292</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-upper raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/panthers-stun-falcons-in-final-seconds-as-eddy-pineiro-notches-game-winning-field-goal">
+<img data-src="https://images.mixedtimes.com/panthers-stun-falcons-in-final-seconds-as-eddy-pineiro-notches-game-winning-field-goal-834cb3c87ba74412903aae0cf956f65b/intro" alt="Panthers stun Falcons in final seconds as Eddy Pineiro notches game-winning field goal" title="Panthers stun Falcons in final seconds as Eddy Pineiro notches game-winning field goal" />
+<noscript><img src="https://images.mixedtimes.com/panthers-stun-falcons-in-final-seconds-as-eddy-pineiro-notches-game-winning-field-goal-834cb3c87ba74412903aae0cf956f65b/intro"  alt="Panthers stun Falcons in final seconds as Eddy Pineiro notches game-winning field goal" title="Panthers stun Falcons in final seconds as Eddy Pineiro notches game-winning field goal" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/panthers-stun-falcons-in-final-seconds-as-eddy-pineiro-notches-game-winning-field-goal">Panthers stun Falcons in final seconds as Eddy Pineiro notches game-winning field goal</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 9043</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/saints-end-tommy-devitos-giants-honeymoon-in-dominant-win">
+<img data-src="https://images.mixedtimes.com/saints-end-tommy-devitos-giants-honeymoon-in-dominant-win-f594234c3967086fcbe0a99981e49d76/intro" alt="Saints end Tommy DeVito's Giants honeymoon in dominant win" title="Saints end Tommy DeVito's Giants honeymoon in dominant win" />
+<noscript><img src="https://images.mixedtimes.com/saints-end-tommy-devitos-giants-honeymoon-in-dominant-win-f594234c3967086fcbe0a99981e49d76/intro"  alt="Saints end Tommy DeVito's Giants honeymoon in dominant win" title="Saints end Tommy DeVito's Giants honeymoon in dominant win" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/saints-end-tommy-devitos-giants-honeymoon-in-dominant-win">Saints end Tommy DeVito's Giants honeymoon in dominant win</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 6611</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/taylor-swift-irate-as-travis-kelce-falls-during-play-vs-patriots-internet-debates-whether-she-dropped-f-bomb">
+<img data-src="https://images.mixedtimes.com/taylor-swift-irate-as-travis-kelce-falls-during-play-vs-patriots-internet-debates-whether-she-dropped-f-bomb-787b9c76a28c144672a80f9012b433d5/intro" alt="Taylor Swift irate as Travis Kelce falls during play vs Patriots; internet debates whether she dropped F-bomb" title="Taylor Swift irate as Travis Kelce falls during play vs Patriots; internet debates whether she dropped F-bomb" />
+<noscript><img src="https://images.mixedtimes.com/taylor-swift-irate-as-travis-kelce-falls-during-play-vs-patriots-internet-debates-whether-she-dropped-f-bomb-787b9c76a28c144672a80f9012b433d5/intro"  alt="Taylor Swift irate as Travis Kelce falls during play vs Patriots; internet debates whether she dropped F-bomb" title="Taylor Swift irate as Travis Kelce falls during play vs Patriots; internet debates whether she dropped F-bomb" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/taylor-swift-irate-as-travis-kelce-falls-during-play-vs-patriots-internet-debates-whether-she-dropped-f-bomb">Taylor Swift irate as Travis Kelce falls during play vs Patriots; internet debates whether she dropped F-bomb</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 3449</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/ex-ohio-state-star-kyle-mccord-transfers-to-syracuse">
+<img data-src="https://images.mixedtimes.com/ex-ohio-state-star-kyle-mccord-transfers-to-syracuse-c6b199a691dc1796eb534504bb85c2f1/intro" alt="Ex-Ohio State star Kyle McCord transfers to Syracuse" title="Ex-Ohio State star Kyle McCord transfers to Syracuse" />
+<noscript><img src="https://images.mixedtimes.com/ex-ohio-state-star-kyle-mccord-transfers-to-syracuse-c6b199a691dc1796eb534504bb85c2f1/intro"  alt="Ex-Ohio State star Kyle McCord transfers to Syracuse" title="Ex-Ohio State star Kyle McCord transfers to Syracuse" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/ex-ohio-state-star-kyle-mccord-transfers-to-syracuse">Ex-Ohio State star Kyle McCord transfers to Syracuse</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 8813</span>
+</div>
+</div>
+</div></article>
+<article class="raxo-item-nor raxo-category-id19 raxo-featured raxo-item-hide"><div class="raxo-wrap">
+<div class="raxo-image">
+<a href="/sports/youtuber-tries-to-check-into-division-i-college-basketball-game-escorted-out-by-security">
+<img data-src="https://images.mixedtimes.com/youtuber-tries-to-check-into-division-i-college-basketball-game-escorted-out-by-security-182632cc9ac4283b6ff9b9e4d08b93b5/intro" alt="YouTuber tries to check into Division I college basketball game, escorted out by security" title="YouTuber tries to check into Division I college basketball game, escorted out by security" />
+<noscript><img src="https://images.mixedtimes.com/youtuber-tries-to-check-into-division-i-college-basketball-game-escorted-out-by-security-182632cc9ac4283b6ff9b9e4d08b93b5/intro"  alt="YouTuber tries to check into Division I college basketball game, escorted out by security" title="YouTuber tries to check into Division I college basketball game, escorted out by security" /></noscript>
+</a>
+</div>
+<div class="raxo-content">
+<h4 class="raxo-title"><a href="/sports/youtuber-tries-to-check-into-division-i-college-basketball-game-escorted-out-by-security">YouTuber tries to check into Division I college basketball game, escorted out by security</a></h4>
+<div class="raxo-meta">
+<span class="raxo-hits">Hits: 1819</span>
+</div>
+</div>
+</div></article>
+</div>
+<div class="raxo-block-nav">
+<div class="raxo-pagenav"></div>
+<div class="raxo-block-button"><a href="/sports">More...</a></div>
+</div>
+</div>
+<script>
+jQuery(document).ready(function($) {
+	var raxo_module = $('#raxo-module-id184');
+	raxo_module.pajinate({
+		item_container_id: '.raxo-normal',
+		items_per_page: 5,
+		nav_panel_id: '.raxo-pagenav',
+		num_page_links_to_display: 5,
+		nav_label_prev: 'Prev',
+		nav_label_next: 'Next'
+	});
+
+	raxo_module.find('img[data-src]').each(function() {
+		$(this).css('height', $(this).attr('height'));
+	});
+});
+
+// Lazy Loading of Images
+var raxo_thumbnails = lozad('#raxo-module-id184 img');
+raxo_thumbnails.observe();
+</script>
+</div></div></div></div></div><div id="sp-position8" class="col-lg-4 "><div class="sp-column "></div></div></div>
+</div>
+</div>
+</section>
+<section id="sp-main-body">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<main id="sp-component" class="col-lg-12 ">
+<div class="sp-column ">
+<div id="system-message-container" aria-live="polite">
+</div>
+<div class="container-fluid blog-featured">
+</div>
+</div>
+</main>
+</div>
+</div>
+</div>
+</section>
+<footer id="sp-footer" class="dark-bg">
+<div class="container">
+<div class="container-inner">
+<div class="row">
+<div id="sp-footer1" class="col-sm-6 col-lg-6 "><div class="sp-column "><span class="sp-copyright">© 2015-2023 MixedTimes All Rights Reserved.</span></div></div><div id="sp-footer2" class="col-sm-6 col-lg-6 "><div class="sp-column "><ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/MixedTimes" aria-label="Facebook"><span class="fab fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/_MixedTimes" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" style="width: 13.56px;position: relative;top: -1.5px;"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></svg></a></li><li class="social-icon-pinterest"><a target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/mixedtimes/" aria-label="Pinterest"><span class="fab fa-pinterest" aria-hidden="true"></span></a></li><li class="social-icon-youtube"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/MixedTimes" aria-label="Youtube"><span class="fab fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mixedtimes/" aria-label="Instagram"><span class="fab fa-instagram" aria-hidden="true"></span></a></li></ul></div></div></div>
+</div>
+</div>
+</footer> </div>
+</div>
+
+<div class="offcanvas-overlay"></div>
+
+
+
+<div class="offcanvas-menu">
+<div class="d-flex align-items-center p-3 pt-4">
+<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
+<div class="burger-icon">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</a>
+</div>
+<div class="offcanvas-inner">
+<div class="d-flex header-modules mb-3">
+</div>
+<div class="sp-module "><div class="sp-module-content"><ul class="menu nav-pills">
+<li class="item-101 default current active"><a href="/">Home</a></li><li class="item-108"><a href="/politics">Politics</a></li><li class="item-104"><a href="/business">Business</a></li><li class="item-107"><a href="/opinion">Opinion</a></li><li class="item-109"><a href="/technology">Technology</a></li><li class="item-106"><a href="/lifestyle">Lifestyle</a></li><li class="item-105"><a href="/entertainment">Entertainment</a></li><li class="item-110"><a href="/video">Video</a></li></ul>
+</div></div>
+<ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/MixedTimes" aria-label="Facebook"><span class="fab fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/_MixedTimes" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" style="width: 13.56px;position: relative;top: -1.5px;"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></svg></a></li><li class="social-icon-pinterest"><a target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/mixedtimes/" aria-label="Pinterest"><span class="fab fa-pinterest" aria-hidden="true"></span></a></li><li class="social-icon-youtube"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/MixedTimes" aria-label="Youtube"><span class="fab fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mixedtimes/" aria-label="Instagram"><span class="fab fa-instagram" aria-hidden="true"></span></a></li></ul>
+
+</div>
+</div>
+
+<a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
+<noscript class="4SEO_cron">
+    <img aria-hidden="true" alt="" style="position:absolute;bottom:0;left:0;z-index:-99999;" src="https://www.mixedtimes.com/index.php/_wblapi?nolangfilter=1&_wblapi=/forseo/v1/cron/image/" data-pagespeed-no-transform data-speed-no-transform />
+</noscript>
+<script class="4SEO_cron" data-speed-no-transform>setTimeout(function () {
+        var e = document.createElement('img');
+        e.setAttribute('style', 'position:absolute;bottom:0;right:0;z-index:-99999');
+        e.setAttribute('aria-hidden', 'true');
+        e.setAttribute('src', 'https://www.mixedtimes.com/index.php/_wblapi?nolangfilter=1&_wblapi=/forseo/v1/cron/image/' + Math.random().toString().substring(2) + Math.random().toString().substring(2)  + '.svg');
+        document.body.appendChild(e);
+        setTimeout(function () {
+            document.body.removeChild(e)
+        }, 3000)
+    }, 3000);
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8379d148889dd611","b":1,"version":"2023.10.0","token":"4ad035a9a3cf4e2e925aac2707e2d094"}' crossorigin="anonymous"></script>
+</body>
+</html>

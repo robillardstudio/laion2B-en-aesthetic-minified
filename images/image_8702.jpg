@@ -1,0 +1,1705 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="/assets/icons/favicon-16x16.png" sizes="16x16" /><link rel="apple-touch-icon" href="/assets/img/app_icon.png" /><title>
+	Site - Cookies by Design
+</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <!-- Plugins CSS File -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+
+    <!-- Main CSS File -->
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" /><link href="/css/fashion/theme_font.css" rel="stylesheet" /><link rel="stylesheet" href="/css/porto/style.min.css" /><link href="/css/ionicons.min.css" rel="stylesheet" /><link href="/css/porto/simple-line-icons.min.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/assets/vendor/fontawesome-free/css/all.min.css" /><link href="/css/porto/simple-line-icons.min.css" rel="stylesheet" /><link href="/css/fontawesome-free/css/font-awesome-preload.css" rel="stylesheet" /><link href="/css/jquery-ui.min.css" rel="stylesheet" /><link href="/css/footer.css" rel="stylesheet" /><link href="/css/header-min.css" rel="stylesheet" />
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script src="/js/menu.js"></script>
+
+
+    <style>
+        .newsletter-section .sec-ttl h3,
+        .newsletter-section .sec-ttl span {
+            color: #000000;
+        }
+
+        .newsletter__input {
+            border: 0;
+            background-color: #ffffff;
+            color: #000000;
+        }
+
+        .newsletter__submit {
+            font-size: 13px;
+            letter-spacing: 0.5px;
+            border: 0;
+            background-color: #000000;
+            color: #ffffff;
+        }
+
+            .newsletter__submit:hover {
+                opacity: 0.9;
+                border: 0;
+            }
+
+        .sec-ttl .dbi:before {
+            right: calc(100% + 10px);
+        }
+
+        .sec-ttl .dbi:before, .sec-ttl .dbi:after {
+            content: "";
+            display: block;
+            width: 50px;
+            height: 2px;
+            background-color: #ffc6ac;
+            position: absolute;
+            top: 50%;
+        }
+
+        .pr {
+            position: relative;
+        }
+
+        .dbi {
+            display: inline-block;
+        }
+
+        .site-footer {
+            font-size: 13px;
+            color: #fff;
+            background-color: #111;
+            border-top: 1px solid rgba(0,0,0,0);
+        }
+
+        .sec-ttl .dbi:before, .sec-ttl .dbi:after {
+            content: "";
+            display: block;
+            width: 50px;
+            height: 2px;
+            background-color: #ffc6ac;
+            position: absolute;
+            top: 50%;
+        }
+
+        .sec-ttl .dbi:after {
+            left: calc(100% + 10px);
+        }
+
+        .sec-ttl .dbi:before, .sec-ttl .dbi:after {
+            content: "";
+            display: block;
+            width: 50px;
+            height: 2px;
+            background-color: #ffc6ac;
+            position: absolute;
+            top: 50%;
+        }
+
+        .sec-ttl .dbi:after {
+            left: calc(100% + 10px);
+        }
+
+        .sec-ttl .dbi:before, .sec-ttl .dbi:after {
+            content: "";
+            display: block;
+            width: 50px;
+            height: 2px;
+            background-color: #ffc6ac;
+            position: absolute;
+            top: 50%;
+        }
+
+        .newsletter-section .input-group {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .section-cover {
+            padding: 15px 10px;
+        }
+
+        @media only screen and (min-width: 767px) {
+            .section-cover {
+                padding: 25px 0;
+            }
+        }
+
+
+        .ad {
+            font-family: adorn-icons !important;
+            speak: none;
+            font-style: normal;
+            font-weight: 400;
+            font-variant: normal;
+            text-transform: none;
+            line-height: 1;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .ad {
+            font: normal normal normal 16px/1 adorn-icons;
+            speak: none;
+            text-transform: none;
+            display: inline-block;
+            vertical-align: middle;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+
+
+        .faqList {
+            border-radius: 0;
+            border: none;
+            margin-bottom: 12px;
+            box-shadow: none;
+        }
+
+            .faqlist h4 {
+                font-size: 15px;
+                font-weight: 600;
+                background: #CCCCCC;
+                /*background: #EE4388; pink*/
+                /*background: #2A2E30; brand black*/
+                /*background:#f4f4f4; gray*/
+                /*background: #122D47; blue*/
+                color: #000;
+                padding: 10px 15px;
+            }
+
+        .faq-body {
+            border-bottom: 1px solid #eeeeee;
+        }
+
+        .details {
+            display: block;
+        }
+
+        .faq-body .panel-title {
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            padding: 18px 0;
+            margin: 0;
+        }
+
+        .faq-body .panel-info {
+            padding: 0 0 25px;
+            font-size: 14px;
+        }
+    </style>
+<meta name="description" content="Nationwide Cookie Delivery! Send handcrafted gourmet gifts from Cookies by Design. Our cookie bouquets and arrangements are perfect for any holiday, birthday or special occasion.  Same/Next day gift delivery available. Send a cookie gram today!" /><meta name="keywords" content="cookie gift baskets, cookies, cookie bouquet, cookie bouquet delivery, gift baskets, cookies by design, holiday cookies, cookie cake, thank you gifts, cookie favors, unique cookies" /></head>
+<body class="common-home loaded">
+
+    <form method="post" action="./pagenotfound.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE3ODkxMDA3OQ9kFgICAw9kFggCAQ8WAh4EVGV4dAUsMTAlIE9mZiBDaHJpc3RtYXMgR2lmdHMgfCBQcm9tbyBDb2RlOiBDTUFTMTBkAgMPZBYIAgEPFgIeB1Zpc2libGVoZAIDDxYCHwFoZAIFDxYCHwFoZAIHDxYCHwAFATBkAgUPZBYEAgEPFgIfAAUMSnVzdCBGb3IgWW91ZAIDDxYCHgtfIUl0ZW1Db3VudAIFFgoCAQ9kFg4CAQ8WAh4EaHJlZgVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMTQ4FgICAQ8WBB4DYWx0BR5Db25mZXR0aSBhbmQgQ2FuZGxlcyBCcmlnaHQgLSAeCGRhdGEtc3JjBVhodHRwczovL3d3dy5jb29raWVzYnlkZXNpZ24uY29tL2ltYWdlcy9wcm9kdWN0cy81MzAvY29uZmV0dGktYW5kLWNhbmRsZXMtYnJpZ2h0LWExNDguanBnZAIDD2QWAgIBDxYCHwAFCFNhbWUgRGF5ZAIFDxYCHwFoFgICAQ8WAh8AZWQCBw8WAh8BaBYCAgEPFgIfAGVkAgkPFgIfAwVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMTQ4FgICAQ8WAh8ABRtDb25mZXR0aSBhbmQgQ2FuZGxlcyBCcmlnaHRkAgsPFgIfAAUSU3RhcnRpbmcgYXQgJDIxLjk5ZAINDw8WBB4LQ29tbWFuZE5hbWUFAkdvHg9Db21tYW5kQXJndW1lbnQFSC9jYmRtb2R1bGVzL3Byb2R1Y3R0ZW1wbGF0ZXMvYXJyYW5nZW1lbnQvcHJvZHVjdGluZm8uYXNweD9wcm9kdWN0aWQ9QTE0OGRkAgIPZBYOAgEPFgIfAwVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMjQ5FgICAQ8WBB8EBR9CdXR0ZXJmbHkgYW5kIERhaXN5IEJpcnRoZGF5IC0gHwUFWWh0dHBzOi8vd3d3LmNvb2tpZXNieWRlc2lnbi5jb20vaW1hZ2VzL3Byb2R1Y3RzLzUzMC9idXR0ZXJmbHktYW5kLWRhaXN5LWJpcnRoZGF5LWEyNDkuanBnZAIDDxYCHwFoFgICAQ8WAh8AZWQCBQ8WAh8BaBYCAgEPFgIfAGVkAgcPFgIfAWgWAgIBDxYCHwBlZAIJDxYCHwMFSC9jYmRtb2R1bGVzL3Byb2R1Y3R0ZW1wbGF0ZXMvYXJyYW5nZW1lbnQvcHJvZHVjdGluZm8uYXNweD9wcm9kdWN0aWQ9QTI0ORYCAgEPFgIfAAUcQnV0dGVyZmx5IGFuZCBEYWlzeSBCaXJ0aGRheWQCCw8WAh8ABRJTdGFydGluZyBhdCAkMjEuOTlkAg0PDxYEHwYFAkdvHwcFSC9jYmRtb2R1bGVzL3Byb2R1Y3R0ZW1wbGF0ZXMvYXJyYW5nZW1lbnQvcHJvZHVjdGluZm8uYXNweD9wcm9kdWN0aWQ9QTI0OWRkAgMPZBYOAgEPFgIfAwVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMjg0FgICAQ8WBB8EBRVCbG9zc29tcyBvZiBUaGFua3MgLSAfBQVPaHR0cHM6Ly93d3cuY29va2llc2J5ZGVzaWduLmNvbS9pbWFnZXMvcHJvZHVjdHMvNTMwL2Jsb3Nzb21zLW9mLXRoYW5rcy1hMjg0LmpwZ2QCAw8WAh8BaBYCAgEPFgIfAGVkAgUPFgIfAWgWAgIBDxYCHwBlZAIHDxYCHwFoFgICAQ8WAh8AZWQCCQ8WAh8DBUgvY2JkbW9kdWxlcy9wcm9kdWN0dGVtcGxhdGVzL2FycmFuZ2VtZW50L3Byb2R1Y3RpbmZvLmFzcHg/cHJvZHVjdGlkPUEyODQWAgIBDxYCHwAFEkJsb3Nzb21zIG9mIFRoYW5rc2QCCw8WAh8ABRJTdGFydGluZyBhdCAkMjEuOTlkAg0PDxYEHwYFAkdvHwcFSC9jYmRtb2R1bGVzL3Byb2R1Y3R0ZW1wbGF0ZXMvYXJyYW5nZW1lbnQvcHJvZHVjdGluZm8uYXNweD9wcm9kdWN0aWQ9QTI4NGRkAgQPZBYOAgEPFgIfAwVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMTIxFgICAQ8WBB8EBRJTcGVlZHkgUmVjb3ZlcnkgLSAfBQVYaHR0cHM6Ly93d3cuY29va2llc2J5ZGVzaWduLmNvbS9pbWFnZXMvcHJvZHVjdHMvNTMwL0ExMjEtU3BlZWR5LVJlY292ZXJ5LTktY29va2llLVNDLmpwZ2QCAw9kFgICAQ8WAh8ABQhTYW1lIERheWQCBQ8WAh8BaBYCAgEPFgIfAGVkAgcPFgIfAWgWAgIBDxYCHwBlZAIJDxYCHwMFSC9jYmRtb2R1bGVzL3Byb2R1Y3R0ZW1wbGF0ZXMvYXJyYW5nZW1lbnQvcHJvZHVjdGluZm8uYXNweD9wcm9kdWN0aWQ9QTEyMRYCAgEPFgIfAAUPU3BlZWR5IFJlY292ZXJ5ZAILDxYCHwAFElN0YXJ0aW5nIGF0ICQyMS45OWQCDQ8PFgQfBgUCR28fBwVIL2NiZG1vZHVsZXMvcHJvZHVjdHRlbXBsYXRlcy9hcnJhbmdlbWVudC9wcm9kdWN0aW5mby5hc3B4P3Byb2R1Y3RpZD1BMTIxZGQCBQ9kFg4CAQ8WAh8DBUgvY2JkbW9kdWxlcy9wcm9kdWN0dGVtcGxhdGVzL2FycmFuZ2VtZW50L3Byb2R1Y3RpbmZvLmFzcHg/cHJvZHVjdGlkPUE0NjQWAgIBDxYEHwQFE01hZ2ljYWwgVW5pY29ybnMgLSAfBQVNaHR0cHM6Ly93d3cuY29va2llc2J5ZGVzaWduLmNvbS9pbWFnZXMvcHJvZHVjdHMvNTMwL0E0NjQtTWFnaWNhbC1Vbmljb3Jucy5qcGdkAgMPZBYCAgEPFgIfAAUIU2FtZSBEYXlkAgUPFgIfAWgWAgIBDxYCHwBlZAIHDxYCHwFoFgICAQ8WAh8AZWQCCQ8WAh8DBUgvY2JkbW9kdWxlcy9wcm9kdWN0dGVtcGxhdGVzL2FycmFuZ2VtZW50L3Byb2R1Y3RpbmZvLmFzcHg/cHJvZHVjdGlkPUE0NjQWAgIBDxYCHwAFEE1hZ2ljYWwgVW5pY29ybnNkAgsPFgIfAAUSU3RhcnRpbmcgYXQgJDIxLjk5ZAINDw8WBB8GBQJHbx8HBUgvY2JkbW9kdWxlcy9wcm9kdWN0dGVtcGxhdGVzL2FycmFuZ2VtZW50L3Byb2R1Y3RpbmZvLmFzcHg/cHJvZHVjdGlkPUE0NjRkZAIHD2QWBAIFDxYCHwAF/AJQcm9tbzogMTAlIE9mZiBBbnkgQ2hyaXN0bWFzIEdpZnRzLiBNaW5pbXVtIHB1cmNoYXNlICQ1OSBQcm9tbyBDb2RlOiBDTUFTMTAuIEF2YWlsYWJsZSAxMi8xOC8yMy0xMi8yMy8yMy4gUG9tbzogQ29va2llIG9mIHRoZSBtb250aCAtIDE1JSBPRkYgTWluaW11bSBwdXJjaGFzZSAkMjkuOTkuIFByb21vIENvZGU6IENPTURFQzE1LiBFeGNsdWRlcyBjdXN0b20gYW5kIGNvcnBvcmF0ZSBzYWxlcywgbGljZW5zZSBwcm9kdWN0cywgcHJlbWl1bSBjb250YWluZXJzLCBzYWxlIGl0ZW1zLCBwaG90byBjb29raWUgZ2lmdHMsIHRheCwgYW5kIGRlbGl2ZXJ5LiBDYW5ub3QgYmUgY29tYmluZWQgd2l0aCBhbm90aGVyIG9mZmVyLiBPdGhlciByZXN0cmljdGlvbnMgYXBwbHkuIGQCBw8WAh8BaGRkwEyftGhdrdA0sdncvUOB4l9SFE7Q47I2dkPWgGenn7Q=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="510B8B35" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAjGcQqRYO2PfeIyYa5YuiNh+PLwzn+YTTDFyXZUqhvSsrbWHBLrqjeVlGSeAAscaqgQ46BRTkUs/FYnfmH3TxLF9Wjc9hBAmK0v/xn0yoRJMwufCDGXilNDESTpNflGcb1hh7tVmYh/CjZmYU0Yhy9ee4WPVF3jzIBZS9Tq39zKDI+gLQ2IUnEUYT3EdiAJb3Y2m1mtrYIaeTiItH7grO5S" />
+        <div class="top-notice bg-promobar" style="background-color: #ffc9e3;">
+            <div class="container-fluid text-center text-dark">
+                <h5 class="text-dark ls-0 mb-0">
+                    10% Off Christmas Gifts | Promo Code: CMAS10
+
+                </h5>
+            </div>
+
+        </div>
+
+        <div class="wrapper">
+            
+
+<div id="back-top" style="display: none;"></div>
+<div id="header">
+
+    <nav id="top">
+        <div class="container">
+            <div class="box-inner">
+                <ul class="box-top box-top-left pull-left hidden-xs">
+                    <li><a href="/shoplocator.aspx" title="Store Locator"><i class="ion-ios-location-outline icons"></i><span class="hidden-xs">Store Locator</span></a></li>
+                    <li><a href="https://www.cookiesbydesign.ca" title="Canada Franchise" target="_blank"><i class="ion-ios-location-outline"></i><span class="hidden-xs">Canada Delivery</span></a></li>
+
+
+                </ul>
+                <ul class="box-top box-top-right pull-right">
+                    
+
+                   
+
+                    <li><a id="pt-login-link" href="/checkout_login.aspx">Login</a></li>
+
+                    <li id="top-links" class="nav header-dropdown">
+                        <ul class="list-inline">
+                            <li class="dropdown"><a href="/register.aspx" title="My Account" class="dropdown-toggle" data-toggle="dropdown"><i class="ion-android-person icons"></i><span class="hidden-xs">My Account</span> <i class="icon-right ion-ios-arrow-down"></i></a>
+                                <ul class="dropdown-menu dropdown-menu-right pt-account">
+                                    <li><a id="pt-register-link" href="javascript:void(0);" onclick="ptlogin.appendRegisterForm()">Register</a></li>
+  				    <li></li>
+                                    <li></li>
+                                    
+                                    <li></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="scroll-fix">
+        <div class="header-middle">
+            <div class="box-inner">
+                <div class="box-inner-inner">
+                    <div class="col-logo">
+                        <style>
+                            #pt-menu-7666 .pt-menu-bar {
+                                background: #FFFFFF;
+                                color: #253237;
+                                padding: 0px 0px 0px 0px;
+                            }
+
+                            #pt-menu-7666.pt-menu-bar {
+                                background: #FFFFFF;
+                                color: #253237;
+                            }
+
+                            #pt-menu-7666 .ul-top-items .li-top-item .a-top-link {
+                                background: #FFFFFF;
+                                padding: 5px 0px 5px 0px;
+                                color: var(--mobile-menu-title-color);
+                                font-size: 1.3rem;
+                                text-transform: uppercase;
+                                font-weight: 400;
+                            }
+
+                            #pt-menu-7666 .ul-top-items .li-top-item:hover .a-top-link, #pt-menu-7666 .ul-top-items .li-top-item:hover .a-top-link i, #pt-menu-7666 .ul-top-items .li-top-item.active .a-top-link {
+                                /*color: #E81212;*/
+                                color: var(--mobile-menu-title-color);
+                                font-weight: 400;
+                                background: #FFFFFF;
+                            }
+
+                            #pt-menu-7666 .ul-top-items .li-top-item > a > span:after {
+                                background: #ff2f8d;
+                            }
+
+                            #pt-menu-7666 .mega-menu-container {
+                                background: #FFFFFF;
+                                padding: 0px 0px 0px 0px;z-index:100;
+                            }
+
+                                #pt-menu-7666 .mega-menu-container .a-mega-second-link {
+                                    color: #FFFFFF;
+                                    font-size: 1.4rem;
+                                    text-transform: none;
+                                    font-weight: 300;
+                                }
+
+                                    #pt-menu-7666 .mega-menu-container .a-mega-second-link:hover {
+                                        color: #FFFFFF;
+                                        font-weight: 300;
+                                    }
+
+                                #pt-menu-7666 .mega-menu-container .a-mega-third-link {
+                                    color: #FFFFFF;
+                                    font-size: 1.4rem;
+                                    text-transform: none;
+                                    font-weight: 300;
+                                }
+
+                                    #pt-menu-7666 .mega-menu-container .a-mega-third-link:hover {
+                                        color: #FFFFFF;
+                                        font-weight: 300;
+                                    }
+
+                            #pt-menu-7666 .ul-second-items .li-second-items {
+                                background: #FFFFFF;
+                                color: #253237;
+                            }
+
+                                #pt-menu-7666 .ul-second-items .li-second-items:hover, #pt-menu-7666 .ul-second-items .li-second-items.active {
+                                    background: #FFFFFF;
+                                    color: #ff2f8d;
+                                }
+
+                                #pt-menu-7666 .ul-second-items .li-second-items .a-second-link {
+                                    color: var(--mobile-menu-title-color);
+                                    font-size: 1.3rem;
+                                     text-transform: uppercase;
+                                    font-weight: 600;
+                                }
+
+                                    #pt-menu-7666 .ul-second-items .li-second-items .a-second-link:hover, #pt-menu-7666 .ul-second-items .li-second-items:hover .a-second-link, #pt-menu-7666 .ul-second-items .li-second-items.active .a-second-link {
+                                        color: #ff2f8d;
+                                        font-weight: 600;
+                                    }
+
+                            #pt-menu-7666 .ul-third-items .li-third-items {
+                                /*background: #FFFFF;*/
+                                background: #f2f2f2;
+                            }
+
+                                #pt-menu-7666 .ul-third-items .li-third-items:hover, #pt-menu-7666 .ul-third-items .li-third-items.active {
+                                    background: #FFFFFF;
+                                }
+
+                                #pt-menu-7666 .ul-third-items .li-third-items .a-third-link {
+                                    color: #000;
+                                    font-size: 1.3rem;
+                                     text-transform: uppercase;
+                                    font-weight: 400;
+                                }
+
+                                    #pt-menu-7666 .ul-third-items .li-third-items .a-third-link:hover, #pt-menu-7666 .ul-third-items .li-third-items.active .a-third-link {
+                                        color: #ff2f8d;
+                                        font-weight: 400;
+                                    }
+                                    .ion-drag { font-size:64px;}
+                        </style>
+
+                        
+                        <div class="pt-menu mobile-menu hidden-lg" id="pt-menu-7666">
+
+                            <input type="hidden" id="menu-effect-7666" class="menu-effect" value="none">
+                            <div class="pt-menu-bar">
+                                <i class="ion-drag" size="large" aria-label="menu" aria-hidden="true"><span style="
+    height: 19px;
+    line-height: 19px;
+    font-size: 1rem;
+    color: #ff2f8d;
+    position: absolute;
+    top:25px;
+    left: -2px;
+    font-weight: 700;">Menu</span></i>
+                               
+                                <i class="ion-android-close" aria-hidden="true"></i>
+                            </div>
+                            <ul class="ul-top-items" style="display: none;">
+                                <li class="menu-mobile-title">
+                                    <h3>Menu</h3>
+                                </li>
+                                <li class="li-top-item  active">
+                                    <a class="a-top-link a-item" href="/default.aspx">
+                                        <span>Home</span>
+                                    </a>
+                                </li>
+                                <li class="li-top-item"><a class="a-top-link" href="/same-day-delivery-gifts">Same Day Gifts</a></li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="#">
+                                        <span>Shop</span>
+                                    </a>
+                                    <span class="top-click-show a-click-show">
+                                        <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                        <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                    </span>
+
+                                    <div class="sub-menu-container" style="display: none;">
+                                        <ul class="ul-second-items">
+                                            <li class="li-second-items">
+                                                <a href="#" class="a-second-link a-item">
+                                                    <span class="a-second-title">Arrangements</span>
+                                                </a>
+                                                <span class="second-click-show a-click-show">
+                                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                                    <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                                </span>
+                                                <div class="flyout-third-items">
+                                                    <ul class="ul-third-items">
+
+
+                                                        <li class="li-third-items"><a href="/cookie-bouquets" class="a-third-link"><span class="a-third-title">Cookie Bouquets</span></a></li>
+                                                        <li class="li-third-items"><a href="/gourmet-gift-baskets" class="a-third-link"><span class="a-third-title">Cookie Boutrays</span></a>
+                                                        <li class="li-third-items"><a href="/cookie-baskets" class="a-third-link"><span class="a-third-title">Cookie Baskets</span></a></li>
+                                                        <li class="li-third-items"><a href="/build-a-bear-bouquets" class="a-third-link"><span class="a-third-title">Build-A-Bear Bouquets</span></a></li>
+                                                        <li class="li-third-items"><a href="/grand-cookie-bouquet.aspx" class="a-third-link"><span class="a-third-title">Grand Cookie  Bouquets</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="li-second-items"><a href="#" class="a-second-link a-item"><span class="a-second-title">Specialty Gifts</span></a>
+                                                <span class="second-click-show a-click-show">
+                                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                                    <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                                </span>
+                                                <div class="flyout-third-items">
+                                                    <ul class="ul-third-items">
+                                                        <li class="li-third-items"><a href="https://www.cupcakebydesign.com" class="a-third-link"><span class="a-third-title">Cupcake by Design</span></a></li>
+                                                        <li class="li-third-items"><a href="/chocolate-truffles" class="a-third-link"><span class="a-third-title">Chocolate Truffles</span></a></li>
+                                                        <li class="li-third-items"><a href="/sports-gifts" class="a-third-link"><span class="a-third-title">Pro Sports Cookie Gifts</span></a></li>
+                                                        <li class="li-third-items"><a href="/custom-photo-cookies" class="a-third-link"><span class="a-third-title">Custom Photo Cookies</span></a></li>
+                                                        <li class="li-third-items"><a href="/gourmet-brownies" class="a-third-link"><span class="a-third-title">Gourmet Brownies</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="li-second-items">
+                                                <a href="#" class="a-second-link a-item"><span class="a-second-title">Specialty Cookies</span></a>
+                                                <span class="second-click-show a-click-show">
+                                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                                    <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                                </span>
+                                                <div class="flyout-third-items">
+                                                    <ul class="ul-third-items">
+                                                        <li class="li-third-items"><a href="/gourmet-cookies" class="a-third-link"><span class="a-third-title">Gourmet Cookies</span></a></li>
+                                                        <li class="li-third-items"><a href="/cookie-decorating-kit" class="a-third-link"><span class="a-third-title">Decorating Kits</span></a></li>
+                                                        <li class="li-third-items"><a href="/cookie-favors" class="a-third-link"><span class="a-third-title">Cookie Favors</span></a></li>
+                                                        <li class="li-third-items"><a href="/gourmet-cookie-cakes" class="a-third-link"><span class="a-third-title">Cookie Cakes</span></a></li>
+                                                        <li class="li-third-items"><a href="/gourmet-cookie-trays" class="a-third-link"><span class="a-third-title">Cookie Trays</span></a></li>
+                                                        <li class="li-third-items"><a href="/cookie-care-package" class="a-third-link"><span class="a-third-title">Survival Kits</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="li-second-items">
+                                                <a href="#" class="a-second-link a-item"><span class="a-second-title">More Ways to Shop</span></a>
+                                                <span class="second-click-show a-click-show">
+                                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                                    <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                                </span>
+                                                <div class="flyout-third-items">
+                                                    <ul class="ul-third-items">
+                                                        <li class="li-third-items"><a href="/top-cookie-bouquets" class="a-third-link"><span class="a-third-title">Best Sellers</span></a></li>
+                                                        <li class="li-third-items"><a href="/new-cookie-gifts" class="a-third-link"><span class="a-third-title">New Cookie Gifts</span></a></li>
+                                                        <li class="li-third-items"><a href="/inexpensive-gifts" class="a-third-link"><span class="a-third-title">Gifts Under $35</span></a></li>
+                                                        <li class="li-third-items"><a href="/affordable-gifts" class="a-third-link"><span class="a-third-title">Gifts Under $55</span></a></li>
+                                                        <li class="li-third-items"><a href="/custom-gift-baskets" class="a-third-link"><span class="a-third-title">Gifts Under $75</span></a></li>
+                                                        <li class="li-third-items"><a href="/gifts-for-him" class="a-third-link"><span class="a-third-title">Gifts For Him</span></a></li>
+                                                        <li class="li-third-items"><a href="/gifts-for-her" class="a-third-link"><span class="a-third-title">Gifts For Her</span></a></li>
+                                                        <li class="li-third-items"><a href="/gifts-for-kids" class="a-third-link"><span class="a-third-title">Gifts For Kids</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="#"><span>Corporate Gifts</span></a>
+                                    <span class="top-click-show a-click-show">
+                                        <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                        <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                    </span>
+                                    <div class="sub-menu-container" style="display:none;background-color:#f2f2f2;">
+                                        <ul class="ul-third-items">
+                                            <li class="li-third-items"><a href="https://corporategift.cookiesbydesign.com/" class="a-third-link"><span class="a-third-title">Corporate Gift Program</span></a></li>
+                                            <li class="li-third-items"><a href="/corporate-gifts" class="a-third-link"><span class="a-third-title">Corporate Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/logo-cookies.aspx" class="a-third-link"><span class="a-third-title">Logo Cookies</span></a></li>
+                                            <li class="li-third-items"><a href="/faq.aspx" class="a-third-link"><span class="a-third-title">FAQ</span></a></li>
+                                            <li class="li-third-items"><a href="/contactus.aspx" class="a-third-link"><span class="a-third-title">Contact Us</span></a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                </li>
+                                <li class="li-top-item">
+                                    <a class="a-top-link a-item" href="#"><span>Occasions</span></a>
+                                  
+                                    <span class="top-click-show a-click-show">
+                                        <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                        <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                    </span>
+                                    <div class="sub-menu-container" style="display:none;background-color:#f2f2f2;">
+                                        <ul class="ul-third-items">
+                                            <li class="li-third-items"><a href="/occasions/anniversary-gifts" class="a-third-link"><span class="a-third-title">Anniversary Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/pet-gifts" class="a-third-link"><span class="a-third-title">Animal Lovers</span></a></li>
+                                            <li class="li-third-items"><a href="/baby-gifts" class="a-third-link"><span class="a-third-title">Baby Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/birthday-gifts" class="a-third-link"><span class="a-third-title">Birthday Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/corporate-gifts" class="a-third-link"><span class="a-third-title">Corporate Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/congratulation-gifts" class="a-third-link"><span class="a-third-title">Congratulations</span></a></li>
+                                            <li class="li-third-items"><a href="/get-well-gifts" class="a-third-link"><span class="a-third-title">Get Well Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/graduation-gifts" class="a-third-link"><span class="a-third-title">Graduation Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/house-warming-gifts" class="a-third-link"><span class="a-third-title">House Warming</span></a></li>
+                                            <li class="li-third-items"><a href="/just-because-gifts" class="a-third-link"><span class="a-third-title">Just Because</span></a></li>
+                                            <li class="li-third-items"><a href="/retirement-gifts" class="a-third-link"><span class="a-third-title">Retirement</span></a></li>
+                                            <li class="li-third-items"><a href="/sympathy-gifts" class="a-third-link"><span class="a-third-title">Sympathy</span></a></li>
+                                            <li class="li-third-items"><a href="/thank-you-gifts" class="a-third-link"><span class="a-third-title">Thank You</span></a></li>
+                                            <li class="li-third-items"><a href="/wedding-gifts" class="a-third-link"><span class="a-third-title">Wedding</span></a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                </li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="#"><span>Holiday</span></a>
+                                    <span class="top-click-show a-click-show">
+                                        <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                        <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                    </span>
+                                    <div  class="sub-menu-container" style="display:none;background-color:#f2f2f2;">
+                                        <ul class="ul-third-items">
+                                             
+                                                <li class="li-third-items"><a href="/hanukkah-gifts" class="a-third-link"><span class="a-third-title">Hanukkah Gifts</span></a></li>
+					       <li class="li-third-items"><a href="/christmas-gift-baskets" class="a-third-link"><span class="a-third-title">Christmas Gifts</span></a></li>
+					       <li class="li-third-items"><a href="/new-years-gifts" class="a-third-link"><span class="a-third-title">New Years Gifts</span></a></li>
+                                          	
+                                        </ul>
+                                    </div>
+                                    
+                                </li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="#"><span>Seasonal</span></a>
+                                    <span class="top-click-show a-click-show">
+                                        <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                        <i class="ion-ios-arrow-up" aria-hidden="true"></i>
+                                    </span>
+                                    <div class="sub-menu-container" style="display:none;background-color:#f2f2f2;">
+                                        <ul class="ul-third-items">
+                                            <li class="li-third-items"><a href="/fall-gifts" class="a-third-link"><span class="a-third-title">Fall Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/nba-gifts" class="a-third-link"><span class="a-third-title">Basketball Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/nfl-gifts" class="a-third-link"><span class="a-third-title">Football Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/nhl-gifts" class="a-third-link"><span class="a-third-title">Hockey Gifts</span></a></li>
+                                            <li class="li-third-items"><a href="/soccer-gifts" class="a-third-link"><span class="a-third-title">Soccer Gifts</span></a></li>
+                                            
+                                            
+                                        </ul>
+                                    </div>
+                                    
+                                </li>
+                               
+                              
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="/contactus.aspx">
+                                        <span>Customer Service</span>
+                                    </a>
+                                </li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="/shoplocator.aspx">
+                                        <span>Store Locations</span>
+                                    </a>
+                                </li>
+                                <li class="li-top-item ">
+                                    <a class="a-top-link a-item" href="tel:18552665437">
+                                        <span>Call Cookies by Design</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+
+                    </div>
+                    
+                                            <div id="logo" style="margin-right:32px;vertical-align:middle;min-width: 170px;max-width: 120px;">
+                            <a href="/default.aspx/">
+                                <img src="/assets/img/Cookies-by-Design-40th-Logo.png" title="" alt="" class="img-responsive"/></a>
+                        </div>
+
+                    <div class="col-cart">
+                        <div class="inner">
+
+                            <div id="cart" class="btn-group btn-block" >
+                                
+                                <button type="button"  data-loading-text="Loading..." class="btn btn-inverse btn-block btn-lg dropdown-toggle" onClick="window.location.href='/cart.aspx';">
+                                    <span id="cart-total"><span class="txt-count">
+                                        0</span>
+                                    </span>
+                                </button>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-search">
+                    <div id="search-by-category">
+                        <div class="dropdown-toggle search-button" data-toggle="dropdown"></div>
+                        <div class="search-content">
+                            <div class="search-container">
+                                 
+                                    <input type="text" name="search" id="text-search" value="" placeholder="Search for products here ..." class="search__input" dcvalue="">
+                                    <div id="sp-btn-search" class="">
+
+                                        <button type="button" id="btn-search-category" class="btn btn-default btn-lg">
+                                            <span class="hidden-xs">Search for products</span>
+                                        </button>
+                                    </div>
+                              
+                                <input type="hidden" id="ajax-search-enable" value="1">
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <script>
+                      
+
+                        $(document).ready(function () {
+
+                            var input = document.getElementById("text-search");
+                            input.addEventListener("keypress", function (event) {
+                                if (event.keyCode === 13) {
+                                    event.preventDefault();
+                                    document.getElementById("btn-search-category").click();
+                                }
+                            });
+
+
+                            var flag = false;
+                            var ajax_search_enable = $('#ajax-search-enable').val();
+
+                            var current_cate_value = $('ul.cate-items li.selected').data('value');
+                            var current_cate_text = $('ul.cate-items li.selected').html();
+
+                            $('.cate-selected').attr('data-value', current_cate_value);
+                            $('.cate-selected span').html(current_cate_text);
+
+                            $('.hover-cate .text-selected').click(function () {
+                                $(".cate-items").toggle("slow");
+                            });
+
+                            $('.ajax-result-container').hover(
+                                function () {
+                                    flag = true;
+                                },
+                                function () {
+                                    flag = false;
+                                }
+                            );
+
+                            $('.hover-cate').hover(
+                                function () {
+                                    flag = true;
+                                },
+                                function () {
+                                    flag = false;
+                                }
+                            );
+
+                            $('#search-by-category').focusout(function () {
+                                if (flag == true) {
+                                    $('.ajax-result-container').show();
+                                } else {
+                                    $('.ajax-result-container').hide();
+                                }
+                            });
+
+                            $('#search-by-category').focusin(function () {
+                                $('.ajax-result-container').show();
+                            });
+
+                            $("#text-search").on('keypress', function (event) {
+                                var key = e.charCode ? e.charCode : e.keyCode ? e.keyCode : 0;
+                                 if (key == 13) {
+                                    var url = '/search.aspx';
+                                    var text_search = $('#text-search').val();
+                                    if (text_search) {
+                                        url += '?keyword=' + encodeURIComponent(text_search);
+                                    }
+                                    location = url;
+                                }
+                                event.stopPropagation();
+                            });
+
+                         
+                            $('#btn-search-category').click(function () {
+                                var url = '/search.aspx';
+                                 var text_search = $('#text-search').val();
+                                if (text_search) {
+                                    url += '?keyword=' + encodeURIComponent(text_search);
+                                }
+
+
+
+                                location = url;
+                            });
+
+                            if (ajax_search_enable == '1') {
+                                $('#text-search').keyup(function (e) {
+                                    var text_search = $(this).val();
+                                    var cate_search = $('.cate-selected').attr("data-value");
+                                    if (text_search != null && text_search != '') {
+                                        ajaxSearch(text_search, cate_search);
+                                    } else {
+                                        $('.ajax-result-container').html('');
+                                        $('.ajax-loader-container').hide();
+                                    }
+                                });
+
+                                $('ul.cate-items li.item-cate').click(function () {
+                                    var cate_search = $(this).data('value');
+                                    var text_search = $('#text-search').val();
+                                    $('.cate-selected').attr('data-value', cate_search);
+                                    $('.cate-selected span').html($(this).html());
+                                    if (text_search != null && text_search != '') {
+                                        ajaxSearch(text_search, cate_search);
+                                    } else {
+                                        $('.ajax-result-container').html('');
+                                        $('.ajax-loader-container').hide();
+                                    }
+                                    $(".cate-items").hide();
+                                    $('#text-search').focus();
+                                });
+                            }
+
+                            
+
+                        });
+                    </script>
+                </div>
+            </div>
+
+        </div>
+        <div class="header-bottom">
+            <div class="containerx">
+                <div class="container-inner">
+                    <style>
+                        #pt-menu-1165 .pt-menu-bar {
+                            background: #FFFFFF;
+                            color: #FFFFFF;
+                            padding: 0px 0px 0px 0px;
+                        }
+
+                        #pt-menu-1165.pt-menu-bar {
+                            background: #FFFFFF;
+                            color: #FFFFFF;
+                        }
+
+                        #pt-menu-1165 .ul-top-items .li-top-item .a-top-link {
+                            background: #FFFFFF;
+                            padding: 5px 17px 5px 17px;
+                            color: #253237;
+                            font-size: 13px;
+                            text-transform: capitalize;
+                            font-weight: 600;
+                        }
+
+                        #pt-menu-1165 .ul-top-items .li-top-item:hover .a-top-link, #pt-menu-1165 .ul-top-items .li-top-item:hover .a-top-link i, #pt-menu-1165 .ul-top-items .li-top-item.active .a-top-link {
+                            color: #ff2f8d;
+                            font-weight: 700;
+                            background: #FFFFFF;
+                        }
+
+                        #pt-menu-1165 .ul-top-items .li-top-item > a > span:after {
+                            background: #ff2f8d;
+                        }
+
+                        #pt-menu-1165 .mega-menu-container {
+                            background: #FFFFFF;
+                            padding: 12px 30px 30px 30px;z-index:1000;
+                        }
+
+                            #pt-menu-1165 .mega-menu-container .a-mega-second-link {
+                                color: #253237;
+                                font-size: 1.4rem;
+                                text-transform: capitalize;
+                                font-weight: 700;
+                            }
+
+                                #pt-menu-1165 .mega-menu-container .a-mega-second-link:hover {
+                                    color: #ff2f8d;
+                                    font-weight: 700;
+                                }
+
+                            #pt-menu-1165 .mega-menu-container .a-mega-third-link {
+                                color: #888888;
+                                font-size: 1.4rem;
+                                text-transform: capitalize;
+                                font-weight: 400;
+                            }
+
+                                #pt-menu-1165 .mega-menu-container .a-mega-third-link:hover {
+                                    color: #ff2f8d;
+                                    font-weight: 400;
+                                }
+
+                        #pt-menu-1165 .ul-second-items .li-second-items {
+                            background: #FFFFFF;
+                            color: #253237;
+                        }
+
+                            #pt-menu-1165 .ul-second-items .li-second-items:hover, #pt-menu-1165 .ul-second-items .li-second-items.active {
+                                background: #FFFFFF;
+                                color: #ff2f8d;
+                            }
+
+                            #pt-menu-1165 .ul-second-items .li-second-items .a-second-link {
+                                color: #253237;
+                                font-size: 1.4rem;
+                                text-transform: capitalize;
+                                font-weight: 700;
+                            }
+
+                                #pt-menu-1165 .ul-second-items .li-second-items .a-second-link:hover, #pt-menu-1165 .ul-second-items .li-second-items:hover .a-second-link, #pt-menu-1165 .ul-second-items .li-second-items.active .a-second-link {
+                                    color: #ff2f8d;
+                                    font-weight: 700;
+                                }
+
+                        #pt-menu-1165 .ul-third-items .li-third-items {
+                            background: #FFFFFF;
+                        }
+
+                            #pt-menu-1165 .ul-third-items .li-third-items:hover, #pt-menu-1165 .ul-third-items .li-third-items.active {
+                                background: #FFFFFF;
+                            }
+
+                            #pt-menu-1165 .ul-third-items .li-third-items .a-third-link {
+                                color: #888888;
+                                font-size: 1.4rem;
+                                text-transform: capitalize;
+                                font-weight: 400;
+                            }
+
+                                #pt-menu-1165 .ul-third-items .li-third-items .a-third-link:hover, #pt-menu-1165 .ul-third-items .li-third-items.active .a-third-link {
+                                    color: #E81212;
+                                    font-weight: 400;
+                                }
+                    </style>
+                    <div class="pt-menu horizontal-menu pt-menu-bar visible-lg  " id="pt-menu-1165">
+
+                        <input type="hidden" id="menu-effect-1165" class="menu-effect" value="none">
+                        <ul class="ul-top-items">
+                            <li class="li-top-item left  active" style="float: left">
+                                <a class="a-top-link" href="/same-day-delivery-gifts">
+                                    <span>Same Day Gifts</span>
+                                </a>
+                            </li>
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="#">
+                                    <span>Shop</span>
+                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                </a>
+                                <!-- Mega Menu -->
+
+
+                                <div class="mega-menu-container sub-menu-container left" style="width: 1050px; margin-left: -103.516px; display: none;">
+                                    <div class="row">
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3" style="clear: left;">
+                                            <h4><a class="a-mega-second-link" href="#">Arrangements</a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="/cookie-bouquets">Cookie Bouquets</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gourmet-gift-baskets">Cookie Boutrays</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/cookie-baskets">Cookie Baskets</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/build-a-bear-bouquets">Build-a-Bear Bouquets</a></h5>
+                                                <h5><a class="a-mega-third-link" href="#">Grand Cookie Bouquets</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#">Specialty Gifts</a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="https://www.cupcakebydesign.com">Cupcake by Design</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/chocolate-truffles">Chocolate Truffles</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/sports-gifts">Pro Sports Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/custom-photo-cookies">Custom Photo Cookie Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gourmet-brownies">Gourmet Brownies</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#">Specialty Cookies</a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="/gourmet-cookies">Gourmet Cookies</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/cookie-decorating-kit">Decoratoring Kits</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gourmet-cookie-cakes">Cookie Cakes</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/cookie-favors">Cookie Favors</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gourmet-cookie-trays">Cookie Trays</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/cookie-care-package">Survival Kits</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#">More Ways To Shop</a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="/top-cookie-bouquets">Best Sellers</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/new-cookie-gifts">New Cookie Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/inexpensive-gifts">Gifts Under $35</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/affordable-gifts">Gifts Under $55 </a></h5>
+                                                <h5><a class="a-mega-third-link" href="/custom-gift-baskets">Gifts Under $75</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gifts-for-him">Gifts For Him</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gifts-for-her">Gifts For Her</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/gifts-for-kids">Gifts For Kids</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+
+
+                                        <div class="col-md-4 sub-item2-content" data-cols="4" style="clear: left;">
+                                            <div class="pt-block static-bottom-menu">
+                                                <div class="image">
+                                                    <a href="/top-cookie-bouquets">
+                                                        <img src="/assets/img/home/navigation-ads/best-seller-shop-now.png" alt="img1" class="lazy"></a>
+                                                    <a href="/top-cookie-bouquets"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Best Sellers</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-4 sub-item2-content" data-cols="4">
+                                            <div class="pt-block static-bottom-menu">
+                                                <div class="image">
+                                                    <a href="/get-well-gifts">
+                                                        <img src="/assets/img/home/navigation-ads/get-well-soon-shop-now.png" alt="img2" class="lazy"></a>
+                                                    <a href="/get-well-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Gell Well</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-4 sub-item2-content" data-cols="4">
+                                            <div class="pt-block static-bottom-menu">
+                                                <div class="image">
+                                                    <a href="/birthday-gifts">
+                                                        <img src="/assets/img/home/navigation-ads/birthday-shop-now.png" alt="img3" class="lazy"></a>
+                                                    <a href="/birthday-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Birthday Gifts</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <!-- Flyout Menu -->
+                            </li>
+                            
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="#">
+                                    <span>Occasions</span>
+                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                </a>
+                                <!-- Mega Menu -->
+
+                                <!-- Flyout Menu -->
+
+                                <div class="mega-menu-container sub-menu-container left" style="width: 1050px; margin-left: -103.516px; display: none;">
+                                    <div class="row">
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3" style="clear: left;">
+                                            <h4><a class="a-mega-second-link" href="#"></a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="/anniversary-gifts">Anniversary Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/pet-gifts">Animal Lovers</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/baby-gifts">Baby</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/birthday-gifts">Birthday Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/corporate-gifts">Corporate Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/congratulation-gifts">Congratulation Gifts</a></h5>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#"></a></h4>
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="/get-well-gifts">Get Well Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/graduation-gifts">Graduation Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/house-warming-gifts">House Warming</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/just-because-gifts">Just Because</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/retirement-gifts">Retirement</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/thank-you-gifts">Thank You Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/wedding-gifts">Wedding Gifts</a></h5>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="col-md-3 sub-item2-content" data-cols="3">
+
+                                            <div class="image">
+                                                <a href="/baby-gifts">
+                                                    <img src="/assets/img/home/navigation-ads/baby-shop-now.png" alt="img1" class="lazy"></a>
+                                                <a href="/baby-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Baby Gifts</span></a>
+                                            </div>
+
+
+                                        </div>
+                                        <div class="col-md-3 sub-item2-content" data-cols="3">
+
+                                            <div class="image">
+                                                <a href="/wedding-gifts">
+                                                    <img src="/assets/img/home/navigation-ads/wedding-shop-now.png" alt="img1" class="lazy"></a>
+                                                <a href="/wedding-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Wedding Gifts</span></a>
+                                            </div>
+
+
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="#">
+                                    <span>Holidays</span>
+                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                </a>
+                                <!-- Mega Menu -->
+
+                                <!-- Flyout Menu -->
+
+                                <div class="mega-menu-container sub-menu-container left" style="width: 1050px; margin-left: -103.516px; display: none;">
+                                    <div class="row">
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3" style="clear: left;display:none;">
+                                            <h4><a class="a-mega-second-link" href="#">Holiday</a></h4>
+                                            <div class="sub_item3-content">
+                                                 <h5><a class="a-mega-third-link" href="/independence-day-cookies">July 4th</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#">Seasonal</a></h4>
+                                            <div class="sub_item3-content">
+                                                 
+                                                <h5><a class="a-mega-third-link" href="/christmas-gift-baskets">Christmas Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/hanukkah-gifts">Hanukkah Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/new-years-gifts">New Years Gifts</a></h5>
+
+                                                
+                                                <h5><a class="a-mega-third-link" href="/nba-gifts">Basketball Gifts</a></h5>
+                                                
+                                                <h5><a class="a-mega-third-link" href="/nfl-gifts">Football Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/soccer-gifts">Soccer Gifts</a></h5>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="col-md-3 sub-item2-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#"></a></h4>
+                                            <div class="image">
+
+                                                <a href="/christmas-gift-baskets">
+                                                    <img src="/assets/img/home/navigation-ads/Christmas-gifts-shop-now.jpg" alt="img1" class="lazy"></a>
+                                                <a href="/christmas-gift-baskets"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Christmas Gifts</span></a>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-md-3 sub-item2-content" data-cols="3">
+                                            <h4><a class="a-mega-second-link" href="#"></a></h4>
+                                            <div class="image">
+
+                                                <a href="/winter-gifts">
+                                                    <img src="/assets/img/home/navigation-ads/winter-gifts-shop-now.jpg" alt="img1" class="lazy"></a>
+                                                <a href="/winter-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Winter Gifts</span></a>
+                                            </div>
+
+                                        </div>
+
+
+
+
+
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="li-top-item left" style="float: left">
+                                <a class="a-top-link" href="#">
+                                    <span>Corporate Gifts</span>
+                                    <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                </a>
+
+                                <div class="mega-menu-container sub-menu-container left" style="width: 1050px; margin-left: -103.516px; display: none;">
+                                    <div class="row">
+                                        <div class="col-md-3 sub-item2-content sub-item2-category-content" data-cols="3" style="clear: left;">
+                                            <div class="sub_item3-content">
+                                                <h5><a class="a-mega-third-link" href="https://corporategift.cookiesbydesign.com/">Our Corporate Gift Program</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/corporate-gifts">Corporate Gifts</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/logo-cookies.aspx">Logo Cookies</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/ngpfaq.aspx">FAQ</a></h5>
+                                                <h5><a class="a-mega-third-link" href="/ngpcontactus.aspx">Contact Us</a></h5>
+
+
+                                            </div>
+                                        </div>
+                                       <div class="col-md-3 sub-item2-content" data-cols="3">
+
+                                            <div class="image">
+                                                <a href="/logo-cookies.aspx">
+                                                    <img src="/assets/img/home/navigation-ads/corporate-gifts-custom-logo-shop-now.jpg" alt="Corporate Logo Cookie Gifts" class="lazy"></a>
+                                                <a href="/logo-cookies.aspx"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Logo Cookies</span></a>
+                                            </div>
+
+
+                                        </div>
+                                        <div class="col-md-3 sub-item2-content" data-cols="3">
+
+                                            <div class="image">
+                                                <a href="/corporate-gifts">
+                                                    <img src="/assets/img/home/navigation-ads/corporate-custom-gifts-shop-now.jpg" alt="Corporate Custom Gifts" class="lazy"></a>
+                                                <a href="/corporate-gifts"><span style="text-align: center; color: #000; display: block; padding: 5px; margin-top: 3px; border: 1px solid rgba(0, 0, 0, 0.2);">Shop Corporate Gifts</span></a>
+                                            </div>
+
+
+                                        </div>
+
+                                
+                                    </div>
+                                </div>
+
+                                
+
+                            </li>
+                           
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="/top-cookie-bouquets">
+                                    <span>Best Sellers</span>
+                                </a>
+                            </li>
+                            
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="/great-gifts">
+                                    <span>Under $40.00</span>
+                                </a>
+                            </li>
+                             
+                            <li class="li-top-item left " style="float: left">
+                                <a class="a-top-link" href="/franchiseinfo.aspx">
+                                    <span>Own Your Own Franchise</span>
+                                </a>
+                                <!-- Mega Menu -->
+
+
+
+                                <!-- Flyout Menu -->
+                            </li>
+                        </ul>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+
+</div>
+
+
+        </div>
+        <div class="page-wrapper">
+            <div class="main">
+                <div class="container">
+                    <div class="row mt-5">
+                        <div class="col text-center">
+                            
+                            <p class="page-title">SORRY, WE COULDN'T FIND THAT PAGE</p>
+                            <p>But don't worry, we have plenty of delicious cookies available!</p>
+                            <p><a href="/" class="btn btn-dark text-center">Continue shopping <i class="fa fa-arrow-right" aria-hidden="true"></i></a></p>
+                        </div>
+
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col">
+                            <div class="products-section pt-0" style="margin-top: 0px; padding-top: 0px">
+
+                            
+<div class="step-title" style="font-weight:600;text-align:center;">
+    Just For You
+
+</div>
+
+
+
+
+        <div class="row">
+    
+        <div class="col-6 col-sm-4 col-md-3 col-xl-5col">
+            <div class="product-default">
+                <figure class="product-image-container">
+                    <a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A148" id="addextraproducts_dlItems_ImageLink_0" class="product-image">
+                        <img src="/assets/img/loader.png" id="addextraproducts_dlItems_imgProduct1_0" alt="Confetti and Candles Bright - " class="lozad" data-preload="true" data-src="https://www.cookiesbydesign.com/images/products/530/confetti-and-candles-bright-a148.jpg" />
+                    </a>
+
+                    <div class="label-group" style="display: none;">
+                        <div id="addextraproducts_dlItems_divsdbadge_0" class="product-label label-hot">
+                            Same Day
+
+                        </div>
+                        
+                        
+
+                    </div>
+                </figure>
+
+                <div class="product-details">
+
+
+                    <h5 class="product-title"><a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A148" id="addextraproducts_dlItems_ProductLink_0">
+                        Confetti and Candles Bright</a></h5>
+
+                    <!-- End .product-container -->
+
+                    <div class="price-box" style="margin-bottom: .25rem;">
+
+                        <span class="product-price">
+                            Starting at $21.99</span>
+                    </div>
+                    <!-- End .price-box -->
+                    <div class="product-action" style="margin-top: .25rem;">
+                        <a id="addextraproducts_dlItems_btnAddToCart_0" class="btn btn-secondary text-white" title="Add to Cart" href="javascript:__doPostBack(&#39;addextraproducts$dlItems$ctl01$btnAddToCart&#39;,&#39;&#39;)" style="color:#fff;">Add to Cart</a>
+
+                    </div>
+
+                </div>
+                <!-- End .product-details -->
+            </div>
+        </div>
+    
+        <div class="col-6 col-sm-4 col-md-3 col-xl-5col">
+            <div class="product-default">
+                <figure class="product-image-container">
+                    <a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A249" id="addextraproducts_dlItems_ImageLink_1" class="product-image">
+                        <img src="/assets/img/loader.png" id="addextraproducts_dlItems_imgProduct1_1" alt="Butterfly and Daisy Birthday - " class="lozad" data-preload="true" data-src="https://www.cookiesbydesign.com/images/products/530/butterfly-and-daisy-birthday-a249.jpg" />
+                    </a>
+
+                    <div class="label-group" style="display: none;">
+                        
+                        
+                        
+
+                    </div>
+                </figure>
+
+                <div class="product-details">
+
+
+                    <h5 class="product-title"><a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A249" id="addextraproducts_dlItems_ProductLink_1">
+                        Butterfly and Daisy Birthday</a></h5>
+
+                    <!-- End .product-container -->
+
+                    <div class="price-box" style="margin-bottom: .25rem;">
+
+                        <span class="product-price">
+                            Starting at $21.99</span>
+                    </div>
+                    <!-- End .price-box -->
+                    <div class="product-action" style="margin-top: .25rem;">
+                        <a id="addextraproducts_dlItems_btnAddToCart_1" class="btn btn-secondary text-white" title="Add to Cart" href="javascript:__doPostBack(&#39;addextraproducts$dlItems$ctl02$btnAddToCart&#39;,&#39;&#39;)" style="color:#fff;">Add to Cart</a>
+
+                    </div>
+
+                </div>
+                <!-- End .product-details -->
+            </div>
+        </div>
+    
+        <div class="col-6 col-sm-4 col-md-3 col-xl-5col">
+            <div class="product-default">
+                <figure class="product-image-container">
+                    <a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A284" id="addextraproducts_dlItems_ImageLink_2" class="product-image">
+                        <img src="/assets/img/loader.png" id="addextraproducts_dlItems_imgProduct1_2" alt="Blossoms of Thanks - " class="lozad" data-preload="true" data-src="https://www.cookiesbydesign.com/images/products/530/blossoms-of-thanks-a284.jpg" />
+                    </a>
+
+                    <div class="label-group" style="display: none;">
+                        
+                        
+                        
+
+                    </div>
+                </figure>
+
+                <div class="product-details">
+
+
+                    <h5 class="product-title"><a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A284" id="addextraproducts_dlItems_ProductLink_2">
+                        Blossoms of Thanks</a></h5>
+
+                    <!-- End .product-container -->
+
+                    <div class="price-box" style="margin-bottom: .25rem;">
+
+                        <span class="product-price">
+                            Starting at $21.99</span>
+                    </div>
+                    <!-- End .price-box -->
+                    <div class="product-action" style="margin-top: .25rem;">
+                        <a id="addextraproducts_dlItems_btnAddToCart_2" class="btn btn-secondary text-white" title="Add to Cart" href="javascript:__doPostBack(&#39;addextraproducts$dlItems$ctl03$btnAddToCart&#39;,&#39;&#39;)" style="color:#fff;">Add to Cart</a>
+
+                    </div>
+
+                </div>
+                <!-- End .product-details -->
+            </div>
+        </div>
+    
+        <div class="col-6 col-sm-4 col-md-3 col-xl-5col">
+            <div class="product-default">
+                <figure class="product-image-container">
+                    <a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A121" id="addextraproducts_dlItems_ImageLink_3" class="product-image">
+                        <img src="/assets/img/loader.png" id="addextraproducts_dlItems_imgProduct1_3" alt="Speedy Recovery - " class="lozad" data-preload="true" data-src="https://www.cookiesbydesign.com/images/products/530/A121-Speedy-Recovery-9-cookie-SC.jpg" />
+                    </a>
+
+                    <div class="label-group" style="display: none;">
+                        <div id="addextraproducts_dlItems_divsdbadge_3" class="product-label label-hot">
+                            Same Day
+
+                        </div>
+                        
+                        
+
+                    </div>
+                </figure>
+
+                <div class="product-details">
+
+
+                    <h5 class="product-title"><a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A121" id="addextraproducts_dlItems_ProductLink_3">
+                        Speedy Recovery</a></h5>
+
+                    <!-- End .product-container -->
+
+                    <div class="price-box" style="margin-bottom: .25rem;">
+
+                        <span class="product-price">
+                            Starting at $21.99</span>
+                    </div>
+                    <!-- End .price-box -->
+                    <div class="product-action" style="margin-top: .25rem;">
+                        <a id="addextraproducts_dlItems_btnAddToCart_3" class="btn btn-secondary text-white" title="Add to Cart" href="javascript:__doPostBack(&#39;addextraproducts$dlItems$ctl04$btnAddToCart&#39;,&#39;&#39;)" style="color:#fff;">Add to Cart</a>
+
+                    </div>
+
+                </div>
+                <!-- End .product-details -->
+            </div>
+        </div>
+    
+        <div class="col-6 col-sm-4 col-md-3 col-xl-5col">
+            <div class="product-default">
+                <figure class="product-image-container">
+                    <a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A464" id="addextraproducts_dlItems_ImageLink_4" class="product-image">
+                        <img src="/assets/img/loader.png" id="addextraproducts_dlItems_imgProduct1_4" alt="Magical Unicorns - " class="lozad" data-preload="true" data-src="https://www.cookiesbydesign.com/images/products/530/A464-Magical-Unicorns.jpg" />
+                    </a>
+
+                    <div class="label-group" style="display: none;">
+                        <div id="addextraproducts_dlItems_divsdbadge_4" class="product-label label-hot">
+                            Same Day
+
+                        </div>
+                        
+                        
+
+                    </div>
+                </figure>
+
+                <div class="product-details">
+
+
+                    <h5 class="product-title"><a href="/cbdmodules/producttemplates/arrangement/productinfo.aspx?productid=A464" id="addextraproducts_dlItems_ProductLink_4">
+                        Magical Unicorns</a></h5>
+
+                    <!-- End .product-container -->
+
+                    <div class="price-box" style="margin-bottom: .25rem;">
+
+                        <span class="product-price">
+                            Starting at $21.99</span>
+                    </div>
+                    <!-- End .price-box -->
+                    <div class="product-action" style="margin-top: .25rem;">
+                        <a id="addextraproducts_dlItems_btnAddToCart_4" class="btn btn-secondary text-white" title="Add to Cart" href="javascript:__doPostBack(&#39;addextraproducts$dlItems$ctl05$btnAddToCart&#39;,&#39;&#39;)" style="color:#fff;">Add to Cart</a>
+
+                    </div>
+
+                </div>
+                <!-- End .product-details -->
+            </div>
+        </div>
+    
+        </div>
+    
+
+
+                            <!-- End .products-slider -->
+                        </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+<style>
+    .newsletter-section .input-group {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .newsletter-section .sec-ttl h3,
+    .newsletter-section .sec-ttl span {
+        color: #000000;
+    }
+
+    .newsletter__input {
+        border: 0;
+        background-color: #ffffff;
+        color: #000000;
+        height: 45px;
+        border: 1px solid #ccc;
+    }
+
+    .newsletter__submit {
+        font-size: 13px;
+        letter-spacing: 0.5px;
+        border: 0;
+        background-color: #000;
+        color: #fff;
+    }
+
+        .newsletter__submit:hover {
+            opacity: 0.9;
+            border: 0;
+        }
+
+    .newsletter-section .sec-ttl h3,
+    .newsletter-section .sec-ttl span {
+        color: #000000;
+    }
+
+
+    .sec-ttl .dbi:before {
+        right: calc(100% + 10px);
+    }
+
+    .sec-ttl .dbi:before, .sec-ttl .dbi:after {
+        content: "";
+        display: block;
+        width: 50px;
+        height: 2px;
+        background-color: #ff2f8d;
+        position: absolute;
+        top: 50%;
+    }
+
+    .sec-ttl h3 {
+        color: #111111;
+        font-weight: 600;
+    }
+
+    .pr {
+        position: relative;
+    }
+
+    .dbi {
+        display: inline-block;
+    }
+
+    .site-footer {
+        font-size: 12px;
+        color: #111;
+        background-color: #f5f5f5;
+        border-top: 1px solid #eeeeee;
+    }
+
+    .footer-middle {
+        background-color: #f5f5f5;
+        padding: 10px 0;
+        border-top: 1px solid #ccc;
+    }
+
+        .footer-middle li {
+            padding-bottom: 2px;
+        }
+
+    .footer-bottom {
+        color: #fff;
+        background-color: #2A2E30;
+        clear: both;
+        padding: 25px 60px 25px 60px;
+    }
+
+        .footer-bottom .payment-list__item {
+            margin-left: 5px;
+            background-color: #2A2E30;
+            width: 35px;
+            float: right;
+            margin-bottom: 25px;
+        }
+
+    .footer-middle .links ul {
+        padding-left: 2px;
+    }
+
+    .site-footer li {
+        list-style: none;
+        padding-left: 2px;
+        color: #2A2E30;
+        font-size: 11px;
+    }
+</style>
+<input type="hidden" id="ListrakDataHook" value="Footer" />
+
+<footer id="footer" class="site-footer">
+    <div class="newsletter-section  wow fadeIn" >
+        <div class="section-cover">
+
+            <div class="sec-ttl tc" style="text-align: center;">
+                <h3 class="h3 ft2"><span class="dbi pr">Join Our Mailing List</span></h3>
+                <p>Sign up to stay in the loop. Receive updates, access to exclusive deals, and more.</p>
+            </div>
+            <div class="newsletter-form text-center">
+                <input name="footer1$txtEmailAddress" type="text" id="footer1_txtEmailAddress" class="input-group__field newsletter__input" placeholder="Email address" />
+										<input name="footer1$lnkSignUp" type="submit" id="footer1_lnkSignUp" class="btn newsletter__submit" aria-label="Sign Up" title="Email Signup" value="Sign Up" />			
+										
+                 
+            </div>
+
+          
+        </div>
+    </div>
+    
+    <div class="footer-middle">
+        <div class="container">
+            <div class="align-items-center justify-content-center" style="height:100%;">
+                <div class="col-lg-3">
+                    <div class="widget">
+                        <a href="#" class="logo-footer">
+                            <img src="https://www.cookiesbydesign.com/assets/img/cookies-by-design-logo-tagline-header-0621.png" alt="Cookies by Design" width="150" height="150" class="img-responsive lozad"/></a>
+
+                    </div>
+                    <!-- End .widget -->
+                </div>
+               
+                <!-- End .col-lg-3 -->
+                <div class="col-lg-2">
+                    
+                        <h4 class="widget-title">Resources</h4>
+
+                    <ul class="links" style="padding-left:0px;">
+                        
+                        <li><a href="/shoplocator.aspx">Find a Location</a></li>
+                        <li><a href="/deliveryinfo.aspx">Delivery Info</a></li>
+                       <li><a target="_blank" href="https://www.cookiesbydesign.com/franchise/cookiesbydesign-nutritional-information.pdf">Nutrional Information</a></li>
+                        <li><a href="/descriptions.aspx">Product Descriptions</a></li>
+                        <li><a href="/afterpay.aspx">AfterPay Information</a></li>
+                    </ul>
+                    
+
+                </div>
+                <!-- End .col-lg-3 -->
+                <div class="col-lg-2">
+
+                    <h4 class="widget-title">About Us</h4>
+
+                    <ul class="links" style="padding-left:0px;">
+                        <li><a href="/aboutus.aspx">The Company</a></li>
+                        <li><a href="/news.aspx">News &amp; Events</a></li>
+                        <li><a href="/faq.aspx">FAQ</a></li>
+                        <li><a href="/privacy.aspx">Privacy Policy</a></li>
+                        <li><a href="/terms.aspx">Terms Of Service</a></li>
+                        <li><a href="/sitemap.aspx">Site Map</a></li>
+                    </ul>
+
+                </div>
+                <!-- End .col-lg-3 -->
+                <div class="col-lg-2">
+                    <h4 class="widget-title">Information</h4>
+
+                    <ul class="links" style="padding-left:0px;">
+                        <li><a "href="tel:18552665437">1.855.COOKIES (266-5437)</a></li>
+                        <li><a href="/contactus.aspx">Contact Page</a></li>
+                        <li><a href="/myaccount.aspx">My Account</a></li>
+                    </ul>
+
+                </div>
+                <!-- End .col-lg-3 -->
+                <div class="col-lg-3">
+                    <h4 class="widget-title">Stay in Touch</h4>
+
+                    <ul class="links" style="padding-left:0px;">
+                        <li><a href="https://www.facebook.com/CookiesbyDesignHQ" target="_blank" aria-label="Facebook" rel="noreferrer noopener">Facebook&nbsp;<i class="ion-social-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/cookiesbydesign" target="_blank" aria-label="Twitter" rel="noreferrer noopener">Twitter&nbsp;<i class="ion-social-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.pinterest.com/cookiesbydesign/" target="_blank" aria-label="Pinterest" rel="noreferrer noopener">Pinterest&nbsp;<i class="ion-social-pinterest" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/cookiesbydesign/" target="_blank" aria-label="Instagram" rel="noreferrer noopener">Instagram&nbsp;<i class="ion-social-instagram" aria-hidden="true"></i></a></li>
+                    </ul>
+
+                </div>
+
+
+            </div>
+            <!-- End .row -->
+        </div>
+    </div>
+    <div class="footer-bottom">
+
+        <div class="flex page-width">
+            <div class="text-center"><p>Promo: 10% Off Any Christmas Gifts. Minimum purchase $59 Promo Code: CMAS10. Available 12/18/23-12/23/23. Pomo: Cookie of the month - 15% OFF Minimum purchase $29.99. Promo Code: COMDEC15. Excludes custom and corporate sales, license products, premium containers, sale items, photo cookie gifts, tax, and delivery. Cannot be combined with another offer. Other restrictions apply. </p></div> 
+            <div class="text-left small--text-center">© 2023 Cookies by Design. All Rights Reserved.</div>
+            <div class="text-right small--text-center mb-5">
+                
+                <img class="payment-list__item"  src="/assets/icons/payment/american-express.svg" role="img" aria-labelledby="pi-americanexpress" title="American Express" />
+                <img class="payment-list__item"  src="/assets/icons/payment/discover.svg" role="img" aria-labelledby="pi-discover" title="Discover" />
+                <img class="payment-list__item"  src="/assets/icons/payment/master-card.svg" role="img" aria-labelledby="pi-visa" title="Visa" />
+                <img class="payment-list__item"  src="/assets/icons/payment/visa.svg" role="img" aria-labelledby="pi-mastercard" title="Mastercard" />
+                <img class="payment-list__item" src="/assets/icons/payment/paypal.svg" role="img" aria-labelledby="pi-paypal" title="PayPal" />
+                <img class="payment-list__item"  src="/assets/icons/payment/afterpay.svg" role="img" aria-labelledby="pi-afterpay" title="AfterPay" />
+            </div>
+             
+           
+        </div>
+    </div>
+    
+        
+</footer>
+
+
+<script type="text/javascript">
+    adroll_adv_id = "ZRKXBAYV45BAPL5YH2ATN2";
+    adroll_pix_id = "B22FMMV4RRHBZPRFM6RA7P";
+    adroll_version = "2.0";
+
+    (function (w, d, e, o, a) {
+        w.__adroll_loaded = true;
+        w.adroll = w.adroll || [];
+        w.adroll.f = ['setProperties', 'identify', 'track'];
+        var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id
+            + "/roundtrip.js";
+        for (a = 0; a < w.adroll.f.length; a++) {
+            w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function (n) {
+                return function () {
+                    w.adroll.push([n, arguments])
+                }
+            })(w.adroll.f[a])
+        }
+
+        e = d.createElement('script');
+        o = d.getElementsByTagName('script')[0];
+        e.async = 1;
+        e.src = roundtripUrl;
+        o.parentNode.insertBefore(e, o);
+    })(window, document);
+    adroll.track("pageView");
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+        n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1052281054905145');
+    fbq('track', 'PageView');
+</script>
+
+        </div>
+    </form>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+    <script type="text/javascript">
+        const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+        observer.observe();
+    </script>
+</body>
+</html>
