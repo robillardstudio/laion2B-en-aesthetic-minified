@@ -28,13 +28,14 @@ def resize_one(src_path_str):
             im = im.convert("RGB")  # drop alpha / normalize mode for JPEG output
             w, h = im.size
 
-            scale = min(MAX_W / w, MAX_H / h)
-            if not UPSCALE:
-                scale = min(scale, 1.0)
+            if h > MAX_H:
+                scale = min(MAX_W / w, MAX_H / h)
+                if not UPSCALE:
+                    scale = min(scale, 1.0)
 
-            if scale != 1.0:
-                new_size = (max(1, round(w * scale)), max(1, round(h * scale)))
-                im = im.resize(new_size, Image.LANCZOS)
+                if scale != 1.0:
+                    new_size = (max(1, round(w * scale)), max(1, round(h * scale)))
+                    im = im.resize(new_size, Image.LANCZOS)
 
             im.save(dst_path, "JPEG", quality=JPEG_QUALITY)
         return (src_path.name, True, None)
