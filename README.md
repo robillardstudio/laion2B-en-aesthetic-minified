@@ -2,7 +2,9 @@
 
 Gaëtan Robillard, 2023-2026.
 
-This repository, along with the included notebook, offers a method to extract a 10,000-image subset from the LAION-Aesthetics V1 dataset. These selected images are then downloaded and made accessible in the /images folder. The primary goal of this repository is to facilitate access to a manageable subset of images from the renowned LAION dataset for educational purposes and to enable groundbreaking analysis.
+![data-display](data-display.jpg)
+
+This repository, along with the included notebook, provides a method for extracting a 10,000-image subset from the LAION-Aesthetics V1 dataset. The selected images are then downloaded and made available in the `/images` folder. Its primary goal is to give students and researchers access to a manageable portion of the LAION dataset for educational purposes and to support to support research into AI aesthetics and training data composition.
 
 Laion-aesthetic contains 120M aesthetic samples (score > 7). Details at https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md
 
