@@ -8,6 +8,16 @@ This repository, along with the included notebook, provides a method for extract
 
 Laion-aesthetic contains 120M aesthetic samples (score > 7). Details at https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md
 
+## Color Data Sphere
+
+Generative image models are trained on billions of images, yet that data is rarely public or easy to examine. The Color Data Sphere turns that opacity into an exercise in seeing. We start with LAION Aesthetics Minified 10K, a 10,000-image subset drawn from LAION-Aesthetics V1, and we then map those images onto a color sphere, a visual primitive derived from color theory that turns unstructured data into a navigable space for inquiry. Built for the classroom, it gives AI and data design students a hands-on way to see what generative models learn from, and opens new avenues for research in both training data and generative media.
+
+See: https://app.asc-ets.org/color-data-sphere
+
+Students: Department of Design @The Ohio State University, IMAC @Université Gustave Eiffel and RVJV @ESGI Paris.
+
+Technology Stack: interactive web-based application based on Three.js, data sourced from LAION-Aesthetics V1, screened for safety, used for non-commercial education and research.
+
 ## Note on data safety
 
 In 2024, the LAION dataset was re-released as Re-LAION-5B [^1]. The LAION Aesthetics 10K subset we are using dates from 2023, the year before Re-LAION-5B was published to address concerns about suspected harmful content.
