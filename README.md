@@ -18,7 +18,7 @@ Students: Department of Design @The Ohio State University, IMAC @Université Gus
 
 Technology Stack: interactive web-based application based on Three.js, data sourced from LAION-Aesthetics V1, screened for safety, used for non-commercial education and research.
 
-## Note on data safety
+## Note on Data Safety
 
 In 2024, the LAION dataset was re-released as Re-LAION-5B [^1]. The LAION Aesthetics 10K subset we are using dates from 2023, the year before Re-LAION-5B was published to address concerns about suspected harmful content.
 
