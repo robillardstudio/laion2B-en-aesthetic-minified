@@ -22,9 +22,9 @@ Technology Stack: interactive web-based application based on Three.js, data sour
 
 In 2024, the LAION dataset was re-released as Re-LAION-5B [^1]. The LAION Aesthetics 10K subset we are using dates from 2023, the year before Re-LAION-5B was published to address concerns about suspected harmful content.
 
-The Aesthetics dataset from which the 10K subset was derived in 2023 is itself already a filtered dataset from pre 2024 LAION-5B. To ensure complete safety, we screened our 10K subset, manually re-edited it, and updated the image folders accordingly. To reprocess the 10k subset from Re-LAION-5B/Aesthetics V1, download parquet file from huggingface: https://huggingface.co/datasets/laion/laion2B-en-aesthetic and use our `read` method in LAION-Aesthetics V1 Minified 10K.
+To ensure complete safety, we screened our 10K subset from 2023, manually re-edited it, and updated the image folder accordingly. To reprocess the 10k subset from Re-LAION-5B/Aesthetics V1, download parquet file from huggingface: https://huggingface.co/datasets/laion/laion2B-en-aesthetic and use our `read` method in LAION-Aesthetics V1 Minified 10K.
 
-Robillard Studio+Lab is committed to the ethical study of generative AI within a safe environment.
+Robillard Studio & Lab are committed to the ethical study of generative AI within a safe environment.
 
 [^1]: See "Releasing Re-LAION-5B: transparent iteration on LAION-5B with additional safety fixes," LAION, https://laion.ai/blog/relaion-5b/.
 
