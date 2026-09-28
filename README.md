@@ -24,7 +24,7 @@ In 2024, the LAION dataset was re-released as Re-LAION-5B [^1]. The LAION Aesthe
 
 To ensure complete safety, we screened our 10K subset from 2023, manually re-edited it, and updated the image folder accordingly. To reprocess the 10k subset from Re-LAION-5B/Aesthetics V1, download parquet file from huggingface: https://huggingface.co/datasets/laion/laion2B-en-aesthetic and use our `read` method in LAION-Aesthetics V1 Minified 10K.
 
-Robillard Studio & Lab are committed to the ethical study of generative AI within a safe environment.
+Robillard lab is committed to the ethical study of generative AI within a safe environment.
 
 [^1]: See "Releasing Re-LAION-5B: transparent iteration on LAION-5B with additional safety fixes," LAION, https://laion.ai/blog/relaion-5b/.
 
