@@ -1,9 +1,12 @@
 """
-Resize LAION images to 720p.
+Resize LAION images.
 
-Resizes every image in images/ so it fits within a 1280x720 bounding box
-(preserving aspect ratio, no upscaling) and writes the results to
-images_720p/. Originals in images/ are left untouched.
+Resizes every image in images/ so it fits within a bounding box
+(preserving aspect ratio, no upscaling) and writes the results to a
+size-specific output folder. Originals in images/ are left untouched.
+Images already at or below the target height are copied through
+unresized, so the output folder always has the same image list as
+images/.
 """
 
 from pathlib import Path
@@ -12,9 +15,17 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from PIL import Image
 from tqdm import tqdm
 
+# Available resize presets: name -> (max_width, max_height, output_dir)
+PRESETS = {
+    "720p": (1280, 720, "images_720p"),
+    "480p": (854, 480, "images_480p"),
+}
+
+TARGET = "720p"   # change to "480p" to resize to 480p instead
+
 SRC_DIR = Path("images")
-DST_DIR = Path("images_720p")
-MAX_W, MAX_H = 1280, 720   # bounding box for 720p
+MAX_W, MAX_H, DST_DIR = PRESETS[TARGET]
+DST_DIR = Path(DST_DIR)
 UPSCALE = False             # leave smaller images as-is
 JPEG_QUALITY = 90
 
@@ -47,6 +58,7 @@ def main():
     DST_DIR.mkdir(exist_ok=True)
 
     image_paths = sorted(SRC_DIR.glob("*.jpg"))
+    print(f"Resizing to {TARGET} ({MAX_W}x{MAX_H}) -> {DST_DIR}/")
     print(f"Found {len(image_paths)} images in {SRC_DIR}/")
 
     errors = []

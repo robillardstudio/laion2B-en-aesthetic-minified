@@ -16,11 +16,10 @@ Robillard Studio+Lab is committed to the ethical study of generative AI within a
 
 [^1]: See "Releasing Re-LAION-5B: transparent iteration on LAION-5B with additional safety fixes," LAION, https://laion.ai/blog/relaion-5b/.
 
-## Scripts
+## Additional Scripts
 
-- `resize_720p.py` — resizes every image in `images/` to fit within a 1280x720 bounding box (preserving aspect ratio, no upscaling) and writes the results to `images_720p/`. Images already at or below 720p height are copied through unresized, so `images_720p/` always has the same image list as `images/`.
-- `resize_480p.py` — same as above, but resizes to fit within an 854x480 bounding box and writes to `images_480p/`.
-- `analysis.py` — reads images from a chosen folder (`images`, `images_720p`, or `images_480p`, set via `IMAGE_DIR` at the top of the script) and computes per-image stats (dimensions, aspect ratio, and mean/median hue, saturation, value). Results are written to `data/data.csv`.
+- `analysis.py` — reads images from a chosen folder (`images`, ...), set via `IMAGE_DIR` at the top of the script) and computes per-image stats (dimensions, aspect ratio, and mean/median hue, saturation, value). Results are written to `data/data.csv`.
+- `resize.py` — resizes every image in `images/` to fit within a bounding box (preserving aspect ratio, no upscaling) and writes the results to a size-specific output folder (`images_720p/` or `images_480p/`). The target size is set via the `TARGET` variable at the top of the script (`"720p"` for a 1280x720 box, `"480p"` for an 854x480 box). Images already at or below the target height are copied through unresized, so the output folder always has the same image list as `images/`.
 
 ## Folders
 
