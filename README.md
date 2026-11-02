@@ -12,7 +12,7 @@ Laion-aesthetic contains 120M aesthetic samples (score > 7). Details at https://
 
 Generative image models are trained on billions of images, yet that data is rarely public or easy to examine. The Color Data Sphere turns that opacity into an exercise in seeing. We start with LAION Aesthetics Minified 10K, a 10,000-image subset drawn from LAION-Aesthetics V1, and we then map those images onto a color sphere, a visual primitive derived from color theory that turns unstructured data into a navigable space for inquiry. Built for the classroom, it gives AI and data design students a hands-on way to see what generative models learn from, and opens new avenues for research in both training data and generative media.
 
-See: https://app.asc-ets.org/color-data-sphere
+See: https://app.asc-ets.org/color-data-sphere/index.html 
 
 Students: Department of Design @The Ohio State University, IMAC @Université Gustave Eiffel and RVJV @ESGI Paris.
 
