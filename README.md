@@ -2,7 +2,7 @@
 
 Gaëtan Robillard, 2023-2026.
 
-![data-display](datasphere-3.gif)
+![data-display](media/datasphere-3.gif)
 
 This repository, along with the included notebook, provides a method for extracting a 10,000-image subset from the LAION-Aesthetics V1 dataset. The selected images are then downloaded and made available in the `/images` folder. Its primary goal is to give students and researchers access to a manageable portion of the LAION dataset for educational purposes and to support research into AI aesthetics and training data composition.
 
